@@ -4,6 +4,8 @@ title: "7 Beyond the trailer"
 date: 2016-01-11 
 description: "播客"
 tag: 播客 
+ximalayam4aurl: http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3
+lizhimp3url: http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3
 ---   
 
 本期聊预告片

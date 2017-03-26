@@ -4,6 +4,8 @@ title: "4 Gene Roddenberry生平"
 date: 2015-11-22
 description: "播客"
 tag:  播客
+ximalayam4aurl: http://jt.ximalaya.com/wKgDbVZR2UOxUC-IAM9BM7Z8zV8648.m4a?channel=rss&album_id=3135361&track_id=10187558&uid=6418191&jt=http://audio.xmcdn.com/group11/M05/B3/BD/wKgDbVZR2UOxUC-IAM9BM7Z8zV8648.m4a
+lizhimp3url: http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3
 ---   
 
 00:35 关于播客的闲fei聊hua

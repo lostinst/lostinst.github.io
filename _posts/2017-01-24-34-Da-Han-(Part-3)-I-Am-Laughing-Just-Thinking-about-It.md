@@ -4,6 +4,9 @@ title: "34 Da Han (Part 3): I Am Laughing Just Thinking about It"
 date: 2017-01-24
 description: "播客"
 tag: 播客 
+ximalayam4aurl: http://jt.ximalaya.com/wKgJKFiG68KjulIBAqG4V1B0CzE243.m4a?channel=rss&album_id=3135361&track_id=29377922&uid=6418191&jt=http://audio.xmcdn.com/group21/M03/EF/24/wKgJKFiG68KjulIBAqG4V1B0CzE243.m4a
+lizhimp3url: http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3
+
 ---   
 
 Da Han talked about the production stories of the 2nd episode of the &quot;_Star Trek: Axiom&quot;_ fan film, &quot;_Yorktown: A Time to Heal&quot;_, starring George Takei and James Shigeta, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film &quot;_TReK&#39;d&quot;_ and our plans.

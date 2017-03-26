@@ -4,6 +4,8 @@ title: "21 For the Love of 'Leonard Nimoy' 纪录片"
 date: 2016-10-06
 description: "播客"
 tag: 播客 
+ximalayam4aurl: http://jt.ximalaya.com/wKgJLFf17r6xD07GAR8KOXCmkrM067.m4a?channel=rss&album_id=3135361&track_id=22724367&uid=6418191&jt=http://audio.xmcdn.com/group20/M07/57/D5/wKgJLFf17r6xD07GAR8KOXCmkrM067.m4a
+lizhimp3url: http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3
 ---   
 
 Adam Nimoy 拍的纪录片 [For the Love of Spock](http://fortheloveofspock.com/) 的一点回顾。

@@ -4,6 +4,8 @@ title: "33 Da Han (Part 2): You Have to Understand How to Control Doses"
 date: 2017-01-24
 description: "播客"
 tag: 播客 
+ximalayam4aurl: http://jt.ximalaya.com/wKgJNFiG5l-BvYrHAoaVLbnSsKI826.m4a?channel=rss&album_id=3135361&track_id=29377255&uid=6418191&jt=http://audio.xmcdn.com/group23/M09/F0/11/wKgJNFiG5l-BvYrHAoaVLbnSsKI826.m4a
+lizhimp3url: http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3
 ---   
 
 Da Han and I finally had time to finish the interview we started months ago. In this Part 2 we continued the &quot;drug&quot; metaphor and talked about his stories of making one of the earliest fan films of Star Trek, &quot;_The Quadroplastine Incident_&quot;, or, &quot;_Yorktown: In Temporary Command_&quot;, and the episode 2 of this Yorktown series is on next episode of this podcast. Hope you enjoy.
