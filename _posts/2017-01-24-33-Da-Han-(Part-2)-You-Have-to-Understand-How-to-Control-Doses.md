@@ -48,7 +48,7 @@ Other Links:
 * [Hollywood Teen Film Festival - Yorktown: In Temporary Command](https://vimeo.com/102597423)
 * [Yorktown](http://www.yorktownfilm.com/)
 
-##●Feedbacks●
+## ●Feedbacks●
 
 Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies open.
 

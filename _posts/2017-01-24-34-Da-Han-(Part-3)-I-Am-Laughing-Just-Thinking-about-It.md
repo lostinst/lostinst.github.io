@@ -9,11 +9,11 @@ lizhimp3url: http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3
 
 ---   
 
-Da Han talked about the production stories of the 2nd episode of the &quot;_Star Trek: Axiom&quot;_ fan film, &quot;_Yorktown: A Time to Heal&quot;_, starring George Takei and James Shigeta, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film &quot;_TReK&#39;d&quot;_ and our plans.
+Da Han talked about the production stories of the 2nd episode of the &quot;_Star Trek: Axiom&quot;_ fan film, &quot;_Yorktown: A Time to Heal&quot;_, starring **George Takei** and **James Shigeta**, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film &quot;_TReK&#39;d&quot;_ and our plans.
 
 Any help is greatly welcomed. Join our Wechat group or contact us through feedback channels below.
 
-Recorded on 20170111, guest: Da Han, his Wechat: da-han1, host: CrazyEMH(Sid in this interview)
+Recorded on 20170111, guest: Da Han, host: CrazyEMH(Sid in this interview)
 
 ————
 
