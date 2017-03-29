@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /23/
 title: "23 Da Han (Part 1): I need more 'Star Trek drug' "
 date: 2016-10-11
 description: "播客"

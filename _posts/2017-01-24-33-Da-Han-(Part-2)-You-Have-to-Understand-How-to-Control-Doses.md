@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /33/
 title: "33 Da Han (Part 2): You Have to Understand How to Control Doses"
 date: 2017-01-24
 description: "播客"

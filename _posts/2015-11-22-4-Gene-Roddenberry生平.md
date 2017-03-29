@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /4/
 title: "4 Gene Roddenberry生平"
 date: 2015-11-22
 description: "播客"

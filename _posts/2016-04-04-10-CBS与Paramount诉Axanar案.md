@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /10/
 title: "10 CBS与Paramount诉Axanar案"
 date: 2016-04-04
 description: "播客"

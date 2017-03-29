@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /7/
 title: "7 Beyond the trailer"
 date: 2016-01-11 
 description: "播客"

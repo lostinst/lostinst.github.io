@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /SP1/
 title: "SP1 First Contact Day Special"
 date: 2016-04-05
 description: "播客"

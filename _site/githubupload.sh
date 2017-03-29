@@ -2,5 +2,5 @@
 
 git init
 git add .
-git commit -m "same play buttun"
+git commit -m "permalink specified and 404 done"
 git push -u origin master

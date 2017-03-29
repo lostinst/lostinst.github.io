@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /21/
 title: "21 For the Love of 'Leonard Nimoy' 纪录片"
 date: 2016-10-06
 description: "播客"

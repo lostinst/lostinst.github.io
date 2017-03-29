@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /3/
 title: "3 To boldly go where no man has gone before(pilot)"
 date: 2015-10-31
 description: "播客开播"

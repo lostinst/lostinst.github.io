@@ -1,5 +1,6 @@
 ---
 layout: post
+permalink: /34/
 title: "34 Da Han (Part 3): I Am Laughing Just Thinking about It"
 date: 2017-01-24
 description: "播客"
