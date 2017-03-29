@@ -69,7 +69,7 @@ Other links:
 * [Yorktown: A Time to Heal \| Star Trek Expanded Universe](https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjp0KrQ6NfRAhULT7wKHVbQDFAQFggaMAA&amp;url=http%3A%2F%2Fstexpanded.wikia.com%2Fwiki%2FYorktown%3A_A_Time_to_Heal&amp;usg=AFQjCNFQTgW5XJDhXl6JjlrT9lpeMCl74A&amp;sig2=48k_gVyz1bKGLbhpQiy8cw&amp;bvm=bv.144686652,bs.2,d.dGo&amp;cad=rja)
 * [Yorktown: A Time to Heal \| stexpanded.wikia.com](http://stexpanded.wikia.com/wiki/Yorktown:_A_Time_to_Heal)
 
-##●Feedbacks●
+## ●Feedbacks●
 
 Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies open.
 
