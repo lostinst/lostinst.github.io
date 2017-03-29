@@ -2,29 +2,54 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
-      <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
-      </item>
-    {% endfor %}
-  </channel>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+    <channel>
+        <atom:link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright>Copyright 迷于星际迷航团队</copyright>
+        <language>zh-cn</language>
+        <link>{{ site.url }}</link>
+        <title>迷于星际迷航 Lost in Star Trek</title>
+        <itunes:keywords>星际迷航,StarTrek,影评</itunes:keywords>
+        <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+        <itunes:subtitle>迷于星际迷航 Lost in Star Trek</itunes:subtitle>
+        <itunes:summary>星际迷航的中文播客~（也许是中文圈的第一个？） 以星际迷航为主题的自言自语，瞎聊，它的世界观、人设，它的新闻，只要是星际迷航沾边的都可能聊到，不定期更新。 在选类型的时候纠结了一下，涉及到播客定位问题，最后选了“影视”，但我并不打算只聊电影，也不打算只聊电视剧，我还希望聊聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，那句话怎么说的来着，“站在科技与人文的十字路口”，那我希望站在星际迷航、科幻、科技与人文的米字路口。 微博@迷于星际迷航播客，email: subspacesignal@qq.com</itunes:summary>
+        <description>星际迷航的中文播客~（也许是中文圈的第一个？） 以星际迷航为主题的自言自语，瞎聊，它的世界观、人设，它的新闻，只要是星际迷航沾边的都可能聊到，不定期更新。 在选类型的时候纠结了一下，涉及到播客定位问题，最后选了“影视”，但我并不打算只聊电影，也不打算只聊电视剧，我还希望聊聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，那句话怎么说的来着，“站在科技与人文的十字路口”，那我希望站在星际迷航、科幻、科技与人文的米字路口。 微博@迷于星际迷航播客，email: subspacesignal@qq.com</description>
+        <itunes:image href="http://fdfs.xmcdn.com/group8/M0B/94/59/wKgDYVY57ZHBpf8EAAfuhxx1qMk497.jpg"/>
+        
+            
+                <itunes:category text="TV &amp; Film" />
+            
+        
+            
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News" />
+                </itunes:category>
+            
+        
+        <itunes:explicit>yes</itunes:explicit>
+        {% for post in site.posts %}
+	{% if post.layout == 'post' %}
+
+<item>
+    <title>{{ post.title }}</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>{{ post.title }}</itunes:subtitle>
+    <itunes:summary>{{ post.title }}</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="{{post.lizhimp3url}}" type="audio/mp3" length="52916233" />
+    <guid>{{ post.lizhimp3url }}</guid>
+    <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://{{ site.url }}{{post.permalink}}</link>
+    <description>{{ post.content }}</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	{% endif %}
+	{% endfor %}
+
+    </channel>
 </rss>
+

@@ -1,807 +1,2541 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>迷于星际迷航</title>
-    <description>一档适合星际旅行时收听的聊天节目</description>
-    <link>http://trekin.space/</link>
-    <atom:link href="http://trekin.space/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 29 Mar 2017 22:43:29 +0800</pubDate>
-    <lastBuildDate>Wed, 29 Mar 2017 22:43:29 +0800</lastBuildDate>
-    <generator>Jekyll v3.1.1</generator>
-    
-      <item>
-        <title>探索播客这一新世界</title>
-        <description>&lt;h2 id=&quot;section&quot;&gt;什么是播客？怎么听？为什么听？&lt;/h2&gt;
-
-&lt;p&gt;作为好奇宝宝的星际迷航粉，探索未知的领域简直就是咱们的使命啊！不知道什么是播客的那简直不称职。 &lt;strong&gt;已经知道什么是播客的请直接跳到播客推荐的部分。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/podcasts/ios9-podcasts-app-tile.png&quot; alt=&quot;播客&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;iPhone用户会发现手机里有一个蓝色天线形状图标，如上图。这就是播客。 简单来说播客约等于收音机，是收听时间由您自己选择的电台（Time-shifted radio）。小时候大家也许有使用随身听（收音机、mp3设备等）收听广播电台的经历，我记得当时我们本地广播深夜会放一些关于男科的羞羞的东西。&lt;/p&gt;
-
-&lt;p&gt;这个古老的纯音频媒介到了现代，也始终没有死掉，的哥应该是这类东西的最大受众，而且随着互联网的兴起发展出了新的形式——播客。 如果你无聊的时候听音乐，那么你无聊的时候也可以尝试一下播客。&lt;/p&gt;
-
-&lt;p&gt;听播客最主要的平台当然是苹果的&lt;a href=&quot;http://www.apple.com/cn/itunes/podcasts/&quot;&gt;iTunes Podcast&lt;/a&gt;了，国内最近也兴起了一些类似的产品，如&lt;a href=&quot;http://ximalaya.com&quot;&gt;喜马拉雅FM&lt;/a&gt;，&lt;a href=&quot;http://lizhi.fm&quot;&gt;荔枝FM&lt;/a&gt;等。这些平台允许用户录制音频并上传，他们帮你保存mp3文件在他们的网站上，在他们的网页或APP中可以收听到，当然也提供外部链接以供苹果的播客平台收集。苹果的播客平台则是播客的集中地，不仅仅是刚才提到的喜马拉雅和荔枝，其他独立网站也可以向苹果播客平台提交自己的链接，这样苹果的播客平台就汇聚了所有的播客链接，成了一个集散地，当然苹果也有一套自己的推荐和排名算法，供听众们发现好的节目，但是即便如此，很多小众优质的播客却很少上苹果的首页推荐，现在好播客的发现始终还是一个问题，如果想让苹果给你推荐好播客，可以尝试把地区换到英美等国。&lt;/p&gt;
-
-&lt;p&gt;在安卓上当然也有播客应用或播客平台，比如Pocket Casts，Google Play Music等等。大部分播客平台中的内容都会从苹果的平台抓取，所以各家平台其实都一样。Pocket Casts收费，很遗憾由于众所周知的不可抗力，我们很难购买其正版， &lt;a href=&quot;http://www.coolapk.com/apk/au.com.shiftyjelly.pocketcasts&quot;&gt;点击这里&lt;/a&gt;可下载其盗版。给链接是方便之意，不鼓励盗版行为。也不鼓励随便百度一下就下载来用，因为很有可能你下的是篡改过的版本。&lt;/p&gt;
-
-&lt;p&gt;苹果应用商店也有其他更好用的第三方播客客户端，如Castro。Windows Phone上也有自带的播客客户端可用，但是建议你换手机。PC用户可使用iTunes。更多请参考知乎问题「 &lt;a href=&quot;https://www.zhihu.com/question/24667023&quot;&gt;有哪些比较好的播客 app？&lt;/a&gt;」&lt;/p&gt;
-
-&lt;p&gt;为什么要花这么多篇幅介绍这些通用型的播客平台，而不是直接教大家去应用商店下载喜马拉雅或者荔枝的APP，是因为通用型播客客户端（或称泛用性播客客户端）相当于一个RSS订阅器（熟悉诸如已逝的Google Reader等RSS订阅工具来订阅新闻的老一代互联网用户们知道这是个啥），你的自由度更高，拥有更好的体验，不受喜马拉雅和荔枝的摆布，例如，他们可能在页面、播客播放开始前投放广告等等。另外还有更重要的原因，我要推荐的节目，国内的喜马拉雅和荔枝上没有。&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;总之，最推荐的方式是：&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;安卓： pocket cast&lt;/strong&gt;（ &lt;a href=&quot;http://www.coolapk.com/apk/au.com.shiftyjelly.pocketcasts&quot;&gt;&lt;strong&gt;链接&lt;/strong&gt;&lt;/a&gt; ）&lt;strong&gt;；&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;苹果：自带播客客户端或Castro；&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;废话说了这么多，那为什么要听播客？播客相对于视频，可以放松眼睛，适合睡前听。播客不需要很强的注意力，你可以放学、下班路上听，也可以做家务、撸猫、遛狗时听，甚至可以在紧张的轮机室修理时间背着船长boss偷偷听。如果你本身的职务跟Uhura类似，需要接听很多电话，听播客不失为一种假装在上班其实在偷懒的好方法；播客不同于音乐，放松的同时你还能获得一些知识，当然最高效的知识获取方式还是阅读。&lt;/p&gt;
-
-&lt;p&gt;当然听播客你也可以借此怀念当初熄灯后躲在被窝里听收音机的青涩的你。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-1&quot;&gt;星际迷航有关的英文播客推荐&lt;/h2&gt;
-
-&lt;p&gt;好了，看到这里相信你愿意试一试纯音频这一媒介了。以下推荐的播客都是一些 &lt;strong&gt;英文播客&lt;/strong&gt; ，学生党可以用来练练英语听力。英语不过关的同学可以试着使用能变速的客户端以低速收听，毕竟有一些语速还是很快的。低速也听不懂的话，请拉到最下方的中文播客，或者利用下方的中文播客学好英语。&lt;/p&gt;
-
-&lt;h3 id=&quot;engage-the-official-star-trek-podcast&quot;&gt;Engage: The Official Star Trek Podcast&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://staticradio-a.akamaihd.net/images/AB/23/89/08d38ed9-23ab-5189-b88f-6a073bd25df8.jpg&quot; alt=&quot;Engage: The Official Star Trek Podcast&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这是星际迷航的官方播客，刚开播不久，集数较少，很容易跟上，入坑首选。内容是嘉宾对谈，既然是官方播客，能请到的当然也都是大牌，西蒙佩吉，亚当·尼莫伊（老版史波克扮演者之子）等等大牌都上过节目。内容上，有编剧讲超越星辰的拍摄背后的故事，也有请大牌NASA科学家来聊星际迷航对科技界的影响，有单纯粉丝之间的互动和带节奏，也有来自官方的法律顾问出来（狡辩）澄清版权纠纷，更有（稍微有点）不是一般污的Malcom Reed和Trip Tucker扮演者开车。总之这是星际迷航粉丝听播客入门之首选。&lt;/p&gt;
-
-&lt;p&gt;官方的播客，当然是以推广官方产品、官方公关（洗地）为目的，故此播客会加剧忍不住剁手掏钱的病，介意的可跳过，听下面粉丝们制作的播客。&lt;/p&gt;
-
-&lt;h3 id=&quot;mission-log-a-roddenberry-star-trek-podcast&quot;&gt;Mission Log: A Roddenberry Star Trek Podcast&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://static.libsyn.com/p/assets/8/7/e/c/87ecde228ecd7945/MissionLog-AlbumArta.jpg&quot; alt=&quot;Mission Log: A Roddenberry Star Trek Podcast&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这个是我听的第一个播客，当时并不知道Podcast为何物，只是发现有个RSS，RSS我知道啊，不就是Google Reader里面订阅新闻的那种链接么！于是我果断就订阅了，发现内容不是新闻，而是一串mp3文件，于是下好mp3后导入到当时的非智能手机里听。当时英语水平有限，加上播客这个载体不像英语听力对话那样短小精悍信息点集中，当时的听感是，这玩意太容易走神了，也没什么收获，于是弃了。&lt;/p&gt;
-
-&lt;p&gt;这个播客更新到现在，已经200多集了，还不停的有supplemental，有强迫症开始了就必须听完的人请慎入，挑了几期听过，大概就是每集评论一集电视剧或电影，讲讲当时拍摄的背景故事，有时候谈的还是听深入的，挺好玩的，所以最好的收听姿势应该是复习一集然后听这个节目对那集的评论和解读，实乃「行走的Memory Alpha」养成之首选。&lt;/p&gt;
-
-&lt;h3 id=&quot;the-ready-room-a-star-trek-podcast&quot;&gt;The Ready Room: A Star Trek Podcast&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://static.libsyn.com/p/assets/9/c/8/6/9c8607e8e02d2bb0/The-Ready-Room-1400x1400-ITN-2015.jpg&quot; alt=&quot;The Ready Room: A Star Trek Podcast&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这个播客的Artwork设计就吸引了我（如上图）。这不是红衫制服嘛~&lt;/p&gt;
-
-&lt;p&gt;然而，这个播客并没有像普通红衫那样短命，播到现在也有210集了，不过Do not panic，这个播客的新闻属性更强一点，所以你可以随时开始，从最新的开始听，如果哪天闹播客慌了，再去翻翻以前的老节目看有没有自己感兴趣的。&lt;/p&gt;
-
-&lt;p&gt;这个播客是Trek.fm的创建者自己的播客。Trek.fm是一个播客网络，旗下有非常多的听不完的播客，都是跟星际迷航有关，进入 &lt;a href=&quot;http://trek.fm/&quot;&gt;trek.fm&lt;/a&gt;这个网站就可以找到，能做这么一套播客网络的可见财力/人力不一般，质量也有保证，比国内某些播客的质量不知道要高到哪里去了。&lt;/p&gt;
-
-&lt;p&gt;这个播客内容上就是主播之间网络连线（一个主播定居日本）谈一谈最近的新闻。周更，所以如果你经常刷刷Twitter，Facebook上也有关注一些公众主页上的即时新闻的话，也没有必要听这个有些滞后的新闻，不过有时候观看新闻报道不够深入，听听评论也是不错的，这也是了解第一手「 歪果仁怎么看 」的非常好的方式。&lt;/p&gt;
-
-&lt;h3 id=&quot;this-week-in-trek-a-star-trek-podcast&quot;&gt;This Week in Trek: A Star Trek Podcast&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://www.thisweekintrek.com/wp-content/uploads/2015/02/This-Week-in-Trek-New-Logo-New-Lighting_600.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;两个星际迷航粉丝做的节目，每次节目前会谈一谈最近跟星际迷航有关的新闻，后段还有剧集的评论，评论深度欠缺，不过可以帮助回顾剧情。节目中的Star Trek in pop culture这个栏目挺有趣的，可以发现一些广告、新闻、影视等各种流行文化中使用的星际迷航梗，能发现很多以前不知道的东西（特别是对于国内粉），骨灰粉可多多关注。&lt;/p&gt;
-
-&lt;p&gt;顺便说一句，叫This Week in sth. 的播客还真多，质量也都不错。我印象中有This Week in Tech, This Week in Google, This Week in Science, This Week in Startups等等等等，抱歉这些我都没亲自听过，大家可以尝试着搜一搜自己感兴趣的领域。重点推荐This Week at NASA，这是视频节目，每周必看啊，有一种听船员们给你例行汇报工作进度的感觉，视频结束后经常会带入「这周干得不错，解散」的船长幻想。（视频本身用意正是NASA给纳税人汇报工作进度+科普）&lt;/p&gt;
-
-&lt;h3 id=&quot;star-trek-podcast-trekcast&quot;&gt;Star Trek Podcast: Trekcast&lt;/h3&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://img.podbean.com/itunes-logo/63279/logo_normal.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;这个播客前一段时间停播了一段时间，现在还在间断的更新。这是Engage开播前常听的播客，不只是新闻，每期围绕一个话题展开，虽然唠叨了一些，但是也很有料，不管是笑料还是干货。总体感觉比较唠叨琐碎，这也是大部分英文播客的特点，就两个人聊天，这种风格影响了也基本成为了我对播客风格的预设。&lt;/p&gt;
-
-&lt;p&gt;总之，播客是一个比较特殊的媒体，你无法从纯音频媒体中得到非常高深知识，相比于文字、图表、公式，纯音频信息进入大脑的速度太慢，但是，纯音频的东西可以说是人类最早产生的感觉之一，妈妈肚子里的小孩已经能够听到外界的响动，而声音也能给人以陪伴的感觉，就像喜马拉雅上那些个午夜情感电台那样。&lt;/p&gt;
-
-&lt;p&gt;网络降低了制作电台的门槛， 但是其中不乏高质量的节目，相对来说国外播客质量更高，而国内播客质量高的不多（看iTunes中国区首页推荐的质量你就知道了）。很大程度是因为他们有钱。因为特定节目的听众兴趣点都一样所以投放广告非常精准，有财力当然质量高，很可惜国内广告商还没开始意识到这一点。&lt;/p&gt;
-
-&lt;h2 id=&quot;section-2&quot;&gt;与星际迷航有关的中文播客或单集&lt;/h2&gt;
-
-&lt;p&gt;刚才是英文播客的推荐，毕竟即使你能听英文，第一次接触播客这个东西也不一定愿意去听上面推荐的英文播客。我喜欢上听播客时，星际迷航有关的中文播客寥寥无几，但是现在不一样了。除了文末列出的一些与星际迷航不相关但是提到过星际迷航的播客单集外，现在也有两个星际迷航相关的播客，一个叫「 &lt;a href=&quot;https://www.lizhi.fm/1316714/&quot;&gt;迷航英文教室&lt;/a&gt;」，由 &lt;a href=&quot;http://weibo.com/lunaliang1029&quot;&gt;@玖凉豆浆机&lt;/a&gt; 主持，讲解星际迷航中有关的英文。另一个叫「迷于星际迷航播客」，由我（CrazyEMH）和深思、小猪主持，与星际迷航有关的聊天节目，偶尔有幸也能采访到一些其他的同好。&lt;/p&gt;
-
-&lt;p&gt;输入播客名称，前者可在 荔枝 搜索到，后者iTunes Podcasts等泛用性播客客户端/荔枝/喜马拉雅 均可搜到，本站trekin.space也可在线收听。&lt;/p&gt;
-
-&lt;p&gt;星际迷航相关的中文播客少之又少，而去美区podcasts页面，Star Trek这个分类甚至可以占一整页。所以在此鼓励大家加入播客制作的行列来，播客虽媒介不同，但其实它跟写文章、发视频一样，都是粉丝出于对某系列的爱好花费心思有感而发的产物。&lt;/p&gt;
-
-&lt;p&gt;星际迷航的活力在于， 海纳百川，不停的有粉丝社群生产出内容为其续命，播客是其形式之一。&lt;/p&gt;
-
-&lt;p&gt;五十而知天命，我们的任务将仍然是：&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;To explore strange new worlds, to seek out new life and new civilizations, to boldly go where no man has gone before.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;————&lt;/p&gt;
-
-&lt;p&gt;附星际迷航相关的中文播客单集列表&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《听中国新闻周刊》2016年8月31日播出的「特稿《星际迷航》50年 第一集/第二集 」&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;典型的星际迷航外行、媒体内行做的节目，但是总结的还不错，可以把这一集安利给新人。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《反派影评》2016年9月4日播出的「021《星际迷航：超越星辰》（7分）：生生不息·繁荣昌盛」&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;对新电影的评价非常到位，主播是电影圈人士，观点鲜明老练，这个播客的其他单集也非常不错。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《震荡波| 电影配乐聆听指南》2016年9月3日播出的「震荡波 No.16 《星际迷航》新音乐差距有这……么大」&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这几个国内节目中最推荐的播客，谈的是电影配乐，主播非常专业，会分析哪一段是谁的主题以及动机之间的关系，特别是（抄袭 ）传承关系，喜欢电影配乐的不能错过。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《黑水公园》2016年9月4日播出的「《星际迷航3》大航海时代的精神延续」&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;跟反派影评一样，这是一个聊电影的播客，作为非粉丝，这一集虽然有点小错误（谁也不能在各个方面都很了解），但是这点错误不影响其整体质量，这个播客的其他节目也都不错，聊的都是科幻、魔幻等宅（流行）文化。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《科学脱口秀》2013年8月29日播出的「科脱在别处NO.6STEED-星际迷航」&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这一期是传统广播电台的节目，是主持人对科普工作者的采访。这个播客由于音质原因处在我的取关的边缘，大家可以试试看能不能够忍受大笑声，有点干货，想听，音质太差，又不想听，这种感觉很难受，谢天谢地他们停播了，中文科普播客节目，更推荐的是《原来是这样？！》。&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;《魔都电台》&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;星战粉做的播客，非常好。聊得还包括魔戒、漫威等其他宅人话题。印象中他们真的提到过星际迷航，只不过真的找不到是哪一期了。星际迷航&amp;amp;星球大战双料粉丝走过路过不要错过。&lt;/p&gt;
-</description>
-        <pubDate>Wed, 29 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/explore_podcast/</link>
-        <guid isPermaLink="true">http://trekin.space/explore_podcast/</guid>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+    <channel>
+        <atom:link href="http://trekin.space/feed.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright>Copyright 迷于星际迷航团队</copyright>
+        <language>zh-cn</language>
+        <link>http://trekin.space</link>
+        <title>迷于星际迷航 Lost in Star Trek</title>
+        <itunes:keywords>星际迷航,StarTrek,影评</itunes:keywords>
+        <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+        <itunes:subtitle>迷于星际迷航 Lost in Star Trek</itunes:subtitle>
+        <itunes:summary>星际迷航的中文播客~（也许是中文圈的第一个？） 以星际迷航为主题的自言自语，瞎聊，它的世界观、人设，它的新闻，只要是星际迷航沾边的都可能聊到，不定期更新。 在选类型的时候纠结了一下，涉及到播客定位问题，最后选了“影视”，但我并不打算只聊电影，也不打算只聊电视剧，我还希望聊聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，那句话怎么说的来着，“站在科技与人文的十字路口”，那我希望站在星际迷航、科幻、科技与人文的米字路口。 微博@迷于星际迷航播客，email: subspacesignal@qq.com</itunes:summary>
+        <description>星际迷航的中文播客~（也许是中文圈的第一个？） 以星际迷航为主题的自言自语，瞎聊，它的世界观、人设，它的新闻，只要是星际迷航沾边的都可能聊到，不定期更新。 在选类型的时候纠结了一下，涉及到播客定位问题，最后选了“影视”，但我并不打算只聊电影，也不打算只聊电视剧，我还希望聊聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，那句话怎么说的来着，“站在科技与人文的十字路口”，那我希望站在星际迷航、科幻、科技与人文的米字路口。 微博@迷于星际迷航播客，email: subspacesignal@qq.com</description>
+        <itunes:image href="http://fdfs.xmcdn.com/group8/M0B/94/59/wKgDYVY57ZHBpf8EAAfuhxx1qMk497.jpg"/>
         
-        <category>文章</category>
+            
+                <itunes:category text="TV &amp; Film" />
+            
         
+            
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News" />
+                </itunes:category>
+            
         
-      </item>
-    
-      <item>
-        <title>36 HoloLens 与全息甲板之间差了多少个复制机</title>
-        <description>&lt;p&gt;简单聊下VR、AR和全息甲板。&lt;/p&gt;
+        <itunes:explicit>yes</itunes:explicit>
+        
+	
+	
+	
 
-&lt;p&gt;玖涼在后段消失了，抱歉，虽然她的电台最近也开播了，成为我们的友（敌）台，但真不是我们想封杀她，消失的原因仅仅是三录仪故障。她的播客叫「星际迷航英文教室」，欢迎前往荔枝FM订阅。&lt;/p&gt;
+<item>
+    <title>36 HoloLens 与全息甲板之间差了多少个复制机</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>36 HoloLens 与全息甲板之间差了多少个复制机</itunes:subtitle>
+    <itunes:summary>36 HoloLens 与全息甲板之间差了多少个复制机</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3</guid>
+    <pubDate>Fri, 03 Mar 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/36/</link>
+    <description><p>简单聊下VR、AR和全息甲板。</p>
 
-&lt;p&gt;本期节目录制于20170219，嘉宾：玖凉豆浆机，主播：小猪|深思|CrazyEMH&lt;/p&gt;
+<p>玖涼在后段消失了，抱歉，虽然她的电台最近也开播了，成为我们的友（敌）台，但真不是我们想封杀她，消失的原因仅仅是三录仪故障。她的播客叫「星际迷航英文教室」，欢迎前往荔枝FM订阅。</p>
 
-&lt;p&gt;————&lt;/p&gt;
+<p>本期节目录制于20170219，嘉宾：玖凉豆浆机，主播：小猪|深思|CrazyEMH</p>
 
-&lt;p&gt;3:47 &lt;a href=&quot;http://www.bilibili.com/video/av8552697/&quot;&gt;刀剑神域中的AR片段&lt;/a&gt;&lt;/p&gt;
+<p>————</p>
 
-&lt;p&gt;29:18  &lt;a href=&quot;http://news.nationalgeographic.com/2015/09/150901-isis-destruction-looting-ancient-sites-iraq-syria-archaeology/?winzoom=1&quot;&gt;Here Are the Ancient Sites ISIS Has Damaged and Destroyed&lt;/a&gt;&lt;/p&gt;
+<p>3:47 <a href="http://www.bilibili.com/video/av8552697/">刀剑神域中的AR片段</a></p>
 
-&lt;p&gt;32:52 星联英语补习班&lt;/p&gt;
+<p>29:18  <a href="http://news.nationalgeographic.com/2015/09/150901-isis-destruction-looting-ancient-sites-iraq-syria-archaeology/?winzoom=1">Here Are the Ancient Sites ISIS Has Damaged and Destroyed</a></p>
 
-&lt;ul&gt;
-  &lt;li&gt;Hologram&lt;/li&gt;
-  &lt;li&gt;Data
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://en.wiktionary.org/wiki/data#Pronunciation&quot;&gt;Data的几种读法&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://www.cbs.com/shows/star-trek-discovery/news/1006355/how-patrick-stewart-changed-the-way-we-say-data-/&quot;&gt;How Patrick Stewart Changed The Way We Say &#39;Data&#39;&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>32:52 星联英语补习班</p>
 
-&lt;p&gt;33:40 星舰学院入学考场&lt;/p&gt;
+<ul>
+  <li>Hologram</li>
+  <li>Data
+    <ul>
+      <li><a href="https://en.wiktionary.org/wiki/data#Pronunciation">Data的几种读法</a></li>
+      <li><a href="http://www.cbs.com/shows/star-trek-discovery/news/1006355/how-patrick-stewart-changed-the-way-we-say-data-/">How Patrick Stewart Changed The Way We Say 'Data'</a></li>
+    </ul>
+  </li>
+</ul>
 
-&lt;ul&gt;
-  &lt;li&gt;NASA 现主管 &lt;a href=&quot;https://en.wikipedia.org/wiki/Charles_Bolden&quot;&gt;Charles Bolden&lt;/a&gt; 的招聘者是 Nichelle Nichols&lt;/li&gt;
-  &lt;li&gt;育碧 Star Trek: Bridge Crew&lt;/li&gt;
-&lt;/ul&gt;
+<p>33:40 星舰学院入学考场</p>
 
-&lt;h2 id=&quot;section&quot;&gt;●本台反馈●&lt;/h2&gt;
+<ul>
+  <li>NASA 现主管 <a href="https://en.wikipedia.org/wiki/Charles_Bolden">Charles Bolden</a> 的招聘者是 Nichelle Nichols</li>
+  <li>育碧 Star Trek: Bridge Crew</li>
+</ul>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<h2 id="section">●本台反馈●</h2>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 
 </description>
-        <pubDate>Fri, 03 Mar 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/36/</link>
-        <guid isPermaLink="true">http://trekin.space/36/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>35 神奇外星人在哪里</title>
-        <description>&lt;p&gt;星际迷航迷人的一点在于里面有非常多神奇的外星人，以后再有人说科幻里面所有外星人要么长的跟人一样，要么智力、能力和社会结构跟人一样，就甩给他这些外星人。本期是奇怪的外星人的不完整总结，更多的 strange new life forms and new civilizations 等着您去探索。&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;节目最后安利一下友台：由玖涼主持的「星际迷航英文教室」播客，欢迎前往荔枝FM订阅。&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;本期节目录制于20170205，主播：深思|CrazyEMH&lt;/p&gt;
+<item>
+    <title>35 神奇外星人在哪里</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>35 神奇外星人在哪里</itunes:subtitle>
+    <itunes:summary>35 神奇外星人在哪里</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3</guid>
+    <pubDate>Sat, 18 Feb 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/35/</link>
+    <description><p>星际迷航迷人的一点在于里面有非常多神奇的外星人，以后再有人说科幻里面所有外星人要么长的跟人一样，要么智力、能力和社会结构跟人一样，就甩给他这些外星人。本期是奇怪的外星人的不完整总结，更多的 strange new life forms and new civilizations 等着您去探索。</p>
 
-&lt;p&gt;————&lt;/p&gt;
+<p>节目最后安利一下友台：由玖涼主持的「星际迷航英文教室」播客，欢迎前往荔枝FM订阅。</p>
 
-&lt;p&gt;星联英语补习班 Treklish class&lt;/p&gt;
+<p>本期节目录制于20170205，主播：深思|CrazyEMH</p>
 
-&lt;ul&gt;
-  &lt;li&gt;anomaly 异象
-    &lt;ul&gt;
-      &lt;li&gt;normal:正常地&lt;/li&gt;
-      &lt;li&gt;a-表否定意义的前缀
-        &lt;ul&gt;
-          &lt;li&gt;asexual 无性的, 无性生殖的&lt;/li&gt;
-          &lt;li&gt;acentric 无中心的，离心的&lt;/li&gt;
-          &lt;li&gt;asocial 不好社交的，缺乏社交性的，自我中心的，自私的&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+<p>————</p>
 
-&lt;p&gt;7:00 星舰学院入学考场&lt;/p&gt;
+<p>星联英语补习班 Treklish class</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Keenser 的种族是什么？答案：Roylan&lt;/li&gt;
-  &lt;li&gt;瓦肯心灵融合的传输带宽是多少？&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>anomaly 异象
+    <ul>
+      <li>normal:正常地</li>
+      <li>a-表否定意义的前缀
+        <ul>
+          <li>asexual 无性的, 无性生殖的</li>
+          <li>acentric 无中心的，离心的</li>
+          <li>asocial 不好社交的，缺乏社交性的，自我中心的，自私的</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
 
-&lt;p&gt;18:03 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Deltan&quot;&gt;Deltan&lt;/a&gt;&lt;/p&gt;
+<p>7:00 星舰学院入学考场</p>
 
-&lt;p&gt;19:39 费洛蒙&lt;/p&gt;
+<ul>
+  <li>Keenser 的种族是什么？答案：Roylan</li>
+  <li>瓦肯心灵融合的传输带宽是多少？</li>
+</ul>
 
-&lt;p&gt;20:00 Horta,  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TOS&quot;&gt;TOS&lt;/a&gt;,  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TOS_Season_1&quot;&gt;1x26&lt;/a&gt; &quot;The Devil in the Dark&quot;&lt;/p&gt;
+<p>18:03 <a href="http://memory-alpha.wikia.com/wiki/Deltan">Deltan</a></p>
 
-&lt;p&gt;22:33 Greek Gods,&quot;Who Mourns For Adonis?&quot;&lt;/p&gt;
+<p>19:39 费洛蒙</p>
 
-&lt;p&gt;25:30 Excalbian, TOS&quot;The Savage Curtain&quot;&lt;/p&gt;
+<p>20:00 Horta,  <a href="http://memory-alpha.wikia.com/wiki/TOS">TOS</a>,  <a href="http://memory-alpha.wikia.com/wiki/TOS_Season_1">1x26</a> "The Devil in the Dark"</p>
 
-&lt;p&gt;26:04 Bynar,  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TNG&quot;&gt;TNG&lt;/a&gt;, &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TNG_Season_1&quot;&gt;1x15 &quot;11001001&quot;&lt;/a&gt;&lt;/p&gt;
+<p>22:33 Greek Gods,"Who Mourns For Adonis?"</p>
 
-&lt;p&gt;29:11 Devidian, &quot;Time&#39;s Arrow (I&amp;amp;II)&quot;&lt;/p&gt;
+<p>25:30 Excalbian, TOS"The Savage Curtain"</p>
 
-&lt;p&gt;30:14 El-Aurian, 盖南和 Soran（ &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_Generations&quot;&gt;&lt;em&gt;Star Trek Generations&lt;/em&gt;&lt;/a&gt;_ #7_）&lt;/p&gt;
+<p>26:04 Bynar,  <a href="http://memory-alpha.wikia.com/wiki/TNG">TNG</a>, <a href="http://memory-alpha.wikia.com/wiki/TNG_Season_1">1x15 "11001001"</a></p>
 
-&lt;p&gt;34:29 El-Adrel 4 lifeform, TNG&lt;/p&gt;
+<p>29:11 Devidian, "Time's Arrow (I&amp;II)"</p>
 
-&lt;p&gt;36:12 The Salt Vampire TOS &quot;The Man Trap&quot; (1966)&lt;/p&gt;
+<p>30:14 El-Aurian, 盖南和 Soran（ <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Generations"><em>Star Trek Generations</em></a>_ #7_）</p>
 
-&lt;p&gt;38:09 Species 8472&lt;/p&gt;
+<p>34:29 El-Adrel 4 lifeform, TNG</p>
 
-&lt;p&gt;40:48 Tholians, TOS&quot;The Tholian Web&quot;&lt;/p&gt;
+<p>36:12 The Salt Vampire TOS "The Man Trap" (1966)</p>
 
-&lt;p&gt;42:29 Q.&lt;/p&gt;
+<p>38:09 Species 8472</p>
 
-&lt;p&gt;47:17 The Traveler, TNG&quot;Where No One Has Gone Before&quot;&lt;/p&gt;
+<p>40:48 Tholians, TOS"The Tholian Web"</p>
 
-&lt;p&gt;48:48 Crystalline Entity, TNG &quot;Datalore&quot;&lt;/p&gt;
+<p>42:29 Q.</p>
 
-&lt;p&gt;50:38 Changeling, The Dominion&lt;/p&gt;
+<p>47:17 The Traveler, TNG"Where No One Has Gone Before"</p>
 
-&lt;p&gt;54:25 Neural parasites, TOS&quot;Operation: Annihilate!&quot;&lt;/p&gt;
+<p>48:48 Crystalline Entity, TNG "Datalore"</p>
 
-&lt;p&gt;58:11 Voth VOY 3x23 &quot;Distant Origin&quot;&lt;/p&gt;
+<p>50:38 Changeling, The Dominion</p>
 
-&lt;p&gt;●本台反馈●&lt;/p&gt;
+<p>54:25 Neural parasites, TOS"Operation: Annihilate!"</p>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<p>58:11 Voth VOY 3x23 "Distant Origin"</p>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<p>●本台反馈●</p>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 </description>
-        <pubDate>Sat, 18 Feb 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/35/</link>
-        <guid isPermaLink="true">http://trekin.space/35/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</title>
-        <description>&lt;p&gt;此处插播由 玖涼 主持的「星际迷航英文教室」播客的第一期节目，欢迎前去订阅。&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;&lt;a href=&quot;https://www.lizhi.fm/1316714/&quot;&gt;「星际迷航英文教室」荔枝主页&lt;/a&gt;&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;&lt;a href=&quot;http://weibo.com/lunaliang1029&quot;&gt;主播新浪微博：@玖凉豆浆机_安静的魁地奇追球手&lt;/a&gt;&lt;/p&gt;
+<item>
+    <title>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</itunes:subtitle>
+    <itunes:summary>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3</guid>
+    <pubDate>Fri, 03 Feb 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/SP4/</link>
+    <description><p>此处插播由 玖涼 主持的「星际迷航英文教室」播客的第一期节目，欢迎前去订阅。</p>
 
-&lt;p&gt;————&lt;/p&gt;
+<p><a href="https://www.lizhi.fm/1316714/">「星际迷航英文教室」荔枝主页</a></p>
 
-&lt;p&gt;第一期/试听集 《来，上船》&lt;/p&gt;
+<p><a href="http://weibo.com/lunaliang1029">主播新浪微博：@玖凉豆浆机_安静的魁地奇追球手</a></p>
 
-&lt;p&gt;这期简单介绍了星际迷航中出现的各种飞船~&lt;/p&gt;
+<p>————</p>
 
-&lt;p&gt;大部分资料来自Memory Alpha&lt;/p&gt;
+<p>第一期/试听集 《来，上船》</p>
 
-&lt;h2 id=&quot;section&quot;&gt;（至少能用到一个词的）单词表：&lt;/h2&gt;
+<p>这期简单介绍了星际迷航中出现的各种飞船~</p>
 
-&lt;ul&gt;
-  &lt;li&gt;freighter运输船&lt;/li&gt;
-  &lt;li&gt;cruiser巡洋舰&lt;/li&gt;
-  &lt;li&gt;starship星舰&lt;/li&gt;
-  &lt;li&gt;battleship战列舰&lt;/li&gt;
-  &lt;li&gt;destroyer驱逐舰&lt;/li&gt;
-  &lt;li&gt;raider突击舰&lt;/li&gt;
-  &lt;li&gt;runabout小型快艇&lt;/li&gt;
-  &lt;li&gt;survey ship测量船&lt;/li&gt;
-  &lt;li&gt;luxury liner豪华游轮&lt;/li&gt;
-&lt;/ul&gt;
+<p>大部分资料来自Memory Alpha</p>
 
-&lt;h2 id=&quot;section-1&quot;&gt;报舰名&lt;/h2&gt;
+<h2 id="section">（至少能用到一个词的）单词表：</h2>
 
-&lt;ul&gt;
-  &lt;li&gt;attack cruiser攻击巡洋舰&lt;/li&gt;
-  &lt;li&gt;attack fighter歼击舰&lt;/li&gt;
-  &lt;li&gt;battle cruiser战斗巡洋舰&lt;/li&gt;
-  &lt;li&gt;battleship战列舰&lt;/li&gt;
-  &lt;li&gt;bird-of-prey克林贡猛禽&lt;/li&gt;
-  &lt;li&gt;cruiser 巡洋舰&lt;/li&gt;
-  &lt;li&gt;destroyer驱逐舰&lt;/li&gt;
-  &lt;li&gt;dreadnought无畏舰&lt;/li&gt;
-  &lt;li&gt;escort vessel护航舰&lt;/li&gt;
-  &lt;li&gt;explorer ship考察船&lt;/li&gt;
-  &lt;li&gt;flagship旗舰&lt;/li&gt;
-  &lt;li&gt;freighter运输舰&lt;/li&gt;
-  &lt;li&gt;frigate巡防舰&lt;/li&gt;
-  &lt;li&gt;garbage scow垃圾船&lt;/li&gt;
-  &lt;li&gt;heavy cruiser重型巡洋舰&lt;/li&gt;
-  &lt;li&gt;hospital ship医疗船&lt;/li&gt;
-  &lt;li&gt;interceptor拦截舰&lt;/li&gt;
-  &lt;li&gt;light cruiser轻型巡洋舰&lt;/li&gt;
-  &lt;li&gt;luxury liner豪华游轮&lt;/li&gt;
-  &lt;li&gt;patrol ship巡逻舰&lt;/li&gt;
-  &lt;li&gt;prison ship运囚舰&lt;/li&gt;
-  &lt;li&gt;raider突击舰&lt;/li&gt;
-  &lt;li&gt;runabout小型快艇&lt;/li&gt;
-  &lt;li&gt;science vessel科学船&lt;/li&gt;
-  &lt;li&gt;scout ship侦察船&lt;/li&gt;
-  &lt;li&gt;star cruiser星际巡洋舰&lt;/li&gt;
-  &lt;li&gt;starliner星际游船&lt;/li&gt;
-  &lt;li&gt;starship星舰&lt;/li&gt;
-  &lt;li&gt;supply ship供给船&lt;/li&gt;
-  &lt;li&gt;survey ship测量船&lt;/li&gt;
-  &lt;li&gt;tanker油罐船&lt;/li&gt;
-  &lt;li&gt;timeship时光船&lt;/li&gt;
-  &lt;li&gt;training vessel训练舰&lt;/li&gt;
-  &lt;li&gt;transport ship运输舰&lt;/li&gt;
-  &lt;li&gt;tug拖船&lt;/li&gt;
-  &lt;li&gt;warbird罗慕兰战鸟&lt;/li&gt;
-  &lt;li&gt;warship战船&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>freighter运输船</li>
+  <li>cruiser巡洋舰</li>
+  <li>starship星舰</li>
+  <li>battleship战列舰</li>
+  <li>destroyer驱逐舰</li>
+  <li>raider突击舰</li>
+  <li>runabout小型快艇</li>
+  <li>survey ship测量船</li>
+  <li>luxury liner豪华游轮</li>
+</ul>
 
-&lt;p&gt;欢迎&lt;a href=&quot;https://www.lizhi.fm/1316714/&quot;&gt;关注转发订阅收藏&lt;/a&gt;！LLAP！&lt;/p&gt;
+<h2 id="section-1">报舰名</h2>
 
-&lt;h2 id=&quot;section-2&quot;&gt;●本台反馈●&lt;/h2&gt;
+<ul>
+  <li>attack cruiser攻击巡洋舰</li>
+  <li>attack fighter歼击舰</li>
+  <li>battle cruiser战斗巡洋舰</li>
+  <li>battleship战列舰</li>
+  <li>bird-of-prey克林贡猛禽</li>
+  <li>cruiser 巡洋舰</li>
+  <li>destroyer驱逐舰</li>
+  <li>dreadnought无畏舰</li>
+  <li>escort vessel护航舰</li>
+  <li>explorer ship考察船</li>
+  <li>flagship旗舰</li>
+  <li>freighter运输舰</li>
+  <li>frigate巡防舰</li>
+  <li>garbage scow垃圾船</li>
+  <li>heavy cruiser重型巡洋舰</li>
+  <li>hospital ship医疗船</li>
+  <li>interceptor拦截舰</li>
+  <li>light cruiser轻型巡洋舰</li>
+  <li>luxury liner豪华游轮</li>
+  <li>patrol ship巡逻舰</li>
+  <li>prison ship运囚舰</li>
+  <li>raider突击舰</li>
+  <li>runabout小型快艇</li>
+  <li>science vessel科学船</li>
+  <li>scout ship侦察船</li>
+  <li>star cruiser星际巡洋舰</li>
+  <li>starliner星际游船</li>
+  <li>starship星舰</li>
+  <li>supply ship供给船</li>
+  <li>survey ship测量船</li>
+  <li>tanker油罐船</li>
+  <li>timeship时光船</li>
+  <li>training vessel训练舰</li>
+  <li>transport ship运输舰</li>
+  <li>tug拖船</li>
+  <li>warbird罗慕兰战鸟</li>
+  <li>warship战船</li>
+</ul>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<p>欢迎<a href="https://www.lizhi.fm/1316714/">关注转发订阅收藏</a>！LLAP！</p>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<h2 id="section-2">●本台反馈●</h2>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 
 </description>
-        <pubDate>Fri, 03 Feb 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/SP4/</link>
-        <guid isPermaLink="true">http://trekin.space/SP4/</guid>
-        
-        <category>增刊</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>SP3 设计师视角与军迷视角</title>
-        <description>&lt;p&gt;除夕前一夜，我们与听众们线上网聚唠嗑，这是其中一段录音。&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;一千个观众眼中就有一千个星际迷航，感谢黑先生和老骨头带来他们的视角。长达4小时的网聚由于又一次的录音事故，抱歉只能放出这么多，其他灼见留在了记忆里。&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;感谢参与和没来得及参与线上聚会活动的所有听众，祝大家鸡年大吉吧。&lt;/p&gt;
+<item>
+    <title>SP3 设计师视角与军迷视角</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>SP3 设计师视角与军迷视角</itunes:subtitle>
+    <itunes:summary>SP3 设计师视角与军迷视角</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3</guid>
+    <pubDate>Fri, 27 Jan 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/SP3/</link>
+    <description><p>除夕前一夜，我们与听众们线上网聚唠嗑，这是其中一段录音。</p>
 
-&lt;h2 id=&quot;section&quot;&gt;●本台反馈●&lt;/h2&gt;
+<p>一千个观众眼中就有一千个星际迷航，感谢黑先生和老骨头带来他们的视角。长达4小时的网聚由于又一次的录音事故，抱歉只能放出这么多，其他灼见留在了记忆里。</p>
 
-&lt;p&gt;Email: subspacesignal@qq.com, all frequencies open.&lt;/p&gt;
+<p>感谢参与和没来得及参与线上聚会活动的所有听众，祝大家鸡年大吉吧。</p>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<h2 id="section">●本台反馈●</h2>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>Email: subspacesignal@qq.com, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 </description>
-        <pubDate>Fri, 27 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/SP3/</link>
-        <guid isPermaLink="true">http://trekin.space/SP3/</guid>
-        
-        <category>增刊</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>34 Da Han (Part 3): I Am Laughing Just Thinking about It</title>
-        <description>&lt;p&gt;Da Han talked about the production stories of the 2nd episode of the &quot;&lt;em&gt;Star Trek: Axiom&quot;&lt;/em&gt; fan film, &quot;&lt;em&gt;Yorktown: A Time to Heal&quot;&lt;/em&gt;, starring &lt;strong&gt;George Takei&lt;/strong&gt; and &lt;strong&gt;James Shigeta&lt;/strong&gt;, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film &quot;&lt;em&gt;TReK&#39;d&quot;&lt;/em&gt; and our plans.&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;Any help is greatly welcomed. Join our Wechat group or contact us through feedback channels below.&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;Recorded on 20170111, guest: Da Han, host: CrazyEMH(Sid in this interview)&lt;/p&gt;
+<item>
+    <title>34 Da Han (Part 3): I Am Laughing Just Thinking about It</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>34 Da Han (Part 3): I Am Laughing Just Thinking about It</itunes:subtitle>
+    <itunes:summary>34 Da Han (Part 3): I Am Laughing Just Thinking about It</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3</guid>
+    <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/34/</link>
+    <description><p>Da Han talked about the production stories of the 2nd episode of the "<em>Star Trek: Axiom"</em> fan film, "<em>Yorktown: A Time to Heal"</em>, starring <strong>George Takei</strong> and <strong>James Shigeta</strong>, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film "<em>TReK'd"</em> and our plans.</p>
 
-&lt;p&gt;————&lt;/p&gt;
+<p>Any help is greatly welcomed. Join our Wechat group or contact us through feedback channels below.</p>
 
-&lt;p&gt;04:42 &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=0ahUKEwjxyL70_NXRAhXILpQKHZjQAJAQFggqMAE&amp;amp;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0489049%2F&amp;amp;usg=AFQjCNEnLD3ZQHp4O4uCr1bXlviguyjMZQ&amp;amp;sig2=9MpgRLsYnkvHzdnakgtN8A&amp;amp;cad=rja&quot;&gt;&lt;em&gt;Fanboys&lt;/em&gt;&lt;/a&gt; &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=0ahUKEwjxyL70_NXRAhXILpQKHZjQAJAQFggqMAE&amp;amp;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0489049%2F&amp;amp;usg=AFQjCNEnLD3ZQHp4O4uCr1bXlviguyjMZQ&amp;amp;sig2=9MpgRLsYnkvHzdnakgtN8A&amp;amp;cad=rja&quot;&gt;(2009) - IMDb&lt;/a&gt;&lt;/p&gt;
+<p>Recorded on 20170111, guest: Da Han, host: CrazyEMH(Sid in this interview)</p>
 
-&lt;p&gt;05:14 &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=0ahUKEwjA39CYyNfRAhXELpQKHUj-DNoQFgggMAE&amp;amp;url=http%3A%2F%2Fmemory-beta.wikia.com%2Fwiki%2FAndrew_Probert&amp;amp;usg=AFQjCNFQ2rx_NqStx8Xu8mRYkp5rmqL3kw&amp;amp;sig2=FEq6SUl0wU-9giyTrInHTg&amp;amp;bvm=bv.144686652,d.dGo&amp;amp;cad=rja&quot;&gt;Andrew Probert, a famed artist &amp;amp; illustrator, worked as senior consulting illustrator on the first season of&lt;/a&gt; &lt;a href=&quot;http://memory-beta.wikia.com/wiki/Star_Trek:_The_Next_Generation&quot;&gt;&lt;em&gt;Star Trek: The Next Generation&lt;/em&gt;&lt;/a&gt;, designing the &lt;a href=&quot;http://memory-beta.wikia.com/wiki/USS_Enterprise_%28NCC-1701-D%29&quot;&gt;USS&lt;/a&gt; &lt;a href=&quot;http://memory-beta.wikia.com/wiki/USS_Enterprise_%28NCC-1701-D%29&quot;&gt;&lt;em&gt;Enterprise&lt;/em&gt;&lt;/a&gt; &lt;a href=&quot;http://memory-beta.wikia.com/wiki/USS_Enterprise_%28NCC-1701-D%29&quot;&gt;-D&lt;/a&gt;&lt;/p&gt;
+<p>————</p>
 
-&lt;p&gt;07:36 &lt;a href=&quot;http://www.imdb.com/name/nm0793363/&quot;&gt;James Shigeta&lt;/a&gt;&lt;/p&gt;
+<p>04:42 <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=0ahUKEwjxyL70_NXRAhXILpQKHZjQAJAQFggqMAE&amp;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0489049%2F&amp;usg=AFQjCNEnLD3ZQHp4O4uCr1bXlviguyjMZQ&amp;sig2=9MpgRLsYnkvHzdnakgtN8A&amp;cad=rja"><em>Fanboys</em></a> <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=0ahUKEwjxyL70_NXRAhXILpQKHZjQAJAQFggqMAE&amp;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0489049%2F&amp;usg=AFQjCNEnLD3ZQHp4O4uCr1bXlviguyjMZQ&amp;sig2=9MpgRLsYnkvHzdnakgtN8A&amp;cad=rja">(2009) - IMDb</a></p>
 
-&lt;p&gt;18:38 This left/right brain lateralization theory is scientifically NOT TRUE. See the links below:&lt;/p&gt;
+<p>05:14 <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=0ahUKEwjA39CYyNfRAhXELpQKHUj-DNoQFgggMAE&amp;url=http%3A%2F%2Fmemory-beta.wikia.com%2Fwiki%2FAndrew_Probert&amp;usg=AFQjCNFQ2rx_NqStx8Xu8mRYkp5rmqL3kw&amp;sig2=FEq6SUl0wU-9giyTrInHTg&amp;bvm=bv.144686652,d.dGo&amp;cad=rja">Andrew Probert, a famed artist &amp; illustrator, worked as senior consulting illustrator on the first season of</a> <a href="http://memory-beta.wikia.com/wiki/Star_Trek:_The_Next_Generation"><em>Star Trek: The Next Generation</em></a>, designing the <a href="http://memory-beta.wikia.com/wiki/USS_Enterprise_%28NCC-1701-D%29">USS</a> <a href="http://memory-beta.wikia.com/wiki/USS_Enterprise_%28NCC-1701-D%29"><em>Enterprise</em></a> <a href="http://memory-beta.wikia.com/wiki/USS_Enterprise_%28NCC-1701-D%29">-D</a></p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.verywell.com/left-brain-vs-right-brain-2795005&quot;&gt;left-brain-vs-right-brain&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Lateralization_of_brain_function#Failures_of_lateralization&quot;&gt;Lateralization of brain function: Failures of lateralization&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<p>07:36 <a href="http://www.imdb.com/name/nm0793363/">James Shigeta</a></p>
 
-&lt;p&gt;20:01 &lt;a href=&quot;https://en.wikipedia.org/wiki/Camera_dolly&quot;&gt;Camera dolly&lt;/a&gt;&lt;/p&gt;
+<p>18:38 This left/right brain lateralization theory is scientifically NOT TRUE. See the links below:</p>
 
-&lt;p&gt;23:49 &lt;a href=&quot;http://www.cannell.com/&quot;&gt;Stephen J. Cannell&lt;/a&gt; Productions provided incidental Sound FX&lt;/p&gt;
+<ul>
+  <li><a href="https://www.verywell.com/left-brain-vs-right-brain-2795005">left-brain-vs-right-brain</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Lateralization_of_brain_function#Failures_of_lateralization">Lateralization of brain function: Failures of lateralization</a></li>
+</ul>
 
-&lt;p&gt;25:10 &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Conti&quot;&gt;Bill Conti, composer and conductor of&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Bill_Conti&quot;&gt;&lt;em&gt;Rocky&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>20:01 <a href="https://en.wikipedia.org/wiki/Camera_dolly">Camera dolly</a></p>
 
-&lt;p&gt;27:47 Peter Kuran of ILM fame for SPFX offered consulting services&lt;/p&gt;
+<p>23:49 <a href="http://www.cannell.com/">Stephen J. Cannell</a> Productions provided incidental Sound FX</p>
 
-&lt;p&gt;37:38 We&#39;re wrong again :)&lt;/p&gt;
+<p>25:10 <a href="https://en.wikipedia.org/wiki/Bill_Conti">Bill Conti, composer and conductor of</a> <a href="https://en.wikipedia.org/wiki/Bill_Conti"><em>Rocky</em></a></p>
 
-&lt;p&gt;42:23 apostrophe: &#39;&lt;/p&gt;
+<p>27:47 Peter Kuran of ILM fame for SPFX offered consulting services</p>
 
-&lt;p&gt;42:45 &lt;a href=&quot;https://en.wikipedia.org/wiki/Star_Wreck&quot;&gt;&lt;em&gt;Star Wreck,&lt;/em&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Hardware_Wars&quot;&gt;&lt;em&gt;Hardware Wars&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>37:38 We're wrong again :)</p>
 
-&lt;p&gt;49:22 Trailer of &lt;a href=&quot;https://v.qq.com/x/page/h0191mq0dhl.html&quot;&gt;&lt;em&gt;TReK&#39;d&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>42:23 apostrophe: '</p>
 
-&lt;p&gt;49:58 &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=0ahUKEwi_1524zdfRAhVEnZQKHVFoAT0QFggjMAE&amp;amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGalaxy_Quest&amp;amp;usg=AFQjCNFvt0DxOVrDeAPeJnEZHpbqKYC3JA&amp;amp;sig2=yBh8_hbM4CKZDKGr_9UCqg&amp;amp;cad=rja&quot;&gt;&lt;em&gt;Galaxy Quest&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>42:45 <a href="https://en.wikipedia.org/wiki/Star_Wreck"><em>Star Wreck,</em></a> <a href="https://en.wikipedia.org/wiki/Hardware_Wars"><em>Hardware Wars</em></a></p>
 
-&lt;p&gt;50:42 &lt;a href=&quot;https://en.wikipedia.org/wiki/Airplane%21&quot;&gt;&lt;em&gt;Airplane! (1980)&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>49:22 Trailer of <a href="https://v.qq.com/x/page/h0191mq0dhl.html"><em>TReK'd</em></a></p>
 
-&lt;p&gt;50:43 &quot;Lower Decks&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TNG&quot;&gt;TNG&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TNG_Season_7&quot;&gt;7x15&lt;/a&gt;&lt;/p&gt;
+<p>49:58 <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=0ahUKEwi_1524zdfRAhVEnZQKHVFoAT0QFggjMAE&amp;url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FGalaxy_Quest&amp;usg=AFQjCNFvt0DxOVrDeAPeJnEZHpbqKYC3JA&amp;sig2=yBh8_hbM4CKZDKGr_9UCqg&amp;cad=rja"><em>Galaxy Quest</em></a></p>
 
-&lt;p&gt;52:15 Michelle Yeoh is a &lt;a href=&quot;https://en.wikipedia.org/wiki/Chinese_Malaysian&quot;&gt;Chinese Malaysian&lt;/a&gt; actress&lt;/p&gt;
+<p>50:42 <a href="https://en.wikipedia.org/wiki/Airplane%21"><em>Airplane! (1980)</em></a></p>
 
-&lt;p&gt;54:07 &lt;a href=&quot;https://en.wikipedia.org/wiki/Horatio_Hornblower&quot;&gt;Horatio Hornblower&lt;/a&gt;&lt;/p&gt;
+<p>50:43 "Lower Decks" <a href="http://memory-alpha.wikia.com/wiki/TNG">TNG</a> <a href="http://memory-alpha.wikia.com/wiki/TNG_Season_7">7x15</a></p>
 
-&lt;p&gt;54:11 &lt;a href=&quot;https://en.wikipedia.org/wiki/Walter_Mitty&quot;&gt;Walter Mitty&lt;/a&gt;&lt;/p&gt;
+<p>52:15 Michelle Yeoh is a <a href="https://en.wikipedia.org/wiki/Chinese_Malaysian">Chinese Malaysian</a> actress</p>
 
-&lt;p&gt;1:19:28 &lt;a href=&quot;https://en.wikipedia.org/wiki/Get_Smart_(film)&quot;&gt;&lt;em&gt;Get Smart&lt;/em&gt;&lt;/a&gt;,  &lt;a href=&quot;https://en.wikipedia.org/wiki/Blazing_Saddles&quot;&gt;&lt;em&gt;Blazing Saddles&lt;/em&gt;&lt;/a&gt;, by &lt;a href=&quot;https://en.wikipedia.org/wiki/Mel_Brooks&quot;&gt;Mel Brooks&lt;/a&gt;&lt;/p&gt;
+<p>54:07 <a href="https://en.wikipedia.org/wiki/Horatio_Hornblower">Horatio Hornblower</a></p>
 
-&lt;p&gt;Some adds:&lt;/p&gt;
+<p>54:11 <a href="https://en.wikipedia.org/wiki/Walter_Mitty">Walter Mitty</a></p>
 
-&lt;ul&gt;
-  &lt;li&gt;Any body wants to have your designs 3D printed, contact us.&lt;/li&gt;
-&lt;/ul&gt;
+<p>1:19:28 <a href="https://en.wikipedia.org/wiki/Get_Smart_(film)"><em>Get Smart</em></a>,  <a href="https://en.wikipedia.org/wiki/Blazing_Saddles"><em>Blazing Saddles</em></a>, by <a href="https://en.wikipedia.org/wiki/Mel_Brooks">Mel Brooks</a></p>
 
-&lt;p&gt;Other links:&lt;/p&gt;
+<p>Some adds:</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom&quot;&gt;Star Trek: Axiom | The Fan Film Compendium Wiki&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom&quot;&gt;Star Trek: Axiom | thefanfilm-compendium &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=1&amp;amp;ved=0ahUKEwjp0KrQ6NfRAhULT7wKHVbQDFAQFggaMAA&amp;amp;url=http%3A%2F%2Fstexpanded.wikia.com%2Fwiki%2FYorktown%3A_A_Time_to_Heal&amp;amp;usg=AFQjCNFQTgW5XJDhXl6JjlrT9lpeMCl74A&amp;amp;sig2=48k_gVyz1bKGLbhpQiy8cw&amp;amp;bvm=bv.144686652,bs.2,d.dGo&amp;amp;cad=rja&quot;&gt;Yorktown: A Time to Heal | Star Trek Expanded Universe&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://stexpanded.wikia.com/wiki/Yorktown:_A_Time_to_Heal&quot;&gt;Yorktown: A Time to Heal | stexpanded.wikia.com&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Any body wants to have your designs 3D printed, contact us.</li>
+</ul>
 
-&lt;h2 id=&quot;feedbacks&quot;&gt;●Feedbacks●&lt;/h2&gt;
+<p>Other links:</p>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<ul>
+  <li><a href="http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom">Star Trek: Axiom | The Fan Film Compendium Wiki</a></li>
+  <li><a href="http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom">Star Trek: Axiom | thefanfilm-compendium </a></li>
+  <li><a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;ved=0ahUKEwjp0KrQ6NfRAhULT7wKHVbQDFAQFggaMAA&amp;url=http%3A%2F%2Fstexpanded.wikia.com%2Fwiki%2FYorktown%3A_A_Time_to_Heal&amp;usg=AFQjCNFQTgW5XJDhXl6JjlrT9lpeMCl74A&amp;sig2=48k_gVyz1bKGLbhpQiy8cw&amp;bvm=bv.144686652,bs.2,d.dGo&amp;cad=rja">Yorktown: A Time to Heal | Star Trek Expanded Universe</a></li>
+  <li><a href="http://stexpanded.wikia.com/wiki/Yorktown:_A_Time_to_Heal">Yorktown: A Time to Heal | stexpanded.wikia.com</a></li>
+</ul>
 
-&lt;p&gt;QQ chat group: 591546843&lt;/p&gt;
+<h2 id="feedbacks">●Feedbacks●</h2>
 
-&lt;p&gt;Sina Weibo：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>QQ chat group: 591546843</p>
+
+<p>Sina Weibo：迷于星际迷航播客</p>
 </description>
-        <pubDate>Tue, 24 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/34/</link>
-        <guid isPermaLink="true">http://trekin.space/34/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>33 Da Han (Part 2): You Have to Understand How to Control Doses</title>
-        <description>&lt;p&gt;Da Han and I finally had time to finish the interview we started months ago. In this Part 2 we continued the &quot;drug&quot; metaphor and talked about his stories of making one of the earliest fan films of Star Trek, &quot;&lt;em&gt;The Quadroplastine Incident&lt;/em&gt;&quot;, or, &quot;&lt;em&gt;Yorktown: In Temporary Command&lt;/em&gt;&quot;, and the episode 2 of this Yorktown series is on next episode of this podcast. Hope you enjoy.&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;Recorded on 20170111, guest: Da Han, host: CrazyEMH(Sid in this interview)&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;————&lt;/p&gt;
+<item>
+    <title>33 Da Han (Part 2): You Have to Understand How to Control Doses</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>33 Da Han (Part 2): You Have to Understand How to Control Doses</itunes:subtitle>
+    <itunes:summary>33 Da Han (Part 2): You Have to Understand How to Control Doses</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3</guid>
+    <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/33/</link>
+    <description><p>Da Han and I finally had time to finish the interview we started months ago. In this Part 2 we continued the "drug" metaphor and talked about his stories of making one of the earliest fan films of Star Trek, "<em>The Quadroplastine Incident</em>", or, "<em>Yorktown: In Temporary Command</em>", and the episode 2 of this Yorktown series is on next episode of this podcast. Hope you enjoy.</p>
 
-&lt;p&gt;00:25 What&#39;s pod? &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=2&amp;amp;ved=0ahUKEwj0wpq87dXRAhVDwLwKHTksCBUQFggcMAE&amp;amp;url=https%3A%2F%2Fwww.quora.com%2FWhat-does-pod-mean-in-podcast&amp;amp;usg=AFQjCNEn7Gek8EaBmMqoIF0kFipBf02LmA&amp;amp;sig2=8x2uYtaTW6zXKGgImCOAFw&amp;amp;bvm=bv.144686652,bs.2,d.dGo&amp;amp;cad=rja&quot;&gt;What does pod mean in podcast? - Quora&lt;/a&gt;&lt;/p&gt;
+<p>Recorded on 20170111, guest: Da Han, host: CrazyEMH(Sid in this interview)</p>
 
-&lt;p&gt;04:18 &lt;em&gt;Mermaid&lt;/em&gt;(美人鱼, 2016) by Stephen Chow(周星驰)&lt;/p&gt;
+<p>————</p>
 
-&lt;p&gt;08:02 &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Brady_Bunch&quot;&gt;Adrenalin/Epinephrine&lt;/a&gt;&lt;/p&gt;
+<p>00:25 What's pod? <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=2&amp;ved=0ahUKEwj0wpq87dXRAhVDwLwKHTksCBUQFggcMAE&amp;url=https%3A%2F%2Fwww.quora.com%2FWhat-does-pod-mean-in-podcast&amp;usg=AFQjCNEn7Gek8EaBmMqoIF0kFipBf02LmA&amp;sig2=8x2uYtaTW6zXKGgImCOAFw&amp;bvm=bv.144686652,bs.2,d.dGo&amp;cad=rja">What does pod mean in podcast? - Quora</a></p>
 
-&lt;p&gt;09:47 &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Brady_Bunch&quot;&gt;&lt;em&gt;The Brady Bunch&quot;, &quot;&lt;/em&gt;&lt;/a&gt; &lt;a href=&quot;https://en.wikipedia.org/wiki/Eight_Is_Enough&quot;&gt;&lt;em&gt;Eight Is Enough&quot;&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>04:18 <em>Mermaid</em>(美人鱼, 2016) by Stephen Chow(周星驰)</p>
 
-&lt;p&gt;20:05 &quot; &lt;a href=&quot;http://www.imdb.com/title/tt3323990/&quot;&gt;&lt;em&gt;Home Sweet Home&lt;/em&gt;&lt;/a&gt;&quot;, first film Da Han made, a comedy staring Charlie Dell, watch &lt;a href=&quot;http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom&quot;&gt;online&lt;/a&gt;&lt;/p&gt;
+<p>08:02 <a href="https://en.wikipedia.org/wiki/The_Brady_Bunch">Adrenalin/Epinephrine</a></p>
 
-&lt;p&gt;22:10 &lt;a href=&quot;https://en.wikipedia.org/wiki/Vin_Diesel&quot;&gt;Vin Diesel&lt;/a&gt;&lt;/p&gt;
+<p>09:47 <a href="https://en.wikipedia.org/wiki/The_Brady_Bunch"><em>The Brady Bunch", "</em></a> <a href="https://en.wikipedia.org/wiki/Eight_Is_Enough"><em>Eight Is Enough"</em></a></p>
 
-&lt;p&gt;23:26 &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Twilight_Zone&quot;&gt;The Twilight Zone&lt;/a&gt;&lt;/p&gt;
+<p>20:05 " <a href="http://www.imdb.com/title/tt3323990/"><em>Home Sweet Home</em></a>", first film Da Han made, a comedy staring Charlie Dell, watch <a href="http://thefanfilm-compendium.wikia.com/wiki/Star_Trek:_Axiom">online</a></p>
 
-&lt;p&gt;32:09 &lt;a href=&quot;https://en.wikipedia.org/wiki/Star_Trek:_Phase_II&quot;&gt;Star Trek: Phase II&lt;/a&gt;&lt;/p&gt;
+<p>22:10 <a href="https://en.wikipedia.org/wiki/Vin_Diesel">Vin Diesel</a></p>
 
-&lt;p&gt;33:26 Legal issues incompletely discussed here have no warrantee of correctness, please contact professionals.&lt;/p&gt;
+<p>23:26 <a href="https://en.wikipedia.org/wiki/The_Twilight_Zone">The Twilight Zone</a></p>
 
-&lt;p&gt;38:03 &lt;a href=&quot;https://en.wikipedia.org/wiki/Buck_Rogers_in_the_25th_Century_%28TV_series%29&quot;&gt;Buck Rogers in the 25th Century (TV series)&lt;/a&gt;&lt;/p&gt;
+<p>32:09 <a href="https://en.wikipedia.org/wiki/Star_Trek:_Phase_II">Star Trek: Phase II</a></p>
 
-&lt;p&gt;42:23 The Quadroplastine Incident/ &lt;a href=&quot;https://www.google.com/url?sa=t&amp;amp;rct=j&amp;amp;q=&amp;amp;esrc=s&amp;amp;source=web&amp;amp;cd=&amp;amp;ved=0ahUKEwjgy-jPztXRAhXDnZQKHTg0AawQFggoMAI&amp;amp;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt2111493%2Freleaseinfo&amp;amp;usg=AFQjCNFxFNz_U2BCizYajp91hVvqFUJOjQ&amp;amp;sig2=Q9hsD7_ecXk5hHbrILDfnA&amp;amp;cad=rjt&quot;&gt;Yorktown: In Temporary Command&lt;/a&gt;&lt;/p&gt;
+<p>33:26 Legal issues incompletely discussed here have no warrantee of correctness, please contact professionals.</p>
 
-&lt;p&gt;1:13:31 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Quadrotriticale&quot;&gt;Quadrotriticale&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Quadrotriticale&quot;&gt;was a high-yield,&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Perennial&quot;&gt;perennial&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Grain&quot;&gt;grain&lt;/a&gt;in &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TOS&quot;&gt;TOS&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/TOS_Season_2&quot;&gt;2x13 &quot;The Trouble with Tribbles&quot;&lt;/a&gt;&lt;/p&gt;
+<p>38:03 <a href="https://en.wikipedia.org/wiki/Buck_Rogers_in_the_25th_Century_%28TV_series%29">Buck Rogers in the 25th Century (TV series)</a></p>
 
-&lt;p&gt;1:21:52 promotional art Da Han made can be seen on the &lt;a href=&quot;https://www.facebook.com/YorktownATimeToHeal/photos/&quot;&gt;&quot;Yorktown: A Time to Heal&quot; Facebook page&lt;/a&gt;.&lt;/p&gt;
+<p>42:23 The Quadroplastine Incident/ <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=&amp;ved=0ahUKEwjgy-jPztXRAhXDnZQKHTg0AawQFggoMAI&amp;url=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt2111493%2Freleaseinfo&amp;usg=AFQjCNFxFNz_U2BCizYajp91hVvqFUJOjQ&amp;sig2=Q9hsD7_ecXk5hHbrILDfnA&amp;cad=rjt">Yorktown: In Temporary Command</a></p>
 
-&lt;p&gt;1:22:08 &lt;a href=&quot;https://www.facebook.com/paragonsparagon/&quot;&gt;Paragon&#39;s Paragon and their page:&lt;/a&gt;&lt;/p&gt;
+<p>1:13:31 <a href="http://memory-alpha.wikia.com/wiki/Quadrotriticale">Quadrotriticale</a> <a href="http://memory-alpha.wikia.com/wiki/Quadrotriticale">was a high-yield,</a> <a href="http://memory-alpha.wikia.com/wiki/Perennial">perennial</a> <a href="http://memory-alpha.wikia.com/wiki/Grain">grain</a>in <a href="http://memory-alpha.wikia.com/wiki/TOS">TOS</a> <a href="http://memory-alpha.wikia.com/wiki/TOS_Season_2">2x13 "The Trouble with Tribbles"</a></p>
 
-&lt;p&gt;Other Links:&lt;/p&gt;
+<p>1:21:52 promotional art Da Han made can be seen on the <a href="https://www.facebook.com/YorktownATimeToHeal/photos/">"Yorktown: A Time to Heal" Facebook page</a>.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://vimeo.com/102597423&quot;&gt;Hollywood Teen Film Festival - Yorktown: In Temporary Command&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.yorktownfilm.com/&quot;&gt;Yorktown&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+<p>1:22:08 <a href="https://www.facebook.com/paragonsparagon/">Paragon's Paragon and their page:</a></p>
 
-&lt;h2 id=&quot;feedbacks&quot;&gt;●Feedbacks●&lt;/h2&gt;
+<p>Other Links:</p>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<ul>
+  <li><a href="https://vimeo.com/102597423">Hollywood Teen Film Festival - Yorktown: In Temporary Command</a></li>
+  <li><a href="http://www.yorktownfilm.com/">Yorktown</a></li>
+</ul>
 
-&lt;p&gt;QQ chat group: 591546843&lt;/p&gt;
+<h2 id="feedbacks">●Feedbacks●</h2>
 
-&lt;p&gt;Sina Weibo：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>QQ chat group: 591546843</p>
+
+<p>Sina Weibo：迷于星际迷航播客</p>
 </description>
-        <pubDate>Tue, 24 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/33/</link>
-        <guid isPermaLink="true">http://trekin.space/33/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>32 2016年的片尾滚动字幕</title>
-        <description>&lt;p&gt;以我们一贯的催眠风格，作2016年最后的滚动字幕。&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;本期节目录制于20161231/20170122，主播：小猪|深思|CrazyEMH&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;————&lt;/p&gt;
+<item>
+    <title>32 2016年的片尾滚动字幕</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>32 2016年的片尾滚动字幕</itunes:subtitle>
+    <itunes:summary>32 2016年的片尾滚动字幕</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3</guid>
+    <pubDate>Sun, 22 Jan 2017 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/32/</link>
+    <description><p>以我们一贯的催眠风格，作2016年最后的滚动字幕。</p>
 
-&lt;p&gt;05:47 星联英语补习班&lt;/p&gt;
+<p>本期节目录制于20161231/20170122，主播：小猪|深思|CrazyEMH</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Structural integrity 结构完整性/度&lt;/li&gt;
-  &lt;li&gt;Integral 积分&lt;/li&gt;
-&lt;/ul&gt;
+<p>————</p>
 
-&lt;p&gt;10:27 星舰学院入学考场&lt;/p&gt;
+<p>05:47 星联英语补习班</p>
 
-&lt;ul&gt;
-  &lt;li&gt;The Needs of the Many Outweigh the Needs of the Few 是否会发展为多数人的暴政（Tyranny of the majority）？&lt;/li&gt;
-  &lt;li&gt;Nichelle Nichols 的生日&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Structural integrity 结构完整性/度</li>
+  <li>Integral 积分</li>
+</ul>
 
-&lt;p&gt;17:51 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/7_January&quot;&gt;7 January&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Richard_Libertini&quot;&gt;Richard Libertini&lt;/a&gt; dies. DS9 &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Accession_%28episode%29&quot;&gt;Accession&lt;/a&gt;&quot; 中扮演 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Akorem_Laan&quot;&gt;Akorem Laan&lt;/a&gt;&lt;/p&gt;
+<p>10:27 星舰学院入学考场</p>
 
-&lt;p&gt;20:12  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/20_January&quot;&gt;20 January&lt;/a&gt; - B &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Bairbre_Dowling&quot;&gt;airbre Dowling&lt;/a&gt; dies.  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Colm_Meaney&quot;&gt;Colm Meaney&lt;/a&gt;（O&#39;brien）之前妻&lt;/p&gt;
+<ul>
+  <li>The Needs of the Many Outweigh the Needs of the Few 是否会发展为多数人的暴政（Tyranny of the majority）？</li>
+  <li>Nichelle Nichols 的生日</li>
+</ul>
 
-&lt;p&gt;21:10  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/15_February&quot;&gt;15 February&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Anthony_Fredrickson&quot;&gt;Anthony Fredrickson&lt;/a&gt; dies. Scenic and graphic artist&lt;/p&gt;
+<p>17:51 <a href="http://memory-alpha.wikia.com/wiki/7_January">7 January</a> - <a href="http://memory-alpha.wikia.com/wiki/Richard_Libertini">Richard Libertini</a> dies. DS9 " <a href="http://memory-alpha.wikia.com/wiki/Accession_%28episode%29">Accession</a>" 中扮演 <a href="http://memory-alpha.wikia.com/wiki/Akorem_Laan">Akorem Laan</a></p>
 
-&lt;p&gt;22:30 Michael Okuda在星际迷航官方播客&quot;Engage: The Official Star Trek Podcast&quot;中最近接受过采访。&lt;/p&gt;
+<p>20:12  <a href="http://memory-alpha.wikia.com/wiki/20_January">20 January</a> - B <a href="http://memory-alpha.wikia.com/wiki/Bairbre_Dowling">airbre Dowling</a> dies.  <a href="http://memory-alpha.wikia.com/wiki/Colm_Meaney">Colm Meaney</a>（O'brien）之前妻</p>
 
-&lt;p&gt;22:50  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/16_February&quot;&gt;16 February&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Leonard:_My_Fifty-Year_Friendship_with_a_Remarkable_Man&quot;&gt;&lt;em&gt;Leonard: My Fifty-Year Friendship with a Remarkable Man&lt;/em&gt;&lt;/a&gt;, by &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/William_Shatner&quot;&gt;William Shatner&lt;/a&gt;, is released.&lt;/p&gt;
+<p>21:10  <a href="http://memory-alpha.wikia.com/wiki/15_February">15 February</a> - <a href="http://memory-alpha.wikia.com/wiki/Anthony_Fredrickson">Anthony Fredrickson</a> dies. Scenic and graphic artist</p>
 
-&lt;p&gt;23:31 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/28_February&quot;&gt;28 February&lt;/a&gt; -  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Lee_Reherman&quot;&gt;Lee Reherman&lt;/a&gt; dies. &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_Into_Darkness&quot;&gt;&lt;em&gt;Star Trek Into Darkness&lt;/em&gt;&lt;/a&gt; 中扮演a &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/USS_Vengeance_personnel#Uniformed_mercenary&quot;&gt;Section 31 operative&lt;/a&gt;&lt;/p&gt;
+<p>22:30 Michael Okuda在星际迷航官方播客"Engage: The Official Star Trek Podcast"中最近接受过采访。</p>
 
-&lt;p&gt;24:09  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/3_March&quot;&gt;3 March&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Gary_Hutzel&quot;&gt;Gary Hutzel&lt;/a&gt; dies. TNG前5季与整个DS9中的视效艺术家&lt;/p&gt;
+<p>22:50  <a href="http://memory-alpha.wikia.com/wiki/16_February">16 February</a> - <a href="http://memory-alpha.wikia.com/wiki/Leonard:_My_Fifty-Year_Friendship_with_a_Remarkable_Man"><em>Leonard: My Fifty-Year Friendship with a Remarkable Man</em></a>, by <a href="http://memory-alpha.wikia.com/wiki/William_Shatner">William Shatner</a>, is released.</p>
 
-&lt;p&gt;24:22 10 March - Ken Adam dies. Enterprise, shuttlecraft、以及未完成的Star Trek: Planet of the Titans的设计师&lt;/p&gt;
+<p>23:31 <a href="http://memory-alpha.wikia.com/wiki/28_February">28 February</a> -  <a href="http://memory-alpha.wikia.com/wiki/Lee_Reherman">Lee Reherman</a> dies. <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Into_Darkness"><em>Star Trek Into Darkness</em></a> 中扮演a <a href="http://memory-alpha.wikia.com/wiki/USS_Vengeance_personnel#Uniformed_mercenary">Section 31 operative</a></p>
 
-&lt;p&gt;24:54  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/15_March&quot;&gt;15 March&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Roma_Lee_Tracy&quot;&gt;Roma Lee Tracy&lt;/a&gt; dies. 背景角色&lt;/p&gt;
+<p>24:09  <a href="http://memory-alpha.wikia.com/wiki/3_March">3 March</a> - <a href="http://memory-alpha.wikia.com/wiki/Gary_Hutzel">Gary Hutzel</a> dies. TNG前5季与整个DS9中的视效艺术家</p>
 
-&lt;p&gt;25:52 扩展阅读：Weirdest and Sexiest Costumes from the Original Star Trek( &lt;a href=&quot;http://io9.gizmodo.com/5969957/weirdest-and-sexiest-costumes-from-the-original-star-trek/&quot;&gt;原初的那些奇装异服&lt;/a&gt;)&lt;/p&gt;
+<p>24:22 10 March - Ken Adam dies. Enterprise, shuttlecraft、以及未完成的Star Trek: Planet of the Titans的设计师</p>
 
-&lt;p&gt;26:20  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/17_March&quot;&gt;17 March&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Larry_Drake&quot;&gt;Larry Drake&lt;/a&gt; dies. VOY &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Critical_Care_%28episode%29&quot;&gt;Critical Care&lt;/a&gt;&quot; 中扮演 Administrator &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Chellick&quot;&gt;Chellick&lt;/a&gt;&lt;/p&gt;
+<p>24:54  <a href="http://memory-alpha.wikia.com/wiki/15_March">15 March</a> - <a href="http://memory-alpha.wikia.com/wiki/Roma_Lee_Tracy">Roma Lee Tracy</a> dies. 背景角色</p>
 
-&lt;p&gt;27:13  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/4_April&quot;&gt;4 April&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/The_Ultimate_Star_Trek_and_Philosophy&quot;&gt;&lt;em&gt;The Ultimate Star Trek and Philosophy&lt;/em&gt;&lt;/a&gt; is released.&lt;/p&gt;
+<p>25:52 扩展阅读：Weirdest and Sexiest Costumes from the Original Star Trek( <a href="http://io9.gizmodo.com/5969957/weirdest-and-sexiest-costumes-from-the-original-star-trek/">原初的那些奇装异服</a>)</p>
 
-&lt;p&gt;29:22  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/17_April&quot;&gt;17 April&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Scott_Nimerfro&quot;&gt;Scott Nimerfro&lt;/a&gt; dies. Writer and producer who co-wrote the VOY &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Jetrel_%28episode%29&quot;&gt;Jetrel&lt;/a&gt;&quot;. the associate producer in 1997 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek&quot;&gt;&lt;em&gt;Star Trek&lt;/em&gt;&lt;/a&gt; documentary, &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Trekkies&quot;&gt;&lt;em&gt;Trekkies&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;
+<p>26:20  <a href="http://memory-alpha.wikia.com/wiki/17_March">17 March</a> - <a href="http://memory-alpha.wikia.com/wiki/Larry_Drake">Larry Drake</a> dies. VOY " <a href="http://memory-alpha.wikia.com/wiki/Critical_Care_%28episode%29">Critical Care</a>" 中扮演 Administrator <a href="http://memory-alpha.wikia.com/wiki/Chellick">Chellick</a></p>
 
-&lt;p&gt;29:58  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/8_May&quot;&gt;8 May&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/William_Schallert&quot;&gt;William Schallert&lt;/a&gt; dies. &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series&quot;&gt; &lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series&quot;&gt;TOS&lt;/a&gt; &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/The_Trouble_with_Tribbles_%28episode%29&quot;&gt;The Trouble with Tribbles&lt;/a&gt;&quot;与DS9 &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Trials_and_Tribble-ations_%28episode%29&quot;&gt;Trials and Tribble-ations&lt;/a&gt;&quot;中扮演 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Nilz_Baris&quot;&gt;Nilz Baris&lt;/a&gt;，在DS9&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Sanctuary_%28episode%29&quot;&gt;Sanctuary&lt;/a&gt;&quot;中还演过 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Varani&quot;&gt;Varani&lt;/a&gt;&lt;/p&gt;
+<p>27:13  <a href="http://memory-alpha.wikia.com/wiki/4_April">4 April</a> - <a href="http://memory-alpha.wikia.com/wiki/The_Ultimate_Star_Trek_and_Philosophy"><em>The Ultimate Star Trek and Philosophy</em></a> is released.</p>
 
-&lt;p&gt;31:38  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/26_May&quot;&gt;26 May&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Angela_Paton&quot;&gt;Angela Paton&lt;/a&gt; dies.在VOY第一集&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Caretaker_%28episode%29&quot;&gt;Caretaker&lt;/a&gt;&quot; 中 扮演  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Aunt_Adah&quot;&gt;Aunt Adah&lt;/a&gt;&lt;/p&gt;
+<p>29:22  <a href="http://memory-alpha.wikia.com/wiki/17_April">17 April</a> - <a href="http://memory-alpha.wikia.com/wiki/Scott_Nimerfro">Scott Nimerfro</a> dies. Writer and producer who co-wrote the VOY " <a href="http://memory-alpha.wikia.com/wiki/Jetrel_%28episode%29">Jetrel</a>". the associate producer in 1997 <a href="http://memory-alpha.wikia.com/wiki/Star_Trek"><em>Star Trek</em></a> documentary, <a href="http://memory-alpha.wikia.com/wiki/Trekkies"><em>Trekkies</em></a>.</p>
 
-&lt;p&gt;32:55  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/26_May&quot;&gt;26 May&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Starfleet_Academy_Experience&quot;&gt;-&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Starfleet_Academy_Experience&quot;&gt;&lt;em&gt;Star Trek: The Starfleet Academy Experience&lt;/em&gt;&lt;/a&gt; opens at the Canada Aviation and Space Museum in Ottawa, Ontario.&lt;/p&gt;
+<p>29:58  <a href="http://memory-alpha.wikia.com/wiki/8_May">8 May</a> - <a href="http://memory-alpha.wikia.com/wiki/William_Schallert">William Schallert</a> dies. <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series"> </a> <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series">TOS</a> " <a href="http://memory-alpha.wikia.com/wiki/The_Trouble_with_Tribbles_%28episode%29">The Trouble with Tribbles</a>"与DS9 " <a href="http://memory-alpha.wikia.com/wiki/Trials_and_Tribble-ations_%28episode%29">Trials and Tribble-ations</a>"中扮演 <a href="http://memory-alpha.wikia.com/wiki/Nilz_Baris">Nilz Baris</a>，在DS9" <a href="http://memory-alpha.wikia.com/wiki/Sanctuary_%28episode%29">Sanctuary</a>"中还演过 <a href="http://memory-alpha.wikia.com/wiki/Varani">Varani</a></p>
 
-&lt;p&gt;33:41  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/31_May&quot;&gt;31 May&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Trekonomics:_The_Economics_of_Star_Trek&quot;&gt;&lt;em&gt;Trekonomics: The Economics of Star Trek&lt;/em&gt;&lt;/a&gt; is released.&lt;/p&gt;
+<p>31:38  <a href="http://memory-alpha.wikia.com/wiki/26_May">26 May</a> - <a href="http://memory-alpha.wikia.com/wiki/Angela_Paton">Angela Paton</a> dies.在VOY第一集" <a href="http://memory-alpha.wikia.com/wiki/Caretaker_%28episode%29">Caretaker</a>" 中 扮演  <a href="http://memory-alpha.wikia.com/wiki/Aunt_Adah">Aunt Adah</a></p>
 
-&lt;p&gt;34:52  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/1_June&quot;&gt;1 June&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/David_Spielberg&quot;&gt;David Spielberg&lt;/a&gt; dies.  TNG&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Starship_Mine_%28episode%29&quot;&gt;Starship Mine&lt;/a&gt;&quot;中扮演 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Commander&quot;&gt;Commander&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Calvin_Hutchinson&quot;&gt;Calvin Hutchinson&lt;/a&gt;&lt;/p&gt;
+<p>32:55  <a href="http://memory-alpha.wikia.com/wiki/26_May">26 May</a> <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Starfleet_Academy_Experience">-</a> <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Starfleet_Academy_Experience"><em>Star Trek: The Starfleet Academy Experience</em></a> opens at the Canada Aviation and Space Museum in Ottawa, Ontario.</p>
 
-&lt;p&gt;35:54  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/4_June&quot;&gt;4 June&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Rico_Bueno&quot;&gt;Rico Bueno&lt;/a&gt; dies. DS9与VOY中的背景演员&lt;/p&gt;
+<p>33:41  <a href="http://memory-alpha.wikia.com/wiki/31_May">31 May</a> - <a href="http://memory-alpha.wikia.com/wiki/Trekonomics:_The_Economics_of_Star_Trek"><em>Trekonomics: The Economics of Star Trek</em></a> is released.</p>
 
-&lt;p&gt;36:48  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/7_June&quot;&gt;7 June&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_II:_The_Wrath_of_Khan_%28Director%27s_Cut%29&quot;&gt;&lt;em&gt;Star Trek II: The Wrath of Khan&lt;/em&gt;&lt;/a&gt; 蓝光导演剪辑版&lt;/p&gt;
+<p>34:52  <a href="http://memory-alpha.wikia.com/wiki/1_June">1 June</a> - <a href="http://memory-alpha.wikia.com/wiki/David_Spielberg">David Spielberg</a> dies.  TNG" <a href="http://memory-alpha.wikia.com/wiki/Starship_Mine_%28episode%29">Starship Mine</a>"中扮演 <a href="http://memory-alpha.wikia.com/wiki/Commander">Commander</a> <a href="http://memory-alpha.wikia.com/wiki/Calvin_Hutchinson">Calvin Hutchinson</a></p>
 
-&lt;p&gt;36:59  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/National_Geographic?redlink=1&amp;amp;veaction=edit&amp;amp;flow=create-page-article-redlink&quot;&gt;National Geographic&lt;/a&gt;出版 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Official_Guide_to_Our_Universe&quot;&gt;&lt;em&gt;Star Trek: The Official Guide to Our Universe&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;
+<p>35:54  <a href="http://memory-alpha.wikia.com/wiki/4_June">4 June</a> - <a href="http://memory-alpha.wikia.com/wiki/Rico_Bueno">Rico Bueno</a> dies. DS9与VOY中的背景演员</p>
 
-&lt;p&gt;38:42  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/The_Star_Trek_Book&quot;&gt;&lt;em&gt;The Star Trek Book&lt;/em&gt;&lt;/a&gt; &lt;em&gt;- Strange New Worlds Boldly Explained&lt;/em&gt; by &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Paul_Ruditis&quot;&gt;Paul Ruditis&lt;/a&gt;出版&lt;/p&gt;
+<p>36:48  <a href="http://memory-alpha.wikia.com/wiki/7_June">7 June</a> - <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_II:_The_Wrath_of_Khan_%28Director%27s_Cut%29"><em>Star Trek II: The Wrath of Khan</em></a> 蓝光导演剪辑版</p>
 
-&lt;p&gt;39:03 14 June -  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Ronnie_Claire_Edwards&quot;&gt;Ronnie Claire Edwards&lt;/a&gt; dies. 扮演Data失忆时给与帮助的一个Barkonian科学家Talur&lt;/p&gt;
+<p>36:59  <a href="http://memory-alpha.wikia.com/wiki/National_Geographic?redlink=1&amp;veaction=edit&amp;flow=create-page-article-redlink">National Geographic</a>出版 <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Official_Guide_to_Our_Universe"><em>Star Trek: The Official Guide to Our Universe</em></a></p>
 
-&lt;p&gt;40:59  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/19_June&quot;&gt;19 June&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Anton_Yelchin&quot;&gt;Anton Yelchin&lt;/a&gt; dies. Chekov的Ensign Authorization Code是95VV2。字母V在国际民航组织（ICAO）规定的英语陆空通话标准用语里读法为Victor。 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Anton_Yelchin&quot;&gt;Anton Yelchin&lt;/a&gt;父亲名字Viktor Yelchin。 &lt;strong&gt;可能&lt;/strong&gt; 是致敬吧。&lt;/p&gt;
+<p>38:42  <a href="http://memory-alpha.wikia.com/wiki/The_Star_Trek_Book"><em>The Star Trek Book</em></a> <em>- Strange New Worlds Boldly Explained</em> by <a href="http://memory-alpha.wikia.com/wiki/Paul_Ruditis">Paul Ruditis</a>出版</p>
 
-&lt;p&gt;45:06  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/30_October&quot;&gt;30 October&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Don_Marshall&quot;&gt;Don Marshall&lt;/a&gt; dies. 在TOS&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/The_Galileo_Seven_%28episode%29&quot;&gt;The Galileo Seven&lt;/a&gt;&quot;中演 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Boma&quot;&gt;Lt. Boma&lt;/a&gt;，另外他在Gene Roddenberry创作的另一部电视剧_&quot;Lieutenant&quot; &lt;em&gt;的一集_To Set It Right&lt;/em&gt; 中扮演Nichelle Nichols（Uhura扮演者）的角色的未婚夫。&lt;/p&gt;
+<p>39:03 14 June -  <a href="http://memory-alpha.wikia.com/wiki/Ronnie_Claire_Edwards">Ronnie Claire Edwards</a> dies. 扮演Data失忆时给与帮助的一个Barkonian科学家Talur</p>
 
-&lt;p&gt;47:46  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/21_November&quot;&gt;21 November&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Ron_Thornton&quot;&gt;Ron Thornton&lt;/a&gt; dies.  视效师，视效公司  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Foundation_Imaging&quot;&gt;Foundation Imaging&lt;/a&gt; 创始人，因VOY &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Timeless_%28episode%29&quot;&gt;Timeless&lt;/a&gt;&quot;一集获得艾美奖提名，该公司参与的星际迷航制作有Star Trek: The Motion Picture、DS9、VOY、ENT&lt;/p&gt;
+<p>40:59  <a href="http://memory-alpha.wikia.com/wiki/19_June">19 June</a> - <a href="http://memory-alpha.wikia.com/wiki/Anton_Yelchin">Anton Yelchin</a> dies. Chekov的Ensign Authorization Code是95VV2。字母V在国际民航组织（ICAO）规定的英语陆空通话标准用语里读法为Victor。 <a href="http://memory-alpha.wikia.com/wiki/Anton_Yelchin">Anton Yelchin</a>父亲名字Viktor Yelchin。 <strong>可能</strong> 是致敬吧。</p>
 
-&lt;p&gt;49:32  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/26_November&quot;&gt;26 November&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Fritz_Weaver&quot;&gt;Fritz Weaver&lt;/a&gt; dies. DS9 &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Tribunal_%28episode%29&quot;&gt;Tribunal&lt;/a&gt;&quot; 中扮演O&#39;brien的发言人和律师 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Kovat&quot;&gt;Kovat&lt;/a&gt;&lt;/p&gt;
+<p>45:06  <a href="http://memory-alpha.wikia.com/wiki/30_October">30 October</a> - <a href="http://memory-alpha.wikia.com/wiki/Don_Marshall">Don Marshall</a> dies. 在TOS" <a href="http://memory-alpha.wikia.com/wiki/The_Galileo_Seven_%28episode%29">The Galileo Seven</a>"中演 <a href="http://memory-alpha.wikia.com/wiki/Boma">Lt. Boma</a>，另外他在Gene Roddenberry创作的另一部电视剧_"Lieutenant" <em>的一集_To Set It Right</em> 中扮演Nichelle Nichols（Uhura扮演者）的角色的未婚夫。</p>
 
-&lt;p&gt;51:13 JOHN GLENN，第一个进入地球轨道的太空人( July 18, 1921 – December 8, 2016)&lt;/p&gt;
+<p>47:46  <a href="http://memory-alpha.wikia.com/wiki/21_November">21 November</a> - <a href="http://memory-alpha.wikia.com/wiki/Ron_Thornton">Ron Thornton</a> dies.  视效师，视效公司  <a href="http://memory-alpha.wikia.com/wiki/Foundation_Imaging">Foundation Imaging</a> 创始人，因VOY " <a href="http://memory-alpha.wikia.com/wiki/Timeless_%28episode%29">Timeless</a>"一集获得艾美奖提名，该公司参与的星际迷航制作有Star Trek: The Motion Picture、DS9、VOY、ENT</p>
 
-&lt;p&gt;54:54 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/12_July&quot;&gt;12 July&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Seamon_Glass&quot;&gt;Seamon Glass&lt;/a&gt; dies. &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Benton&quot;&gt;Benton&lt;/a&gt; in &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Mudd%27s_Women_%28episode%29&quot;&gt;Mudd&#39;s Women&lt;/a&gt;&quot;&lt;/p&gt;
+<p>49:32  <a href="http://memory-alpha.wikia.com/wiki/26_November">26 November</a> - <a href="http://memory-alpha.wikia.com/wiki/Fritz_Weaver">Fritz Weaver</a> dies. DS9 " <a href="http://memory-alpha.wikia.com/wiki/Tribunal_%28episode%29">Tribunal</a>" 中扮演O'brien的发言人和律师 <a href="http://memory-alpha.wikia.com/wiki/Kovat">Kovat</a></p>
 
-&lt;p&gt;55:13 《 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Redshirt%27s_Little_Book_of_Doom&quot;&gt;&lt;em&gt;Redshirt&#39;s Little Book of Doom》和《&lt;/em&gt;&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Hidden_Universe_Travel_Guide:_Vulcan&quot;&gt;&lt;em&gt;Hidden Universe Travel Guide: Vulcan&lt;/em&gt;&lt;/a&gt;&lt;em&gt;》出版&lt;/em&gt;&lt;/p&gt;
+<p>51:13 JOHN GLENN，第一个进入地球轨道的太空人( July 18, 1921 – December 8, 2016)</p>
 
-&lt;p&gt;55:58 2 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/22_July&quot;&gt;2 July&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond&quot;&gt;Star Trek Beyond&lt;/a&gt; 北美上映&lt;/p&gt;
+<p>54:54 <a href="http://memory-alpha.wikia.com/wiki/12_July">12 July</a> - <a href="http://memory-alpha.wikia.com/wiki/Seamon_Glass">Seamon Glass</a> dies. <a href="http://memory-alpha.wikia.com/wiki/Benton">Benton</a> in " <a href="http://memory-alpha.wikia.com/wiki/Mudd%27s_Women_%28episode%29">Mudd's Women</a>"</p>
 
-&lt;p&gt;56:03 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/29_July&quot;&gt;29 July&lt;/a&gt; - The &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond_%28soundtrack%29&quot;&gt;Star Trek Beyond soundtrack&lt;/a&gt; is released&lt;/p&gt;
+<p>55:13 《 <a href="http://memory-alpha.wikia.com/wiki/Redshirt%27s_Little_Book_of_Doom"><em>Redshirt's Little Book of Doom》和《</em></a> <a href="http://memory-alpha.wikia.com/wiki/Hidden_Universe_Travel_Guide:_Vulcan"><em>Hidden Universe Travel Guide: Vulcan</em></a><em>》出版</em></p>
 
-&lt;p&gt;56:09 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/2_August&quot;&gt;2 August -&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/David_Huddleston&quot;&gt;David Huddleston 在&lt;/a&gt;&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Emergence_%28episode%29&quot;&gt;Emergence&lt;/a&gt;&quot; TNG 7x23中饰演全息甲板里的列车长&lt;/p&gt;
+<p>55:58 2 <a href="http://memory-alpha.wikia.com/wiki/22_July">2 July</a> - <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond">Star Trek Beyond</a> 北美上映</p>
 
-&lt;p&gt;56:46 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Barry_Jenner&quot;&gt;9 August&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Barry_Jenner&quot;&gt;Barry Jenner&lt;/a&gt; dies.  playing DS9  &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Admiral&quot;&gt;Admiral&lt;/a&gt; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/William_Ross&quot;&gt;William Ross&lt;/a&gt;&lt;/p&gt;
+<p>56:03 <a href="http://memory-alpha.wikia.com/wiki/29_July">29 July</a> - The <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond_%28soundtrack%29">Star Trek Beyond soundtrack</a> is released</p>
 
-&lt;p&gt;57:55 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/1_November&quot;&gt;1 November&lt;/a&gt; -&lt;/p&gt;
+<p>56:09 <a href="http://memory-alpha.wikia.com/wiki/2_August">2 August -</a> <a href="http://memory-alpha.wikia.com/wiki/David_Huddleston">David Huddleston 在</a>" <a href="http://memory-alpha.wikia.com/wiki/Emergence_%28episode%29">Emergence</a>" TNG 7x23中饰演全息甲板里的列车长</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond_%28Blu-ray%29&quot;&gt;&lt;em&gt;Star Trek Beyond&lt;/em&gt;&lt;/a&gt;蓝光碟发布&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Building_Star_Trek&quot;&gt;&lt;em&gt;Building Star Trek&lt;/em&gt;&lt;/a&gt;纪录片发布，b站无字幕版av6196535&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://memory-alpha.wikia.com/wiki/50_Years_of_Star_Trek&quot;&gt;&lt;em&gt;50 Years of Star Trek&lt;/em&gt;&lt;/a&gt;纪录片发布，b站无字幕版av5840482&lt;/li&gt;
-&lt;/ul&gt;
+<p>56:46 <a href="http://memory-alpha.wikia.com/wiki/Barry_Jenner">9 August</a> - <a href="http://memory-alpha.wikia.com/wiki/Barry_Jenner">Barry Jenner</a> dies.  playing DS9  <a href="http://memory-alpha.wikia.com/wiki/Admiral">Admiral</a> <a href="http://memory-alpha.wikia.com/wiki/William_Ross">William Ross</a></p>
 
-&lt;p&gt;58:19 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/15_November&quot;&gt;15 November&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Animated_Series_%28Blu-ray%29&quot;&gt;&lt;em&gt;Star Trek: The Animated Series&lt;/em&gt;&lt;/a&gt; on Blu-ray is released.&lt;/p&gt;
+<p>57:55 <a href="http://memory-alpha.wikia.com/wiki/1_November">1 November</a> -</p>
 
-&lt;p&gt;58:29 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/25_November&quot;&gt;25 November&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Ron_Glass&quot;&gt;Ron Glass&lt;/a&gt; dies. &quot;Nightingale&quot; 中 Loken 扮演者&lt;/p&gt;
+<ul>
+  <li><a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond_%28Blu-ray%29"><em>Star Trek Beyond</em></a>蓝光碟发布</li>
+  <li><a href="http://memory-alpha.wikia.com/wiki/Building_Star_Trek"><em>Building Star Trek</em></a>纪录片发布，b站无字幕版av6196535</li>
+  <li><a href="http://memory-alpha.wikia.com/wiki/50_Years_of_Star_Trek"><em>50 Years of Star Trek</em></a>纪录片发布，b站无字幕版av5840482</li>
+</ul>
 
-&lt;p&gt;58:55 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/29_November&quot;&gt;29 November&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Brian_Demonbreun&quot;&gt;Brian Demonbreun&lt;/a&gt; dies. 建筑可视化艺术家以及 DS9、TNG 共50多集背景演员&lt;/p&gt;
+<p>58:19 <a href="http://memory-alpha.wikia.com/wiki/15_November">15 November</a> - <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Animated_Series_%28Blu-ray%29"><em>Star Trek: The Animated Series</em></a> on Blu-ray is released.</p>
 
-&lt;p&gt;59:41 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/6_December&quot;&gt;6 December&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/For_the_Love_of_Spock&quot;&gt;&lt;em&gt;For the Love of Spock&lt;/em&gt;&lt;/a&gt;, from &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Adam_Nimoy&quot;&gt;Adam Nimoy&lt;/a&gt;, is released.&lt;/p&gt;
+<p>58:29 <a href="http://memory-alpha.wikia.com/wiki/25_November">25 November</a> - <a href="http://memory-alpha.wikia.com/wiki/Ron_Glass">Ron Glass</a> dies. "Nightingale" 中 Loken 扮演者</p>
 
-&lt;p&gt;1:00:02 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/12_December&quot;&gt;12 December&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond:_The_Deluxe_Edition&quot;&gt;&lt;em&gt;Star Trek Beyond: The Deluxe Edition&lt;/em&gt;&lt;/a&gt; is released by &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Var%C3%A8se_Sarabande_Records&quot;&gt;Varèse Sarabande Records&lt;/a&gt;.&lt;/p&gt;
+<p>58:55 <a href="http://memory-alpha.wikia.com/wiki/29_November">29 November</a> - <a href="http://memory-alpha.wikia.com/wiki/Brian_Demonbreun">Brian Demonbreun</a> dies. 建筑可视化艺术家以及 DS9、TNG 共50多集背景演员</p>
 
-&lt;p&gt;1:00:10 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/13_December&quot;&gt;13 December&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series_-_The_Roddenberry_Vault&quot;&gt;&lt;em&gt;Star Trek: The Original Series - The Roddenberry Vault&lt;/em&gt;&lt;/a&gt; on Blu-ray is released.&lt;/p&gt;
+<p>59:41 <a href="http://memory-alpha.wikia.com/wiki/6_December">6 December</a> - <a href="http://memory-alpha.wikia.com/wiki/For_the_Love_of_Spock"><em>For the Love of Spock</em></a>, from <a href="http://memory-alpha.wikia.com/wiki/Adam_Nimoy">Adam Nimoy</a>, is released.</p>
 
-&lt;p&gt;1:00:34 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/20_December&quot;&gt;20 December&lt;/a&gt; -&lt;/p&gt;
+<p>1:00:02 <a href="http://memory-alpha.wikia.com/wiki/12_December">12 December</a> - <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Beyond:_The_Deluxe_Edition"><em>Star Trek Beyond: The Deluxe Edition</em></a> is released by <a href="http://memory-alpha.wikia.com/wiki/Var%C3%A8se_Sarabande_Records">Varèse Sarabande Records</a>.</p>
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series_Adult_Coloring_Book&quot;&gt;Star Trek: The Original Series Adult Coloring Book&lt;/a&gt; from &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Dark_Horse&quot;&gt;Dark Horse&lt;/a&gt; is released.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Next_Generation_Adult_Coloring_Book&quot;&gt;Star Trek: The Next Generation Adult Coloring Book&lt;/a&gt; from Dark Horse is released.&lt;/li&gt;
-&lt;/ul&gt;
+<p>1:00:10 <a href="http://memory-alpha.wikia.com/wiki/13_December">13 December</a> - <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series_-_The_Roddenberry_Vault"><em>Star Trek: The Original Series - The Roddenberry Vault</em></a> on Blu-ray is released.</p>
 
-&lt;p&gt;1:01:07 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/27_December&quot;&gt;27 December&lt;/a&gt; - &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Barbara_Tarbuck&quot;&gt;Barbara Tarbuck&lt;/a&gt; dies. 在TNG 4x23 &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/The_Host_%28episode%29&quot;&gt;The Host&lt;/a&gt;&quot;中扮演 Governor &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Leka_Trion&quot;&gt;Leka Trion&lt;/a&gt;，后又在ENT 第一季&quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Shadows_of_P%27Jem_%28episode%29&quot;&gt;Shadows of P&#39;Jem&lt;/a&gt;&quot;中扮演 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Kalev&quot;&gt;Kalev&lt;/a&gt;&lt;/p&gt;
+<p>1:00:34 <a href="http://memory-alpha.wikia.com/wiki/20_December">20 December</a> -</p>
 
-&lt;p&gt;&lt;strong&gt;JOHN GLENN:&lt;/strong&gt;  For many, many thousands of years, people had looked up and wondered. They&#39;d been curious about what was up there. Now, we must consider ourselves among the most fortunate of all generations, for we have lived at a time when the dream became a reality.&lt;/p&gt;
+<ul>
+  <li><a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Original_Series_Adult_Coloring_Book">Star Trek: The Original Series Adult Coloring Book</a> from <a href="http://memory-alpha.wikia.com/wiki/Dark_Horse">Dark Horse</a> is released.</li>
+  <li><a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Next_Generation_Adult_Coloring_Book">Star Trek: The Next Generation Adult Coloring Book</a> from Dark Horse is released.</li>
+</ul>
 
-&lt;h2 id=&quot;section&quot;&gt;●本台反馈●&lt;/h2&gt;
+<p>1:01:07 <a href="http://memory-alpha.wikia.com/wiki/27_December">27 December</a> - <a href="http://memory-alpha.wikia.com/wiki/Barbara_Tarbuck">Barbara Tarbuck</a> dies. 在TNG 4x23 " <a href="http://memory-alpha.wikia.com/wiki/The_Host_%28episode%29">The Host</a>"中扮演 Governor <a href="http://memory-alpha.wikia.com/wiki/Leka_Trion">Leka Trion</a>，后又在ENT 第一季" <a href="http://memory-alpha.wikia.com/wiki/Shadows_of_P%27Jem_%28episode%29">Shadows of P'Jem</a>"中扮演 <a href="http://memory-alpha.wikia.com/wiki/Kalev">Kalev</a></p>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<p><strong>JOHN GLENN:</strong>  For many, many thousands of years, people had looked up and wondered. They'd been curious about what was up there. Now, we must consider ourselves among the most fortunate of all generations, for we have lived at a time when the dream became a reality.</p>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<h2 id="section">●本台反馈●</h2>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 </description>
-        <pubDate>Sun, 22 Jan 2017 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/32/</link>
-        <guid isPermaLink="true">http://trekin.space/32/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>31 星舰学院报考指南</title>
-        <description>&lt;p&gt;想考星舰学院却不知道该学什么专业？收听时请查看 &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Starfleet_Academy_courses&quot;&gt;星联学院专业目录&lt;/a&gt;&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;本期节目录制于20161224，主播：小猪|深思|CrazyEMH&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;————&lt;/p&gt;
+<item>
+    <title>31 星舰学院报考指南</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>31 星舰学院报考指南</itunes:subtitle>
+    <itunes:summary>31 星舰学院报考指南</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3</guid>
+    <pubDate>Sun, 25 Dec 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/31/</link>
+    <description><p>想考星舰学院却不知道该学什么专业？收听时请查看 <a href="http://memory-alpha.wikia.com/wiki/Starfleet_Academy_courses">星联学院专业目录</a></p>
 
-&lt;p&gt;星联英语补习班：&lt;/p&gt;
+<p>本期节目录制于20161224，主播：小猪|深思|CrazyEMH</p>
 
-&lt;ul&gt;
-  &lt;li&gt;Starfleet&lt;/li&gt;
-  &lt;li&gt;some kind of&lt;/li&gt;
-&lt;/ul&gt;
+<p>————</p>
 
-&lt;p&gt;星舰学院入学考场：&lt;/p&gt;
+<p>星联英语补习班：</p>
 
-&lt;ul&gt;
-  &lt;li&gt;什么是黄色警报？&lt;/li&gt;
-  &lt;li&gt;星舰学院学费多少？&lt;/li&gt;
-&lt;/ul&gt;
+<ul>
+  <li>Starfleet</li>
+  <li>some kind of</li>
+</ul>
 
-&lt;p&gt;10:00 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E4%BA%8C%E6%9C%88%E9%9D%A9%E5%91%BD&quot;&gt;二月革命&lt;/a&gt;推翻了沙皇专制并建立了以贵族和前贵族为主体组建的 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9B%BD%E4%B8%B4%E6%97%B6%E6%94%BF%E5%BA%9C&quot;&gt;临时政府&lt;/a&gt;。同年，十月革命推翻临时政府，建立了苏维埃政权。&lt;/p&gt;
+<p>星舰学院入学考场：</p>
 
-&lt;p&gt;15:11 星舰学院校训(motto )：&lt;em&gt;Ex Astris Scientia&lt;/em&gt;, from the stars, knowledge.&lt;/p&gt;
+<ul>
+  <li>什么是黄色警报？</li>
+  <li>星舰学院学费多少？</li>
+</ul>
 
-&lt;p&gt;40:50 曲速五的限制( &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Next_Generation&quot;&gt;TNG&lt;/a&gt;: &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Force_of_Nature_%28episode%29&quot;&gt;Force of Nature&lt;/a&gt;&quot;, &quot; &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Eye_of_the_Beholder_%28episode%29&quot;&gt;Eye of the Beholder&lt;/a&gt;&quot;)&lt;/p&gt;
+<p>10:00 <a href="https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9C%8B%E4%BA%8C%E6%9C%88%E9%9D%A9%E5%91%BD">二月革命</a>推翻了沙皇专制并建立了以贵族和前贵族为主体组建的 <a href="https://zh.wikipedia.org/wiki/%E4%BF%84%E5%9B%BD%E4%B8%B4%E6%97%B6%E6%94%BF%E5%BA%9C">临时政府</a>。同年，十月革命推翻临时政府，建立了苏维埃政权。</p>
 
-&lt;p&gt;41:20 Voyager 高速航行于低速航行时的曲速仓位置不同，详见 Memory Alpha 词条： &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Variable_geometry_pylon&quot;&gt;Variable geometry pylon&lt;/a&gt;&lt;/p&gt;
+<p>15:11 星舰学院校训(motto )：<em>Ex Astris Scientia</em>, from the stars, knowledge.</p>
 
-&lt;p&gt;49:01 煎蛋小学堂&lt;/p&gt;
+<p>40:50 曲速五的限制( <a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_The_Next_Generation">TNG</a>: " <a href="http://memory-alpha.wikia.com/wiki/Force_of_Nature_%28episode%29">Force of Nature</a>", " <a href="http://memory-alpha.wikia.com/wiki/Eye_of_the_Beholder_%28episode%29">Eye of the Beholder</a>")</p>
 
-&lt;p&gt;59:42 Keenser&lt;/p&gt;
+<p>41:20 Voyager 高速航行于低速航行时的曲速仓位置不同，详见 Memory Alpha 词条： <a href="http://memory-alpha.wikia.com/wiki/Variable_geometry_pylon">Variable geometry pylon</a></p>
 
-&lt;p&gt;1:05:15 电影 Star Trek (2009) 中幼年Spock在考试/训练时曾出现过的一个考题：维数的定义是什么？答到：维数的定义是N的log除以……此即分形维数的定义。&lt;/p&gt;
+<p>49:01 煎蛋小学堂</p>
 
-&lt;p&gt;1:16:20 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%BE%B7%E5%8D%9A%E9%9B%86%E5%90%88&quot;&gt;曼德博集合&lt;/a&gt;&lt;/p&gt;
+<p>59:42 Keenser</p>
 
-&lt;h2 id=&quot;section&quot;&gt;●本台反馈●&lt;/h2&gt;
+<p>1:05:15 电影 Star Trek (2009) 中幼年Spock在考试/训练时曾出现过的一个考题：维数的定义是什么？答到：维数的定义是N的log除以……此即分形维数的定义。</p>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<p>1:16:20 <a href="https://zh.wikipedia.org/wiki/%E6%9B%BC%E5%BE%B7%E5%8D%9A%E9%9B%86%E5%90%88">曼德博集合</a></p>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<h2 id="section">●本台反馈●</h2>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 </description>
-        <pubDate>Sun, 25 Dec 2016 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/31/</link>
-        <guid isPermaLink="true">http://trekin.space/31/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>30 近期新闻与校园霸凌</title>
-        <description>&lt;p&gt;对上期节目追踪之后我们聊了一些近期的新闻，最后谈了下知道TOS、TNG年代也没有解决的校园霸凌问题。考虑到星际迷航粉有可能是班里的怪胎（偏见？），有必要对欺负与被欺负的孩子以及将来的家长们提个醒，将问题重视起来。至于解决之道，大家具体问题具体分析，注意技巧（比如Spock打架前就先将熊孩子推到一边单挑）。&lt;/p&gt;
+	<itunes:order>itunesoder</itunes:order>
+</item>
 
-&lt;p&gt;本期节目录制于20161224，主播：小猪|深思|CrazyEMH&lt;/p&gt;
+	
+	
+	
 
-&lt;p&gt;————&lt;/p&gt;
+<item>
+    <title>30 近期新闻与校园霸凌</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>30 近期新闻与校园霸凌</itunes:subtitle>
+    <itunes:summary>30 近期新闻与校园霸凌</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3</guid>
+    <pubDate>Sun, 25 Dec 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/30/</link>
+    <description><p>对上期节目追踪之后我们聊了一些近期的新闻，最后谈了下知道TOS、TNG年代也没有解决的校园霸凌问题。考虑到星际迷航粉有可能是班里的怪胎（偏见？），有必要对欺负与被欺负的孩子以及将来的家长们提个醒，将问题重视起来。至于解决之道，大家具体问题具体分析，注意技巧（比如Spock打架前就先将熊孩子推到一边单挑）。</p>
 
-&lt;p&gt;06:09 有兴趣参演星际迷航粉丝剧的听众可联系导演 Da Han，微信号是 da-han1，要求懂些英语能简单交流。&lt;/p&gt;
+<p>本期节目录制于20161224，主播：小猪|深思|CrazyEMH</p>
 
-&lt;p&gt;10:35 流体力学科普时间。涉及概念：滞止点(stagnation Point)，绝热滞止，激波&lt;/p&gt;
+<p>————</p>
 
-&lt;p&gt;20:46 勘误：&quot; &lt;strong&gt;Row, Row, Row Your Boat&lt;/strong&gt;&quot; 出现在电影五( &lt;a href=&quot;http://memory-alpha.wikia.com/wiki/Star_Trek_V:_The_Final_Frontier&quot;&gt;Star Trek V: The Final Frontier&lt;/a&gt;)&lt;/p&gt;
+<p>06:09 有兴趣参演星际迷航粉丝剧的听众可联系导演 Da Han，微信号是 da-han1，要求懂些英语能简单交流。</p>
 
-&lt;p&gt;21:11 &lt;a href=&quot;https://en.wikipedia.org/wiki/Blue_Skies_(Irving_Berlin_song)&quot;&gt;Blue Skies (Irving Berlin song)&lt;/a&gt;&lt;/p&gt;
+<p>10:35 流体力学科普时间。涉及概念：滞止点(stagnation Point)，绝热滞止，激波</p>
 
-&lt;p&gt;22:00  星联英语补习班&lt;/p&gt;
+<p>20:46 勘误：" <strong>Row, Row, Row Your Boat</strong>" 出现在电影五( <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_V:_The_Final_Frontier">Star Trek V: The Final Frontier</a>)</p>
 
-&lt;ul&gt;
-  &lt;li&gt;mycologist [maɪ&#39;kɑlədʒɪst] n.  霉菌学者&lt;/li&gt;
-  &lt;li&gt;fungus [&#39;fʌŋgəs] n.  菌类; 蘑菇&lt;/li&gt;
-&lt;/ul&gt;
+<p>21:11 <a href="https://en.wikipedia.org/wiki/Blue_Skies_(Irving_Berlin_song)">Blue Skies (Irving Berlin song)</a></p>
 
-&lt;p&gt;39:31 &lt;a href=&quot;https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E5%8B%95%E5%8A%9B%E8%99%9F&quot;&gt;阳光动力号全太阳能飞机&lt;/a&gt;(Solar Impulse)&lt;/p&gt;
+<p>22:00  星联英语补习班</p>
 
-&lt;p&gt;40:20 《赡养人类》刘慈欣&lt;/p&gt;
+<ul>
+  <li>mycologist [maɪ'kɑlədʒɪst] n.  霉菌学者</li>
+  <li>fungus ['fʌŋgəs] n.  菌类; 蘑菇</li>
+</ul>
 
-&lt;p&gt;59:19 After-show&lt;/p&gt;
+<p>39:31 <a href="https://zh.wikipedia.org/wiki/%E9%99%BD%E5%85%89%E5%8B%95%E5%8A%9B%E8%99%9F">阳光动力号全太阳能飞机</a>(Solar Impulse)</p>
 
-&lt;p&gt;使用手来估算两点之间所夹角度&lt;/p&gt;
+<p>40:20 《赡养人类》刘慈欣</p>
 
-&lt;p&gt;总结：&lt;/p&gt;
+<p>59:19 After-show</p>
 
-&lt;ul&gt;
-  &lt;li&gt;手臂伸长后 小拇指宽为1°&lt;/li&gt;
-  &lt;li&gt;食、中、无名指并拢，宽度为5°&lt;/li&gt;
-  &lt;li&gt;拳头宽10°&lt;/li&gt;
-  &lt;li&gt;小指与食指尽量分开，宽度15°&lt;/li&gt;
-  &lt;li&gt;小指与大拇指尽量分开，宽度为25°&lt;/li&gt;
-&lt;/ul&gt;
+<p>使用手来估算两点之间所夹角度</p>
 
-&lt;h2 id=&quot;section&quot;&gt;●本台反馈●&lt;/h2&gt;
+<p>总结：</p>
 
-&lt;p&gt;Email: &lt;a href=&quot;&amp;#109;&amp;#097;&amp;#105;&amp;#108;&amp;#116;&amp;#111;:&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&quot;&gt;&amp;#115;&amp;#117;&amp;#098;&amp;#115;&amp;#112;&amp;#097;&amp;#099;&amp;#101;&amp;#115;&amp;#105;&amp;#103;&amp;#110;&amp;#097;&amp;#108;&amp;#064;&amp;#113;&amp;#113;&amp;#046;&amp;#099;&amp;#111;&amp;#109;&lt;/a&gt;, all frequencies open.&lt;/p&gt;
+<ul>
+  <li>手臂伸长后 小拇指宽为1°</li>
+  <li>食、中、无名指并拢，宽度为5°</li>
+  <li>拳头宽10°</li>
+  <li>小指与食指尽量分开，宽度15°</li>
+  <li>小指与大拇指尽量分开，宽度为25°</li>
+</ul>
 
-&lt;p&gt;听众交流群：QQ群号 591546843&lt;/p&gt;
+<h2 id="section">●本台反馈●</h2>
 
-&lt;p&gt;新浪微博：迷于星际迷航播客&lt;/p&gt;
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
 </description>
-        <pubDate>Sun, 25 Dec 2016 00:00:00 +0800</pubDate>
-        <link>http://trekin.space/30/</link>
-        <guid isPermaLink="true">http://trekin.space/30/</guid>
-        
-        <category>播客</category>
-        
-        
-      </item>
-    
-  </channel>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>29 论轨道动力学与星际迷航的关系</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>29 论轨道动力学与星际迷航的关系</itunes:subtitle>
+    <itunes:summary>29 论轨道动力学与星际迷航的关系</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3</guid>
+    <pubDate>Sat, 26 Nov 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/29s/</link>
+    <description><p>科普了超级月亮之后，我们讨论了在太空中被打坏引擎会不会往下掉的问题。</p>
+
+<p>本期节目录制于20161125，主播：深思|CrazyEMH</p>
+
+<p>————</p>
+
+<p>01:05 问答环节</p>
+
+<ul>
+  <li>Kirk出生在哪个州？</li>
+  <li>Kirk出生在凤凰号发射多少年后？</li>
+</ul>
+
+<p>03:31 英语小课堂</p>
+
+<ul>
+  <li>canon：标准、教规、官方正史，教士</li>
+  <li>cannon：大炮</li>
+  <li>Canon：佳能</li>
+</ul>
+
+<p>20:12 口误：「航天飞机上去之后是不带燃料的」航天飞机上天时是主要的燃料消耗阶段，少部分燃料留作变轨之用，不留燃料显然不现实。</p>
+
+<p>28:45 詹姆斯.韦伯望远镜在日地拉格朗日L2点</p>
+
+<p>29:03 天琴计划 在哪个拉格朗日点暂未查确</p>
+
+<p>32:18 <a href="http://memory-alpha.wikia.com/wiki/Bussard_collector">Bussard collector</a></p>
+
+<p>35:09 轨道根数</p>
+
+<p>36:02 霍曼转移</p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号591546843</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>28 越来越远</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>28 越来越远</itunes:subtitle>
+    <itunes:summary>28 越来越远</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3</guid>
+    <pubDate>Sat, 19 Nov 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/28/</link>
+    <description><p>这次聊了一些我们并不懂的东西——政治，肯定牵扯到派别问题，大家求同存异，欢迎反馈。</p>
+
+<p>为了方便听众交流、也方便及时反馈，我们建QQ群了，群号591546843。反馈更推荐邮件。</p>
+
+<p>本期节目录制于20161113，主播：深思|CrazyEMH</p>
+
+<p>————</p>
+
+<p>11:18 Soval. 勘误：Spock 的爸爸是 Sarek</p>
+
+<p>12:13 节目改版第一个新加的环节：星际迷航英语小课堂</p>
+
+<ul>
+  <li>Phaser(phase):
+    <ul>
+      <li>相，如相位，月相，物质的气相、液相等</li>
+      <li>阶段，时期</li>
+    </ul>
+  </li>
+</ul>
+
+<p>15:13 Interphasic cloaking device（相位隐身装置），出现在"The Pegasus" TNG 7x12</p>
+
+<p>16:32 著名哲学入门读物：《苏菲的世界》</p>
+
+<p>21:28 第二个节目改版新加的环节：星联入学考场</p>
+
+<ul>
+  <li>Enterprise J 是什么？</li>
+</ul>
+
+<p>有没有超曲速能力？直接飞到仙女座星系？*******************</p>
+
+<p>24:23 本期话题 <a href="https://www.facebook.com/TrekAgainstTrumpOfficial/">Trek Against Trump</a></p>
+
+<p>32:56 机器叫 Landru，出现在"The Return of the Archons" TOS 1x22</p>
+
+<p>34:07 听两个记忆力差的人聊剧情是不是很难受？</p>
+
+<ul>
+  <li>希腊神出现在"Who Mourns for Adonais?" TOS 2x04</li>
+</ul>
+
+<p>38:20 您的单身狗主播已上线</p>
+
+<p>参考阅读：</p>
+
+<p><a href="http://www.claremont.org/crb/article/the-politics-of-star-trek/">The Politics of Star Trek</a></p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+
+<p>听众交流群：QQ群号591546843</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>27 玖凉豆浆机（下）：这就是我想说的宇宙感</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>27 玖凉豆浆机（下）：这就是我想说的宇宙感</itunes:subtitle>
+    <itunes:summary>27 玖凉豆浆机（下）：这就是我想说的宇宙感</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3</guid>
+    <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/27/</link>
+    <description><p>上次讲到2016年在伯明翰举办的 Destination Star Trek Europe 的活动与参与嘉宾，本期节目为下节，玖凉豆浆机继续跟我们分享了这次 DST 中，粉丝们是怎么玩的，以及参加这次 DST 的感受。</p>
+
+<p>本期节目录制于20161026，嘉宾：玖凉豆浆机，主播：CrazyEMH</p>
+
+<p>————</p>
+
+<p>04:38 克林贡弯刀装饰的包可查看嘉宾微博</p>
+
+<p>23:08 "Data's Day", TNG 4x11</p>
+
+<p>45:16 <a href="http://www.theofficialleonardnimoyfanclub.com/">The Official Leonard Nimoy Fanclub</a></p>
+
+<p>48:35 <a href="https://www.facebook.com/OneWayTrekTeam/">One Way Trek</a></p>
+
+<p>嘉宾微博：<a href="http://weibo.com/lunaliang1029">玖凉豆浆机_安静的魁地奇追球手</a></p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>26 一周岁，聊聊我们怎么上船的</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>26 一周岁，聊聊我们怎么上船的</itunes:subtitle>
+    <itunes:summary>26 一周岁，聊聊我们怎么上船的</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3</guid>
+    <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/26/</link>
+    <description><p>本期我们聊了我们是如何登上「做播客」这条船的？还科普了 iTunes Podcasts 的工作原理以及土。接着推荐了一些播客节目，最后我们还聊了未来的计划。本期无干货，且深思宿舍杂音较大，见谅。</p>
+
+<p>本期节目录制于20161030，主播：小猪|深思|CrazyEMH</p>
+
+<p>————</p>
+
+<p>14:29 勘误：不是「极客电台」，而是「极客秀」</p>
+
+<p>15:20 播客推荐：原来是这样</p>
+
+<p>15:39 播客推荐：星缘星语</p>
+
+<p>29:20 播客推荐： <a href="https://www.theincomparable.com/robot/">Robot or Not?</a></p>
+
+<hr />
+
+<p>暗蓝的夜幕下，</p>
+
+<p>闪烁着一颗明星。</p>
+
+<p>那里没有贫穷，没有战争，</p>
+
+<p>所有的所有，都是希望。</p>
+
+<p>永不破灭的希望。</p>
+
+<p>蓝旗下的光亮，闪耀四方，</p>
+
+<p>勇敢地闯荡最后的边疆。</p>
+
+<p>一批批迷航者，远离家乡。</p>
+
+<p>去探寻新的生命，新的文明，新的梦想；</p>
+
+<p>和远在系外的，万丈光芒。</p>
+
+<p>by 听众贾同学</p>
+
+<hr />
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+
+<p>最后欢迎大家共建阿尔法记忆中文社区</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>25 玖凉豆浆机（上）：肉体饥饿，精神充实</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>25 玖凉豆浆机（上）：肉体饥饿，精神充实</itunes:subtitle>
+    <itunes:summary>25 玖凉豆浆机（上）：肉体饥饿，精神充实</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3</guid>
+    <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/25/</link>
+    <description><p>参加星际迷航大会是种什么样的体验？如何评价2016年在伯明翰举办的 Destination Star Trek Europe？来听听远在英国的玖凉豆浆机 boldly go 的故事吧。</p>
+
+<p>时长太长，分了两节，此为上节，主要为本次活动和嘉宾的介绍。就算是分节了，本期时长仍较长，如果不想一口气听完，建议在时间 01:28:50 处休息。</p>
+
+<p>本期节目录制于20161026，嘉宾：玖凉豆浆机，主播：CrazyEMH</p>
+
+<p>————</p>
+
+<p>04:00  <a href="https://www.youtube.com/watch?v=wyuwNeenmwk">五舰长会谈 5 Star Trek Captains Interviewed on Stage in London, 2012</a></p>
+
+<p>23:10 <a href="http://www.destinationstartrek.com/">Destination Star Trek 官网</a></p>
+
+<p>24:36 Patrick Stewart (@SirPatStew) <a href="https://twitter.com/SirPatStew">Twitter</a></p>
+
+<p>29:55 George Takei，武井 穂郷，是「武井」，不是「竹井」</p>
+
+<p>30:28 提到的人：喵北玉，新浪微博@猫北玉-玉在北阙</p>
+
+<p>34:31 George Takei 的 "Oh my":</p>
+
+<ul>
+  <li>
+    <p><a href="https://youtu.be/HZ9b4hStDps">How 'Oh My' Became George Takei's Catchphrase | Time</a></p>
+  </li>
+  <li>
+    <p><a href="https://youtu.be/DPkaWNxSlVs">George Takei explains origins of "OH MY!" (10/18/2013)</a></p>
+  </li>
+</ul>
+
+<p>38:02 （那只！）Gorn 的扮演者叫 <a href="http://www.destinationstartrek.com/guests/appearing/627-bobby-clark-2">Bobby Clark</a></p>
+
+<p>47:21 Eddie Paskey</p>
+
+<ul>
+  <li>表演的角色（部分）：
+    <ul>
+      <li>Lieutenant Leslie，"The Naked Time"</li>
+      <li>卡车司机替身，"The City on the Edge of Forever", TOS 1x28</li>
+    </ul>
+  </li>
+  <li>更多信息：
+    <ul>
+      <li><a href="http://www.destinationstartrek.com/guests/appearing/618-eddie-paskey-2">destinationstartrek.com</a></li>
+      <li><a href="http://memory-alpha.wikia.com/wiki/Eddie_Paskey">memory-alpha</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>59:20 TNG 5x16 "Ethics" 中 Beverly Crusher 的医德</p>
+
+<p>1:09:54 提到的人：狼太太，新浪微博@狼PP</p>
+
+<p>1:10:49 Robert O'Reilly，Gowron 扮演者</p>
+
+<p>1:15:32 Garett Wang 用中文回答「什么时候回中国」的<a href="http://video.weibo.com/player/1034:d2e47d9ce4abc5829432566870ff56af/v.swf">视频</a>，来自 玖凉豆浆机 的微博秒拍视频</p>
+
+<p>1:28:32 提到的人：新浪微博@舟中小卒</p>
+
+<p>1:32:39 约克镇控制中心主管客串 Greg Grunberg</p>
+
+<p>1:34:29 道具师 Michael Moore</p>
+
+<p>1:38:15 Michael Moore 等给 @StarTrekChina 的<a href="http://video.weibo.com/player/1034:c4a49a29e769f5f7a11c43ed9ddc7763/v.swf">问候</a></p>
+
+<p>1:38:37 嘉宾机智的找道具师 Michael Moore 要的签名内容为 "Make something"</p>
+
+<blockquote>
+  <p>[Well, we're making a podcast. :)]</p>
+</blockquote>
+
+<p>1:42:15 交互性很好的展 The Starfleet Academy Experience</p>
+
+<ul>
+  <li><a href="http://starfleetacademytour.com/">官网</a></li>
+  <li><a href="http://www.startrek.com/article/coming-in-2016-the-starfleet-academy-experience">startrek.com的报道</a></li>
+  <li><a href="http://www.dailydot.com/parsec/star-trek-starfleet-intrepid-museum/">dailydot.com的报道</a></li>
+</ul>
+
+<p>1:42:22 提到的人：道尔，2015年5月20日在位于 Los Angeles 的 Paramount Pictures Studios 举办的 Star Trek Fan Event 上面回答问题得到了Jaylah的staff（棒子）。</p>
+
+<ul>
+  <li>附<a href="http://thehypedgeek.com/a-day-at-the-star-trek-beyond-and-50th-anniversary-fan-event/">当时的新闻链接</a></li>
+</ul>
+
+<p>1:48:01 William Shatner 与几位老人去亚洲旅游的真人秀叫 "Better Late than Never"</p>
+
+<p>• Youtube 官方频道（无全片）：https://www.youtube.com/channel/UCqfhoZOoNt2ZpsDBnLAAW4Q</p>
+
+<p>• CrazyEMH 截至目前（20161108）仍没找到可以看的地方（求搬运）</p>
+
+<p>• NBC 官网可看：http://www.nbc.com/better-late-than-never?nbc=1，但国内即使翻墙也显示您的位置不支持观看（求搬运）</p>
+
+<p>1:51:10 William Shatner 与 Patrick Stewart 的谈话出自纪录片 The Captains</p>
+
+<p>1:51:18 Star Trek: The Captain's Summit 2009（舰长峰会，出席：William Shatner, Leonard Nimoy, Patrick Stewart &amp; Jonathan Frakes）
+* <a href="https://www.youtube.com/watch?v=80rv2cSmmYg">YouTube</a>
+* <a href="http://www.bilibili.com/video/av1241601/">B站上熟肉</a></p>
+
+<p>1:56:53 The Star Trek Rat Pack 乐队</p>
+
+<p>————</p>
+
+<p>注：</p>
+
+<p>•  「大大/太太」为网络用语，表示对被称谓者的崇拜</p>
+
+<p>•  「瞻哥」指王以瞻 Garett Wang</p>
+
+<p>嘉宾微博：<a href="http://weibo.com/lunaliang1029">玖凉豆浆机_安静的魁地奇追球手</a></p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>24 **你就收了这个妖孽吧</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>24 **你就收了这个妖孽吧</itunes:subtitle>
+    <itunes:summary>24 **你就收了这个妖孽吧</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3</guid>
+    <pubDate>Sun, 16 Oct 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/24/</link>
+    <description><p>号外号外，我台已经马上一周年了，如果大家有什么话想对我们说的，可以通过以下渠道给我们反馈：</p>
+
+<ol>
+  <li>喜马拉雅/荔枝的评论</li>
+  <li>邮件：subspacesignal@qq.com</li>
+  <li>微博：@迷于星际迷航播客，可私信，亦可直接发微博@我们</li>
+</ol>
+
+<p>注意反馈时私信上您的地址等信息，我们会寄出明信片，明信片的选择有：星际迷航相关（主播们自己制作，可附上自己喜欢的电视系列/电影）、北京地区各个大学的明信片、西南大学、四川外国语大学的明信片。</p>
+
+<p>至于这期标题为什么这么起，您听了就知道。</p>
+
+<p>本期节目录制于20161016，主播：小猪|CrazyEMH</p>
+
+<p>————</p>
+
+<p>10:08 标题为什么这么起</p>
+
+<h2 id="section">●本台反馈●</h2>
+<p>Email: subspacesignal@qq.com, all frequencies open.
+新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>23 Da Han (Part 1): I need more 'Star Trek drug' </title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>23 Da Han (Part 1): I need more 'Star Trek drug' </itunes:subtitle>
+    <itunes:summary>23 Da Han (Part 1): I need more 'Star Trek drug' </itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3</guid>
+    <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/23/</link>
+    <description><p>A short introduction of director Da Han. This is the first part of the interview. Hope you enjoy. Please wait for the second part.</p>
+
+<p>Da Han was one of the first filmmakers to produce and direct Star Trek Fan films.  Recently, he and his fellow collaborators in Beijing began production on China's very first Star Trek fan film "TRek'd", shot on actual sets during the Star Trek exhibition in Beijing. The shooting is still going on, so if you have any talent in show business and want to play a part, any part, in the first Chinese Star Trek fan film ( in Chinese! ) you can hail him through feedback email below.</p>
+
+<p>He also hosts Star Trek fan events in Beijing. He hopes to share his passion with Chinese trekkers, boldly, like few foreigners have done before…</p>
+
+<p>导演Da Han的一个简短的采访（第一部分），希望您听得愉快。敬请期待第二部分。</p>
+
+<p>Da Han是最早开始制作星际迷航粉丝剧的导演之一，现在他与他的小伙伴们在北京开拍中国的第一部星际迷航的粉丝剧 TRek'd。他们在星际迷航特展现场实景拍摄，目前拍摄还在继续，如果你有表演天赋，或者你还不知道你有表演天赋想试一下，欢迎找Da Han报名，成为中文星际迷航粉丝剧中的一员（主角或路人红衫均可）。报名直接联系下面的反馈邮箱即可。</p>
+
+<p>本期节目录制于20161006，嘉宾：Da Han，主播：CrazyEMH</p>
+
+<p>————</p>
+
+<p>05:28 <a href="http://www.startrek.com/article/bjo-trimble-the-woman-who-saved-star-trek-part-1">Bjo Trimble: The Woman Who Saved Star Trek</a></p>
+
+<h2 id="section">·本台反馈·</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>22 看星际迷航也是要听音乐的</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>22 看星际迷航也是要听音乐的</itunes:subtitle>
+    <itunes:summary>22 看星际迷航也是要听音乐的</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561831345472942598_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/10/11/2561831345472942598_hd.mp3</guid>
+    <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/22/</link>
+    <description><p>一直想聊星际迷航音乐，这次终于来了。大概介绍了一下电影电视的片头和主旋律，诸如星联国歌、The Inner Light、克林贡歌曲、还有歌剧爱好者EMH与Seven of Nine的合唱等等这种小曲子就没有统计在内，下次一定补。</p>
+
+<p>我们相信本期中使用的音乐片段都仅仅是用作批评、评论、教学或研究为目的，是属于合理使用（Fair use）的范畴，如有纰漏还请谅解，请联系我们删除。音乐版权归各自版权方所有。</p>
+
+<p>即使以教育与推广为目的，也不能完整的给大家放音乐，带来的不便敬请大家谅解。如果您非常熟悉星际迷航音乐，您一定知道我们在说啥，也一定能通过一个小片段脑补出整个曲子。</p>
+
+<p>如果实在脑补不出，获取本期完整版途径：</p>
+
+<ol>
+  <li>以「索取第22期音乐完整版」为邮件主题，任意文字为内容发送邮件至lostinst@qq.com</li>
+  <li>喜马拉雅的听众可前往本账号的另一个叫「Saved」的专辑收听，<a href="http://www.ximalaya.com/6418191/sound/23036814">链接</a></li>
+  <li><a href="http://pan.baidu.com/s/1o7ONLpg">百度云链接</a> 密码：z55r</li>
+</ol>
+
+<p>本期节目录制于20161003，主播：深思|CrazyEMH</p>
+
+<p>————</p>
+
+<p>曲目表</p>
+
+<ul>
+  <li>国家交响乐团 – 嘎达梅林</li>
+  <li>群星 – 苗岭的早晨</li>
+  <li><a href="https://en.wikipedia.org/wiki/Alexander_Courage">Alexander Courage</a> – Suite from " <a href="https://en.wikipedia.org/wiki/The_Menagerie_%28Star_Trek:_The_Original_Series%29">The Menagerie</a>"</li>
+  <li>Alexander Courage – Main Theme from " <a href="https://en.wikipedia.org/wiki/Star_Trek:_The_Original_Series">Star Trek</a>" (TV Series)</li>
+  <li><a href="https://en.wikipedia.org/wiki/Jerry_Goldsmith">Jerry Goldsmith</a> – Main Theme from " <a href="https://en.wikipedia.org/wiki/Star_Trek:_The_Motion_Picture">Star Trek: The Motion Picture</a>"</li>
+  <li>Jerry Goldsmith – Klingon Battle from "Star Trek: The Motion Picture"</li>
+  <li><a href="https://en.wikipedia.org/wiki/James_Horner">James Horner</a> – Main Title from "Star Trek II: The Wrath of Khan"</li>
+  <li>James Horner – Epilogue from "Star Trek II: The Wrath of Khan"</li>
+  <li>James Horner – End Credits from "Star Trek II: The Wrath of Khan"</li>
+  <li>James Horner – Main Theme from " <a href="https://en.wikipedia.org/wiki/Star_Trek_III:_The_Search_for_Spock">Star Trek III: The Search for Spock</a>"</li>
+  <li><a href="https://en.wikipedia.org/wiki/Leonard_Rosenman">Leonard Rosenman</a> – Main Title from " <a href="https://en.wikipedia.org/wiki/Star_Trek_IV:_The_Voyage_Home">Star Trek IV: The Voyage Home</a>"</li>
+  <li><a href="https://en.wikipedia.org/wiki/Dennis_McCarthy_%28composer%29">Dennis McCarthy</a>/arr. <a href="https://en.wikipedia.org/wiki/Steven_Reineke">Reineke</a> – Main Theme from " <a href="https://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation">Star Trek: The Next Generation</a>"</li>
+  <li>Jerry Goldsmith – A Busy Man from " <a href="https://en.wikipedia.org/wiki/Star_Trek_V:_The_Final_Frontier">Star Trek V: The Final Frontier</a>"</li>
+  <li><a href="https://en.wikipedia.org/wiki/Cliff_Eidelman">Cliff Eidelman</a> – End Title from " <a href="https://en.wikipedia.org/wiki/Star_Trek_VI:_The_Undiscovered_Country">Star Trek VI: The Undiscovered Country</a>"</li>
+  <li><a href="https://en.wikipedia.org/wiki/Dennis_McCarthy_%28composer%29">Dennis McCarthy</a>/arr. Reineke – Main Theme from " <a href="https://en.wikipedia.org/wiki/Star_Trek:_Deep_Space_Nine">Star Trek: Deep Space Nine</a>"</li>
+  <li>Dennis McCarthy/arr. <a href="https://en.wikipedia.org/wiki/Mark_McKenzie">McKenzie</a> – End Title from " <a href="https://en.wikipedia.org/wiki/Star_Trek_Generations">Star Trek Generations</a>"</li>
+  <li>Jerry Goldsmith/arr. Mann – Main Theme from " <a href="https://en.wikipedia.org/wiki/Star_Trek:_Voyager">Star Trek: Voyager</a>"</li>
+  <li>Michael Giacchino -Star Trek Main Theme</li>
+  <li>Michael Giacchino- That New Car Smell</li>
+</ul>
+
+<p>相关链接：</p>
+
+<ul>
+  <li>
+    <p>耶鲁大学公开课：聆听音乐</p>
+  </li>
+  <li>
+    <p><a href="https://zh.coursera.org/specializations/musicianship-specialization">Berklee公开课：Develop your skills as a musician</a></p>
+  </li>
+  <li>
+    <p><a href="https://en.wikipedia.org/wiki/Star_Trek:_The_Music">曲目出处</a></p>
+  </li>
+  <li>
+    <p><a href="https://youtu.be/32n4h0kn-88">竞选音乐版权问题 Campaign Songs: Last Week Tonight with John Oliver (HBO)</a></p>
+  </li>
+</ul>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>21 For the Love of 'Leonard Nimoy' 纪录片</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>21 For the Love of 'Leonard Nimoy' 纪录片</itunes:subtitle>
+    <itunes:summary>21 For the Love of 'Leonard Nimoy' 纪录片</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3</guid>
+    <pubDate>Thu, 06 Oct 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/21/</link>
+    <description><p>Adam Nimoy 拍的纪录片 <a href="http://fortheloveofspock.com/">For the Love of Spock</a> 的一点回顾。</p>
+
+<p>本期节目录制于20161003，主播：小猪|CrazyEMH</p>
+
+<p>————</p>
+
+<p>13:37 "Amok Time"  <a href="http://memory-alpha.wikia.com/wiki/TOS">TOS</a> <a href="http://memory-alpha.wikia.com/wiki/TOS_Season_2">2x05</a></p>
+
+<p>14:54 "Charlie X" TOS 1x07</p>
+
+<p>20:11 瓦肯礼 (Vulcan salute) 的由来：shin是Shaddai (name of god) 的首字母</p>
+
+<p>32:33 After show</p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>20 子空间回信</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>20 子空间回信</itunes:subtitle>
+    <itunes:summary>20 子空间回信</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3</guid>
+    <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/20/</link>
+    <description><p>播出这么久大家的反馈终于可以凑一期听众反馈了，谢谢大家的来信。不管大家喜不喜欢我们的节目，我们都会再接再厉。本期主播们的情绪芯片已上线，或者说我们已经 out of our Vulcan minds 了。</p>
+
+<p>此外，我们的微博「迷于星际迷航播客 」有一篇<a href="http://weibo.com/ttarticle/p/show?id=2309404019291941931844#_0">Star Trek的英文播客推荐</a>，都是些高质量的播客，英语无压力的同学大概可以抛弃我们了，当然，你是我天边最美的云彩，让我们用心把你留下来，留！下！来！嘿！</p>
+
+<p>打住，最重要的是，子空间通道会继续向大家敞开，欢迎更多的反馈与交流。</p>
+
+<p>本期节目录制于20160916，主播：小猪|CrazyEMH</p>
+
+<h2 id="section">●本台反馈●</h2>
+<p>Email: subspacesignal@qq.com, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>19 除去致敬和情怀</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>19 除去致敬和情怀</itunes:subtitle>
+    <itunes:summary>19 除去致敬和情怀</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3</guid>
+    <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/19/</link>
+    <description><p>上期看完《星际迷航3超越星辰》谈了一点正面评价，这一期我们本来想好好地负面批判一番，结果整整扯了一期的致敬与情怀。</p>
+
+<p>本期节目录制于20160916，主播：小猪|CrazyEMH</p>
+
+<p>————</p>
+
+<p>2:00 <a href="http://memory-alpha.wikia.com/wiki/Transparent_aluminum">透明铝 Transparent aluminum</a></p>
+
+<p>47:32 "Equinox" 春分点号 <a href="http://memory-alpha.wikia.com/wiki/VOY">VOY</a>, <a href="http://memory-alpha.wikia.com/wiki/VOY_Season_5">5x26</a> &amp; <a href="http://memory-alpha.wikia.com/wiki/VOY_Season_6">6x01</a> <a href="http://memory-alpha.wikia.com/wiki/Equinox_(episode)">Equinox (episode)</a></p>
+
+<p>49:22 播客 "Engage: The Official Star Trek Podcast" 的<a href="http://www1.play.it/audio/engage-the-official-star-trek-podcast/">第13集 "Episode 13: Montgomery Scott(y) himself, Simon Pegg!"</a> 里采访谈到创作过程</p>
+
+<p>●本台反馈●</p>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>18 星际迷航3超越星辰：一起摇摆拯救世界</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>18 星际迷航3超越星辰：一起摇摆拯救世界</itunes:subtitle>
+    <itunes:summary>18 星际迷航3超越星辰：一起摇摆拯救世界</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3</guid>
+    <pubDate>Sat, 03 Sep 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/18/</link>
+    <description><p>燃爆宇宙的星际迷航终于等来了，我们聊了聊观感，剧透在10分10秒处开始。</p>
+
+<p>本期节目录制于20160902，主播：深思|CrazyEMH</p>
+
+<p>————</p>
+
+<p>06:00 片尾曲"Sledgehammer" - Rihanna</p>
+
+<p>10:04 《众人划桨开大船》付笛声</p>
+
+<p>　　「一根筷子轻轻被折断，十双筷子牢牢抱成团」</p>
+
+<p>10:10 剧透警报，我重复，剧透警报，这不是演习，各位船长请升起护盾</p>
+
+<p>欢迎为中文阿尔法记忆（星际迷航维基）做贡献，哪怕很微小。</p>
+
+<p>●本台反馈●</p>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>17 听完这期你就知道上船的姿势</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>17 听完这期你就知道上船的姿势</itunes:subtitle>
+    <itunes:summary>17 听完这期你就知道上船的姿势</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3</guid>
+    <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/17/</link>
+    <description><p>星际迷航3：超越星辰于9月2日中国大陆上映。作为最受欢迎的科幻作品之一，《星际迷航》以各类天马行空的想象、精密的世界观、大量的硬科幻元素和无微不至的人文主义关怀，赢得了地球各族人民的科幻爱好者的喜爱（外星人喜不喜欢我不知道）。</p>
+
+<p>以前没看过星际迷航怎么办？星际迷航坑太深、集数太多怎么办？我们希望这期节目能给你答案，如果还有其他问题，欢迎反馈。</p>
+
+<p>本期节目录制于20160818&amp;19，主播：小猪|深思|CrazyEMH</p>
+
+<p>————</p>
+
+<p>03:26 是枝裕和</p>
+
+<p>07:57 吴岩《打印一个新地球》</p>
+
+<p>27:29 口误：系外行星，不是地外行星</p>
+
+<p>31:14 有关行星分类</p>
+
+<ul>
+  <li>星际迷航正史（电影与电视剧）
+    <ul>
+      <li><a href="http://memory-alpha.wikia.com/wiki/Planetary_classification">memory-alpha</a>\</li>
+      <li><a href="http://www.ex-astris-scientia.org/database/planet_classes.htm">ex-astris-scientia</a></li>
+      <li><a href="http://www.ex-astris-scientia.org/database/planet_classes.htm">参考书《星际旅行：星图》（<em>Star Trek: Star Charts</em>）</a></li>
+    </ul>
+  </li>
+  <li>
+    <p>现实生活</p>
+
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/List_of_planet_types">List of planet types</a></li>
+      <li><a href="http://missionscience.nasa.gov/nasascience/what_is_a_planet.html">what is a planet</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p>30:43 口误：碳基，不是硅基。</p>
+
+<p>53:28 "Carbon Creek"<a href="http://memory-alpha.wikia.com/wiki/ENT">ENT</a>, <a href="http://memory-alpha.wikia.com/wiki/ENT_Season_2">2x02</a>. T'Pol 曾祖母（瓦肯人）早在1957年即与人类接触</p>
+
+<p>1:12:35 "To boldly go"有语病吗？<a href="https://en.wikipedia.org/wiki/Split_infinitive">分裂不定式</a></p>
+
+<p>1:16:57 四十二乃《 <a href="https://zh.wikipedia.org/w/index.php?title=%E3%80%8A%E9%93%B6%E6%B2%B3%E7%B3%BB%E6%BC%AB%E6%B8%B8%E6%8C%87%E5%8D%97%E3%80%8B%E7%9F%AD%E8%AF%AD&amp;action=edit&amp;redlink=1">银河系漫游指南</a>》中 <strong>生命、宇宙以及任何事情的终极答案</strong> （ <a href="https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy"><strong>Answer to the Ultimate Question of Life, The Universe, and Everything</strong></a> ）</p>
+
+<p>1:26:51</p>
+
+<ul>
+  <li>
+    <p><a href="http://m.dmzj.com/view/xjmh/47701.html#@page=18">IDW <em>Star Trek</em> comic book series</a>，星际迷航漫画，感谢「星际迷航中国」汉化</p>
+  </li>
+  <li>
+    <p>流放可汗的星球叫<a href="http://memory-alpha.wikia.com/wiki/Ceti_Alpha_V">Ceti Alpha V</a></p>
+  </li>
+</ul>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>16 喵航舰长：制作组真的是把原剧翻烂了</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>16 喵航舰长：制作组真的是把原剧翻烂了</itunes:subtitle>
+    <itunes:summary>16 喵航舰长：制作组真的是把原剧翻烂了</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3</guid>
+    <pubDate>Wed, 10 Aug 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/16/</link>
+    <description><p>本期节目录制于20160808，嘉宾：喵航舰长，主播：CrazyEMH</p>
+
+<p>本期我们聊了Star Trek Online游戏，嘉宾给这个游戏的定位是粉丝向剧情向MMORPG，虽然吐槽了一番，但是在剧情方面做的真是用心，很推荐去试试，可以从喵航舰长发在bilibili上的游戏视频<a href="http://space.bilibili.com/4278898/#!/index">「STO星舰老司机指南」</a>开始。</p>
+
+<p>注：MMORPG, Massively Multiplayer Online Role-Playing Game（大型多人在线角色扮演游戏）</p>
+
+<p>————</p>
+
+<p>01:18 雪风号</p>
+
+<p>03:31 <a href="http://memory-alpha.wikia.com/wiki/Scimitar">Scimitar（弯刀号）</a></p>
+
+<p>17:37 <a href="http://memory-alpha.wikia.com/wiki/Iconia">Iconia</a></p>
+
+<p>21:41 
+* <a href="http://memory-alpha.wikia.com/wiki/Voth">Voth</a>
+* <a href="http://memory-alpha.wikia.com/wiki/Species_8472">"Undine"即8472种族</a>，「In the game <a href="http://memory-alpha.wikia.com/wiki/Star_Trek_Online"><em>Star Trek Online</em></a>, Species 8472 told the <a href="http://memory-alpha.wikia.com/wiki/Klingon">Klingons</a> to call them the "Undine" 」
+* <a href="http://memory-alpha.wikia.com/wiki/USS_Yamato">USS Yamato</a></p>
+
+<p>22:37 <a href="https://en.wikipedia.org/wiki/The_Chase_(Star_Trek:_The_Next_Generation)">TNG 6x20 "The Chase"</a>, Human, Klingon, Cardassian and Romulan有共同的祖先</p>
+
+<p>25:45 职业的选择</p>
+
+<p>27:51 剧情</p>
+
+<p>29:02 
+* <a href="http://memory-alpha.wikia.com/wiki/Thelin">Thelin</a>
+* <a href="http://memory-alpha.wikia.com/wiki/Humanoid_Figure">控制Suliban的黑影</a></p>
+
+<p>21:34  <a href="http://memory-alpha.wikia.com/wiki/Na%27kuhl">Na'kuhl</a></p>
+
+<p>31:46 <a href="http://memory-alpha.wikia.com/wiki/Year_of_Hell_(episode)">VOY 4x09 Year of Hell</a>&amp; <a href="http://memory-alpha.wikia.com/wiki/Year_of_Hell,_Part_II_(episode)">Part_II</a>中出现的<a href="http://memory-alpha.wikia.com/wiki/Krenim_weapon_ship">Krenim时间舰</a>，舰长Annorax</p>
+
+<p>35:44 PVP即Player vs Player（玩家之间的对战）</p>
+
+<p>43:30 <a href="http://memory-alpha.wikia.com/wiki/Caitian">喵星人Caitian</a></p>
+
+<p>45:51 <a href="http://memory-alpha.wikia.com/wiki/Unity_(episode)">VOY中脱离集合体的博格</a></p>
+
+<p>46:25 
+* <a href="http://memory-alpha.wikia.com/wiki/Kobali">改变死尸DNA复活成本种族的Kobali人</a>
+* <a href="http://memory-alpha.wikia.com/wiki/Vaadwaur">Vaadwaur</a>
+* 控制星联高层的神经寄生虫出现在 <a href="http://memory-alpha.wikia.com/wiki/TNG">TNG</a>, <a href="http://memory-alpha.wikia.com/wiki/Conspiracy_(episode)">1x25 “Conspiracy”</a></p>
+
+<p>57:08 <a href="http://memory-alpha.wikia.com/wiki/Breen">Breen</a></p>
+
+<p>1:03:27 
+* <a href="http://memory-alpha.wikia.com/wiki/Wells_class">Wells-class</a>
+* <a href="https://zh.wikipedia.org/zh-cn/%E6%97%A0%E7%95%8F%E8%88%B0">无畏舰 Dreadnought</a>
+* <a href="http://memory-alpha.wikia.com/wiki/Jem&#39;Hadar">Jem'Hadar</a></p>
+
+<p>1:06:02 航海家里出现的恐龙Voth</p>
+
+<p>1:07:06 游戏术语提醒：氪金/课金， 指免费游戏中的充值行为</p>
+
+<p>1:08:43 勘误：Fleet admiral 舰队上将，不是将军</p>
+
+<p>1:10:21 
+* <a href="http://memory-alpha.wikia.com/wiki/USS_Stargazer">Stargazer 观星者号</a>
+* <a href="http://memory-alpha.wikia.com/wiki/USS_Bellerophon_(NCC-74705)">柏勒洛丰级 Bellerophon</a>
+* 赫耳墨斯/爱马仕级  Hermes-Class</p>
+
+<p>1:14:57 砍掉了的电影<a href="http://memory-alpha.wikia.com/wiki/Star_Trek:_Planet_of_the_Titans">Star Trek: Planet of the Titans</a>，其的船的设计与Discovery相仿。另外被砍掉的电视剧为Star Trek: Phase II，它是第一部电影Star Trek: The Motion Picture的前身</p>
+
+<p>1:15:35 <a href="http://sto.gamepedia.com/U.S.S._Enterprise_(NCC-1701-F)">STO中Enterprise-F</a>的设计为<a href="http://sto.gamepedia.com/Design_the_Next_Enterprise">粉丝票选结果</a></p>
+
+<p>1:21:53 此处所谓套餐就是禁言一个月 :(</p>
+
+<p>1:22:10 STO華人玩家交流群：90597122</p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, all frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>15 我志愿加入星联</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>15 我志愿加入星联</itunes:subtitle>
+    <itunes:summary>15 我志愿加入星联</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3</guid>
+    <pubDate>Sat, 23 Jul 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/15/</link>
+    <description><p>本期节目录制于20160718，主播：深思|CrazyEMH</p>
+
+<p>对第13期「从星联扯到没有人到过的地方」开启的星联话题进行了一些补充，如建立历史，入会制度（入邦制度？）等，后面我们还提到了星球大战与星际迷航两家的恩怨。</p>
+
+<p>02:35 <a href="https://en.wikipedia.org/wiki/Counterculture_of_the_1960s">1960年代美国反文化运动</a></p>
+
+<p>05:50 勘误：「Superior ability breeds superior ambition. 」并非列宁所说</p>
+
+<p>06:35 <a href="http://memory-alpha.wikia.com/wiki/Eastern_Coalition">Eastern Coalition</a></p>
+
+<p>08:01 一些重要时间点：
+* <a href="http://memory-alpha.wikia.com/wiki/World_War_III">三战</a>2026-2053
+* <a href="http://memory-alpha.wikia.com/wiki/Zefram_Cochrane">2063年，Zefram Cochrane</a>测试搭载曲速引擎的凤凰号( <a href="http://memory-alpha.wikia.com/wiki/Phoenix"><em>Phoenix</em></a>)
+* Enterprise NX-01启航于2151年</p>
+
+<p>09:16 <a href="https://www.zhihu.com/question/39428833">知乎：为什么美国国会禁止 NASA 与中国航天部门合作？</a></p>
+
+<p>17:10 <a href="http://memory-alpha.wikia.com/wiki/Romulan_drone_ship">Romulan drone ship</a></p>
+
+<p>21:27 <a href="http://memory-alpha.wikia.com/wiki/Coalition_of_Planets">Coalition of Planets</a></p>
+
+<p>21:50 <a href="http://memory-alpha.wikia.com/wiki/Terra_Prime">Terra Prime</a>, Terra愿意是特拉女神，是大地女神，故此词根跟大地相关，如terrestrial（adj. 地球的）</p>
+
+<p>28:15 庇护人制度，准确的说应是 <a href="http://memory-alpha.wikia.com/wiki/Arbitration">Arbitration</a>（仲裁）</p>
+
+<p>29:10 
+* <a href="https://www.amazon.com/Star-Trek-Next-Generation-Technical/dp/0671704273">《银河飞龙技术手册》(Star Trek: The Next Generation Technical Manual)</a>
+* <a href="https://www.amazon.com/Star-Trek-U-S-S-Enterprise-Haynes/dp/1451621299">《星际迷航：联邦星舰进取号完全图解》(Star Trek: U.S.S. Enterprise Owners' Workshop Manual)</a></p>
+
+<p>30:18 <a href="http://baike.baidu.com/view/824192.htm">能量金字塔</a>：能量在一条食物链内逐级流动时的传递效率大约只有10%～20%</p>
+
+<p>39:33 聊下星战与星迷之间的恩恩怨怨：《星战迷友》 Fanboys (2009)</p>
+
+<p>40:37 有必要给大龄听众解释下「团饭」，毕竟我(CrazyEMH)也是最近才知道：饭即fan，团饭，意为喜欢某组合里所有成员，而不是只喜欢组合中的某一位</p>
+
+<p>43:45 毕加索的蓝色时期(Picasso's Blue Period)：1901-1904期间其画作多用蓝色</p>
+
+<p>46:05 C3-Penis Face and R2-Dickhead. Kirk-loving Spock suckers</p>
+
+<p>51:33 口误：星际迷航定档9月2日，不是8月，而星际迷航超越星辰官方网站<a href="http://www.startrekmovie.com/_apps/releasedates/release-dates.html">startrekmovie.com</a>现在（20160722）还没挂出中国大陆上映日期</p>
+
+<p>52:11 <a href="http://www.hollywoodreporter.com/news/george-takei-reacts-gay-sulu-909154">Sulu成同性恋了</a></p>
+
+<p>55:44 美国海斯法典</p>
+
+<p>59:21 主播深思的青海湖之旅</p>
+
+<p>勘误：阿里暗夜保护区并非尼泊尔边境</p>
+
+<p>1:06:35 节目的最后是本期节目的<a href="http://www.oddcast.com/home/demos/tts/tts_example.php?sitepal">代班主播人工智能</a>的乱入</p>
+
+<h2 id="section">●本台反馈●</h2>
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, All frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>14 星闻联播</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>14 星闻联播</itunes:subtitle>
+    <itunes:summary>14 星闻联播</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3</guid>
+    <pubDate>Sat, 09 Jul 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/14/</link>
+    <description><p>本期节目录制于20160704，主播：小猪|CrazyEMH</p>
+
+<p>在美国人民举国欢庆独立日的晚上，我们从《独立日·卷土重来》聊到了一些让人愤青的事，愤青主播已上线，年轻人嘛，谁没愤青过啊。</p>
+
+<p>————</p>
+
+<p>00:30 beyond 第三个预告片放出，新歌"Sledgehammer"出炉</p>
+
+<p>02:31 新歌歌词"I hit a wall" 说的是年轻Chekov扮演者 <a href="https://en.wikipedia.org/wiki/Anton_Yelchin">Anton Yelchin</a>吗？</p>
+
+<p>05:08 网页内有 The official plot description:
+&gt;After stopping off at Starbase Earhart, a remote outpost on the fringes of Federation space, the USS Enterprise, halfway into their five-year mission, is destroyed by a powerful, unstoppable wave of unknown aliens. With the crew stranded on a unknown planet and with no apparent means of rescue, they find themselves in conflict with a new ruthless enemy who has a well-earned hatred of the Federation and what it stands for.</p>
+
+<p>05:26 <a href="http://memory-alpha.wikia.com/wiki/Starbase_Earhart">Starbase Earhart</a></p>
+
+<p>11:14  <a href="http://fusion.net/story/302651/hillary-clinton-ufo-vote/">Hillary Clinton promised to release Area 51 documents</a></p>
+
+<p>11:50 一点基于纯(yin)脑(mou)洞(lun)的猜测，小朋友们不要相信哦</p>
+
+<p>18:01 <a href="http://blog.ubi.com/star-trek-bridge-crew-going-boldly-vr/">育碧发布星际迷航VR游戏</a></p>
+
+<p>21:42 勘误：「NASA在研制曲速引擎」系误传，其实那只是记者们单方面想搞大新闻而已。
+* <a href="http://www.nasa.gov/centers/glenn/technology/warp/warp.html">Is Warp Drive Real?</a>
+* <a href="http://www.inquisitr.com/2541109/nasas-em-drive-test-warp-drive-engine-emdrive-isaac-newton-laws-of-physics/">NASA's EM Drive Test Shows 'Warp Drive' Engine Works — Does EmDrive Break Isaac Newton's Laws Of Physics?</a></p>
+
+<p>22:19 <a href="http://tech.sina.com.cn/d/i/2016-07-01/doc-ifxtsatn7874373.shtml">俄罗斯计划20年内实现瞬间转移技术</a></p>
+
+<p>23:09 <a href="https://en.wikipedia.org/wiki/Five_hundred_meter_Aperture_Spherical_Telescope">FAST 五百米口径球面射电望远镜</a></p>
+
+<p>24:08 为何要探索太空？——NASA马歇尔太空飞行中心科学部门副主管Ernst Stuhlinger博士给赞比亚修女Sister Mary Jucunda的信
+* <a href="http://discovery.163.com/13/0616/21/91H7IVTM00014N6R.html">中文</a>
+* <a href="http://www.lettersofnote.com/2012/08/why-explore-space.html">英文原文</a></p>
+
+<p>32:13 <a href="http://www.startrek.com/fan-films">官方出台粉丝电影守则</a></p>
+
+<p>33:44 再续原初</p>
+
+<p>36:26 背景音乐乃人工智能Google _Magenta_之作品</p>
+
+<h2 id="section">●本台反馈●</h2>
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, All frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>13 从星联扯到没有人到过的地方</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>13 从星联扯到没有人到过的地方</itunes:subtitle>
+    <itunes:summary>13 从星联扯到没有人到过的地方</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3</guid>
+    <pubDate>Tue, 05 Jul 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/13/</link>
+    <description><p>我台迎来新主播深思。</p>
+
+<p>本期节目录制于20160626，本来想正经介绍星联的，但是没有充分做好功课，于是作为跑题小能手的我们，哪里不会跑哪里，妈妈再也不用担心我们录节目前没做好功课了！</p>
+
+<p>————</p>
+
+<p>04:55 <a href="http://www.ex-astris-scientia.org/inconsistencies/federation_emblem.htm">关于星联标志变化的超详尽的考据文章</a></p>
+
+<p>14:53 那些个不知道谁致敬谁的logo</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code>  Klingon logo ≈ 中国传媒大学 logo.
+  Starfleet Command logo ≈ 中国国家航天局 logo, 北京航空航天大学 logo, etc..
+</code></pre>
+</div>
+
+<p>16:09 JJverse/ Abramsverse/ Alternate Original Series: Kelvin Timeline</p>
+
+<p>17:36 <a href="http://trekguide.com/Stardates.htm">一个可以计算星历的网站</a>，其中"Date inconsistencies in episodes"小节有描述<strong>规则的不统一</strong></p>
+
+<p>21:57 星联舰队指挥部和星联学院位于三藩市，而联邦总统办公室和联邦议会厅位于巴黎</p>
+
+<p>22:22 <a href="https://en.wikipedia.org/wiki/Ferengi">Ferengi</a> 的<a href="http://memory-alpha.wikia.com/wiki/Rules_of_Acquisition">Rules of Acquisition</a></p>
+
+<p>23:19 Rule No. 31: NEVER-MAKE-FUN-OF-A-FERENGI'S-MOTHER!</p>
+
+<p>```
+	 Julian Bashir 与 Quark 的对话：</p>
+
+<div class="highlighter-rouge"><pre class="highlight"><code> "Quark, leave it!"
+
+  "I can't leave it, it's all that I have. My personal mementos, my family album..."
+
+  "It's full of gold-pressed latinum and you know it."
+
+  "...Who told you?"
+
+  "Your mother did, the day you were born."
+
+ "NEVER-MAKE-FUN-OF-A-FERENGI'S-MOTHER! Rule of Acquisition #31"
+</code></pre>
+</div>
+
+<p>```</p>
+
+<p>23:25 勘误：Ferengi死后并不是将器官卖掉，而是制成纪念品，详见 <a href="http://memory-alpha.wikia.com/wiki/Ferengi_death_ritual">Ferengi death ritual</a></p>
+
+<p>34:34 超体 Lucy (2014)</p>
+
+<p>35:14 内存小片： <a href="http://memory-alpha.wikia.com/wiki/Isolinear_chip">Isolinear chip</a></p>
+
+<p>35:58 氘电路详见 <a href="http://memory-alpha.wikia.com/wiki/VOY">VOY</a>,  <a href="http://memory-alpha.wikia.com/wiki/VOY_Season_5">5x12, Bride of Chaotica!</a></p>
+
+<p>星际迷航宇宙中的<a href="http://memory-alpha.wikia.com/wiki/Computer">电脑技术</a></p>
+
+<p>39:18 《&lt;三体&gt;中的物理学》，李淼， 四川科学技术出版社，2015-4</p>
+
+<p>39:50 传送器的传送距离限制见<a href="http://memory-alpha.wikia.com/wiki/Transporter">链接</a>中"Range"小节：</p>
+
+<p>42:35 TNG 5*02, Darmok</p>
+
+<p>44:42 post-show: Doctor Who 中的时间大战</p>
+
+<h2 id="section">●本台反馈●</h2>
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, All frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>12 老司机不翻船</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>12 老司机不翻船</itunes:subtitle>
+    <itunes:summary>12 老司机不翻船</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3</guid>
+    <pubDate>Sun, 26 Jun 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/12/</link>
+    <description><p>本台迎来新主播小猪</p>
+
+<p>本期节目录制于20160619，聊了两个绝境情景题后，两位主播就「如何建一个地球文明博物馆给外星人看」的话题进行了深入的讨论，达成了「然而并没有什么卵用」的一致意见。To boldly go where no brain hole has gone before!</p>
+
+<p>————</p>
+
+<p>02:00 <a href="http://www.startrekmovie.com/_apps/releasedates/release-dates.html">查看上映日期的官方网站</a>
+03:45 <a href="http://www.labs.hpe.com/research/themachine/">惠普The Machine</a></p>
+
+<blockquote>
+  <p>详细看来并不完全是想整大新闻，惠普2014年就提出了这个研究计划。
+创新点：使用光而不是电读取大内存池。
+<a href="https://www.hpe.com/us/en/newsroom/news-archive/featured-article/2016/06/HPEs-New-Star-Trek-Commercial-The-Machine-Boldly-Goes-Where-No-Technology-Has-Gone-Before.html">HP The Machine与Star Trek Beyond的联合广告链接</a></p>
+</blockquote>
+
+<p>04:48 <a href="http://baike.baidu.com/view/8037116.htm">永生计划</a></p>
+
+<p>06:29 节目的简介不够高大上，不够牛逼，求反馈</p>
+
+<p>07:30 博物志 #42 博物馆行星</p>
+
+<p>10:26 <a href="https://www.google.com/loon/">Loon for All-Project Loon-Google</a></p>
+
+<p>17:05 <a href="https://en.wikipedia.org/wiki/Magnetic_field_of_the_Moon">月球磁场</a></p>
+
+<p>25:10 如何建一个地球博物馆</p>
+
+<p>27:22 <a href="https://en.wikipedia.org/wiki/Voyager_1">旅行者1号</a>，1977年发射，"飞出太阳系" 系误传，应改为飞入星际空间</p>
+
+<p>40:00 引力弹弓</p>
+
+<p>48:00 斐波拉契数列</p>
+
+<p>1:06:16 结尾是花絮</p>
+
+<h2 id="section">●本台反馈●</h2>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, All frequencies open.
+新浪微博：迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>11 迟到的旧闻联播</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>11 迟到的旧闻联播</itunes:subtitle>
+    <itunes:summary>11 迟到的旧闻联播</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3</guid>
+    <pubDate>Sun, 05 Jun 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/11/</link>
+    <description><p>好久不更新，想死你们啦~</p>
+
+<p>马上就高考啦，祝大家心想事成🖖</p>
+
+<p>07:06 不会读的名字叫做Shohreh Aghdashloo，获艾美奖影片_House of Saddam_</p>
+
+<p>22:18 <a href="http://geekculture.co/exclusive-star-trek-beyond-50th-anniversary-fan-event/">撤诉Axanar</a></p>
+
+<p>24:14 <a href="http://www.drivesaversdatarecovery.com/blog/2016/02/06/tech-times-gene-roddenberry-star-trek-secrets-decrypted-from-200-floppy-discs-after-30-years/">DriveSavers</a></p>
+
+<p>25:05 <a href="https://en.wikipedia.org/wiki/Floppy_disk">软盘</a></p>
+
+<p>27:50 For the Love of Spock</p>
+
+<p>推荐播客：<a href="http://trek.fm/the-ready-room/179">The ready room episode 179: For the love of spock.</a></p>
+
+<p>拓展链接</p>
+
+<p>*<a href="http://www.hollywoodreporter.com/review/love-spock-tribeca-review-884770">http://www.hollywoodreporter.com/review/love-spock-tribeca-review-884770</a>
+*<a href="https://www.youtube.com/watch?v=FMpjG9HNT5Y">https://www.youtube.com/watch?v=FMpjG9HNT5Y</a></p>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a></p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>SP2 未来的犯罪与预防犯罪</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>SP2 未来的犯罪与预防犯罪</itunes:subtitle>
+    <itunes:summary>SP2 未来的犯罪与预防犯罪</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3</guid>
+    <pubDate>Tue, 17 May 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/SP2/</link>
+    <description><p>本期为未来事务管理局【时间们·时空追缉令】现场录音，由未来事务管理局授权发布。更多内容关注未来事务管理局旗下"不存在日报"，微信号：non-exist-FAA</p>
+
+<p>————</p>
+
+<p>在不远的未来，各类新技术推进了文明的进程，在让生活越来越便利的同时埋下了各类新兴犯罪的隐患。未来的"犯罪"是否会产生新的定义？我们又将如何利用新技术来阻止和打击犯罪呢？有没有什么技术可以杜绝犯罪，缔造"绝对安全"的环境？未来事务管理局邀请警察蜀黍、法医、科幻作家、影评人、科幻评论家、美漫专家，站在正反两边，跨界激辩。</p>
+
+<p>2016年5月7日，14:30 繁星戏剧村1号厅</p>
+
+<p>正方嘉宾：</p>
+
+<p>警察蜀黍：@江宁公安在线</p>
+
+<p>刘洋：科幻作家，《不存在日报》专栏作者，出版小说集《完美末日》</p>
+
+<p>软星星：主检法医师，万有青年烩讲者</p>
+
+<p>反方嘉宾：</p>
+
+<p>雅典娜：美漫译者</p>
+
+<p>囧叔：作家，代表作《我讲个笑话，你可别哭啊》</p>
+
+<p>兔子瞧：科幻评论家，未来事务管理局科幻创意负责人</p>
+
+<p>主持人</p>
+
+<p>姬少亭：未来事务管理局局长</p>
+
+<p>————</p>
+
+<p>●要点●</p>
+
+<p>03:44 《<em>星际迷航</em>：星舰学院》中文小说即将震撼登陆果壳阅读</p>
+
+<p><a href="http://memory-beta.wikia.com/wiki/Starfleet_Academy_%282010s_book_series%29">Starfleet Academy</a></p>
+
+<p>05:22 情景小游戏："穿越回来的人"告诉现场观众这个活动将会导致一场死亡事故</p>
+
+<p>13:55 基因改造等生化手段如果应用于犯罪或打击犯罪上，将会如何？</p>
+
+<p>23:06 <a href="https://en.wikipedia.org/wiki/Rick_and_Morty">Rick and Morty</a></p>
+
+<p>24:33 基因改造 咖啡不耐受</p>
+
+<p>34:50 物联网入侵犯罪 AI犯罪</p>
+
+<p>38:55 警察蜀黍提到的 <a href="http://iask.sina.com.cn/c/786.html">银行</a>业中的意大利香肠术（Salami slicing）贪污犯罪</p>
+
+<p>43:36 宋慈《洗冤集录》"狱事莫重于大辟，大辟莫重于初情，初情莫重于检验"（大辟即死刑，初情即犯罪事实。警察蜀黍此处略有口误）</p>
+
+<p>45:40 如攻壳机动队这种改变记忆的手段</p>
+
+<p>47:07 <a href="https://movie.douban.com/subject/1789283/">电影 时空线索 Deja Vu (2006)</a></p>
+
+<p>59:55 未来犯罪的定义与预判之时间线问题</p>
+
+<p>1:08:11 <a href="https://zh.wikipedia.org/wiki/%E5%BF%83%E7%90%86%E5%8F%B2%E5%AD%B8_(%E9%98%BF%E8%A5%BF%E8%8E%AB%E5%A4%AB)">阿西莫夫  心理史學</a></p>
+
+<p>1:12:00 [XYY-三體]https://en.wikipedia.org/wiki/XYY_syndrome)</p>
+
+<p>1:15:00 警察蜀黍科普时间：犯罪既遂、未遂、终止|法律的震慑作用</p>
+
+<p>1:25:05 现场观众的犯罪点子</p>
+
+<p>1:31:41 情景小游戏：此时工作人员表演了猝死，请人们猜测死亡原因</p>
+
+<p>————</p>
+
+<p>关于</p>
+
+<p>未来事务管理局：</p>
+
+<p>未来事务管理局是一个以"未来"为核心的科技文化品牌，专注科幻文化的推广、原创内容创造， 输出科幻价值观和方法论，打造中国科幻的真正黄金时代。拥有新媒体平台《不存在日报》，图书出版品牌"果壳阅读"，以及线下活动"时间们"系列、科幻写作工作坊、影视IP开发等业务。希望通过「对人类信息的分析」以及「对人类新技术动向的研究」，影响未来。</p>
+
+<p>时间们系列活动：</p>
+
+<p>时间们系列活动，旨在站在时间线的未来看待现在。通过对目前科技趋势的分析，提取未来生活最有意思的可能性，将这些场景里所有高大上的科技变成日常化的体验，逆向讨论科技与人类生活。每一期我们邀请科技从业者、科幻作家和与话题相关领域最有意思的人一起开脑洞。</p>
+
+<p>●本台反馈●</p>
+
+<p>Email: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a>, All frequencies open.</p>
+
+<p>新浪微博：迷于星际迷航播客</p>
+
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>SP1 First Contact Day Special</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>SP1 First Contact Day Special</itunes:subtitle>
+    <itunes:summary>SP1 First Contact Day Special</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3</guid>
+    <pubDate>Tue, 05 Apr 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/SP1/</link>
+    <description><p>Happy First Contact Day. 参考第6期 出现在星际迷航中的节日。</p>
+
+<p>热烈祝贺2063年的今天人类第一次曲速测试圆满成功，自此跨进了新时代。（又红又专的赶脚）</p>
+
+<p>详情见第6期节目「出现在星际迷航中的节日」</p>
+
+<p>本期增刊为「星际迷航50周年主题特展系列讲座之二」录音片段，由微影时代授权发布。</p>
+
+<p>讲座地点：尤伦斯当代艺术中心</p>
+
+<p>讲座时间：2015年11月29日</p>
+
+<p>嘉宾：@电子骑士——严蓬，资深影评人，微博签约自媒体作者。曾任《环球银幕》首席编辑、前时光网高级编辑，现小马奔腾影业副总。</p>
+
+<p>话题：科幻电影的历史</p>
+
+<p>●要点：</p>
+
+<p>最早的科幻电影：月球旅行记</p>
+
+<p>二战对科技、人文影响</p>
+
+<p>人与外星人敌对，外星人形状：章鱼、爬虫</p>
+
+<p><a href="http://movie.douban.com/subject/1293523/">《世界大战》1953</a></p>
+
+<p><a href="http://movie.douban.com/subject/1296140/">《地球停转之日》1951</a></p>
+
+<p>1960s 冷战时期 太空探索 类比于西部片</p>
+
+<p>1970s 星球大战 较简单的正义/邪恶对抗</p>
+
+<p>1980s-1990s 大片模式 冷战结束，无靶子</p>
+
+<p>《天外魔花》1956 苏联红色的恐惧</p>
+
+<p>《独立日》纯外星敌人，少政治隐射，追视效</p>
+
+<p><a href="http://select.yeeyan.org/view/265546/309669">Why Explore Space?为什么要探索宇宙- Ernst Stuhlinger</a></p>
+
+<p>录音质量欠佳，仅放出这一段。该活动还包含科普环节和观众提问环节，更多请前往<a href="https://www.douban.com/group/topic/82832184/">完整视频观看地址</a></p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>10 CBS与Paramount诉Axanar案</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>10 CBS与Paramount诉Axanar案</itunes:subtitle>
+    <itunes:summary>10 CBS与Paramount诉Axanar案</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3</guid>
+    <pubDate>Mon, 04 Apr 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/10/</link>
+    <description><p>本期话题：CBS/Paramount vs. Axanar案</p>
+
+<p>04:11 Prelude to Axanar可在bilibili或youtube搜到</p>
+
+<p>04:24 Prelude to Axanar <a href="https://en.wikipedia.org/wiki/Prelude_to_Axanar">剧情简介</a></p>
+
+<p>06:40 Alec Peters <a href="http://www.axanarproductions.com/casting-axanar/">宣布不参演</a></p>
+
+<p>12:14 原初系列第三季的续播是粉丝联名信的功劳</p>
+
+<p>26:04 Paramount <a href="https://en.wikipedia.org/wiki/Paramount_Pictures">垄断黑历史</a></p>
+
+<p>其他链接：<a href="http://axamonitor.com/doku.php">一个专门介绍本案的网站</a></p>
+
+<p>新浪微博@迷于星际迷航播客</p>
+
+<p>邮件反馈：subspacesignal@qq.com</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>9 本来想聊科幻可是一不小心就成闲聊了</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>9 本来想聊科幻可是一不小心就成闲聊了</itunes:subtitle>
+    <itunes:summary>9 本来想聊科幻可是一不小心就成闲聊了</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3</guid>
+    <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/9/</link>
+    <description><p>本期主题春节闲聊，既然不能成为今年第一个向您问候新年好的播客，那就做最后一个。</p>
+
+<p>13:39 Gene Roddenberry 之子Rod Roddenberry成为新电视剧集执行制片</p>
+
+<p>15:30 纪录片Trek Nation</p>
+
+<p>e-mail: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a></p>
+
+<p>微博@迷于星际迷航播客</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>8 桃媚：DS9都没看你也敢做播客</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>8 桃媚：DS9都没看你也敢做播客</itunes:subtitle>
+    <itunes:summary>8 桃媚：DS9都没看你也敢做播客</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3</guid>
+    <pubDate>Sat, 30 Jan 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/8/</link>
+    <description><p>嘉宾@桃媚</p>
+
+<p>11:07 <a href="http://memory-alpha.wikia.com/wiki/Silent_Enemy_%28episode%29">"Silent Enemy" </a> <a href="http://memory-alpha.wikia.com/wiki/Silent_Enemy_%28episode%29">ENT </a> <a href="http://memory-alpha.wikia.com/wiki/Silent_Enemy_%28episode%29">1x12</a></p>
+
+<p>14:17 wiki: memory alpha</p>
+
+<p>17:48 <a href="http://memory-alpha.wikia.com/wiki/Message_in_a_Bottle_%28episode%29">"</a> <a href="http://memory-alpha.wikia.com/wiki/Message_in_a_Bottle_%28episode%29">Message in a Bottle"</a> <a href="http://memory-alpha.wikia.com/wiki/Message_in_a_Bottle_%28episode%29">VOY </a> <a href="http://memory-alpha.wikia.com/wiki/Message_in_a_Bottle_%28episode%29">4x14</a></p>
+
+<p>24:22 <a href="http://memory-alpha.wikia.com/wiki/Dead_Stop_%28episode%29">"Dead Stop" ENT </a> <a href="http://memory-alpha.wikia.com/wiki/Dead_Stop_%28episode%29">2x04</a></p>
+
+<p>36:33 Tom Paris and Kathryn Janeway变成蝾螈 <a href="https://en.wikipedia.org/wiki/Threshold_%28Star_Trek:_Voyager%29">"Threshold" VOY 2x15</a></p>
+
+<p>38:02 乡绅出现在 <a href="http://memory-alpha.wikia.com/wiki/The_Squire_of_Gothos">"</a> <a href="http://memory-alpha.wikia.com/wiki/The_Squire_of_Gothos">The Squire of Gothos" </a> <a href="http://memory-alpha.wikia.com/wiki/The_Squire_of_Gothos">TOS</a> <a href="http://memory-alpha.wikia.com/wiki/The_Squire_of_Gothos">1x18</a></p>
+
+<p>46:09  <a href="https://zh.wikipedia.org/wiki/%E5%B8%8C%E6%A0%BC%E6%96%AF%E7%8E%BB%E8%89%B2%E5%AD%90">上帝粒子：希格斯玻色子</a></p>
+
+<p>客户端推荐：安卓：pocket cast， <a href="https://play.google.com/store/apps/details?id=de.danoeh.antennapod&amp;amp;hl=en">AntennaPod</a>, 苹果：自带的"播客"APP。喜马拉雅</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>7 Beyond the trailer</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>7 Beyond the trailer</itunes:subtitle>
+    <itunes:summary>7 Beyond the trailer</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3</guid>
+    <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/7/</link>
+    <description><p>本期聊预告片</p>
+
+<p>01:35 “Sabotage” by Beastie Boys</p>
+
+<p>03:40 第一幕发生的位置：U.S.S. Franklin</p>
+
+<p>07:55 Enterprise遍体鳞伤</p>
+
+<p>12:27 迪拜</p>
+
+<p>13:40 Yorktown</p>
+
+<p>15:00 反派Krall</p>
+
+<p>16:45 导演Justin Lin说故事发生在5年探索任务的第2.5年</p>
+
+<p>17:56 Kirk日常泡妞</p>
+
+<p>25:31 Simon Pegg对预告片的看法</p>
+
+<p>27:00 新电影剧情推测</p>
+
+<p>31:18 歪果仁怎么看</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>6 出现在星际迷航中的节日</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>6 出现在星际迷航中的节日</itunes:subtitle>
+    <itunes:summary>6 出现在星际迷航中的节日</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3</guid>
+    <pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/6/</link>
+    <description><p>03:00 易中天《费城风云》</p>
+
+<p>05:12 <a href="https://en.wikipedia.org/wiki/Connecticut_Compromise"><strong>Great Compromise of 1787</strong></a></p>
+
+<p>09:37 博格与星联都洗脑</p>
+
+<p>10:33 First Contact Day: VOY 7x23 "Homestead"</p>
+
+<p>23:28 Ancestors Eve: VOY 5x23 "11:59"</p>
+
+<p>40:42 圣诞快乐</p>
+
+<p>拓展链接：</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Connecticut_Compromise">Great Compromise of 1787</a></li>
+  <li><a href="https://en.wikipedia.org/wiki/Connecticut_Compromise">Connecticut Compromise</a></li>
+</ul>
+
+<p>在外太空可以看到长城吗？</p>
+
+<ul>
+  <li><a href="http://www.guokr.com/question/122155/">guokr.com</a></li>
+  <li><a href="http://article.yeeyan.org/view/160977/115501/">yeeyan.org</a></li>
+</ul>
+
+<p>千禧门</p>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Millennium_Gate">现实中</a></li>
+  <li>星际迷航里
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Millennium_Gate">wikipedia</a></li>
+      <li><a href="http://memory-alpha.wikia.com/wiki/Millennium_Gate">memory-alpha</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><a href="https://en.wikipedia.org/wiki/Biosphere_2">生物圈二号</a></p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>5 星际迷航50周年特展非官方导览</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>5 星际迷航50周年特展非官方导览</itunes:subtitle>
+    <itunes:summary>5 星际迷航50周年特展非官方导览</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3</guid>
+    <pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/5/</link>
+    <description><p>00:00:30 无耻地求推广</p>
+
+<p>00:01:38 星际迷航50周年特展非官方导览</p>
+
+<p>00:02:56 展区平面图见新浪微博@迷于星际迷航播客</p>
+
+<p>00:19:12 个人小吐槽</p>
+
+<p>00:24:47 特展启动发布会 对微博微信转发营销的讨厌</p>
+
+<p>00:35:08 Star Trek The inner Light-Youtube</p>
+
+<p>00:41:23 发布会现场录音，质量差，可跳过</p>
+
+<p>e-mail: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a></p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>4 Gene Roddenberry生平</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>4 Gene Roddenberry生平</itunes:subtitle>
+    <itunes:summary>4 Gene Roddenberry生平</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3</guid>
+    <pubDate>Sun, 22 Nov 2015 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/4/</link>
+    <description><p>00:35 关于播客的闲fei聊hua</p>
+
+<p>07:12 CBS新的星际迷航剧集</p>
+
+<p>10:00 星际迷航北京展览</p>
+
+<p>11:25 话题征集</p>
+
+<p>11:35 Gene Roddenberry生平</p>
+
+<p>25:10 八卦一下Gene Roddenberry</p>
+
+<p>27:36 尾声</p>
+
+<p>欢迎关注 迷于星际迷航播客</p>
+
+<p>Send me a sub-space signal: <a href="&#109;&#097;&#105;&#108;&#116;&#111;:&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;">&#115;&#117;&#098;&#115;&#112;&#097;&#099;&#101;&#115;&#105;&#103;&#110;&#097;&#108;&#064;&#113;&#113;&#046;&#099;&#111;&#109;</a></p>
+
+<p>提到的播客Accidental Technical Podcast</p>
+
+<p>新闻</p>
+
+<ul>
+  <li><a href="http://www.startrek.com/article/new-star-trek-series-premieres-january-2017">New Star Trek Series Premieres January 2017</a></li>
+</ul>
+
+<p>详见播客：The Ready Room: A Star Trek Podcast. Ep. 190</p>
+
+<ul>
+  <li><a href="http://show.wepiao.com/pages/item/b/d2/ea/b749795ec24043d5a3504f904d37d2ea.html">星际迷航特展订票网址</a></li>
+  <li>Gene Roddenberry
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Gene_Roddenberry">wikipedia的介绍</a></li>
+      <li><a href="http://www.startrek.com/database_article/roddenberry">startrek.com的介绍</a></li>
+    </ul>
+  </li>
+  <li><a href="http://www.startrek.com/database_article/lwaxana-troi">Lwaxana Troi</a></li>
+</ul>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>3 To boldly go where no man has gone before(pilot)</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>3 To boldly go where no man has gone before(pilot)</itunes:subtitle>
+    <itunes:summary>3 To boldly go where no man has gone before(pilot)</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3</guid>
+    <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/3/</link>
+    <description><p>本期主题继续上期：安利，分享我之前写过的一篇安利文章。</p>
+
+<p>时刻 | 内容</p>
+
+<p>05:00 英语结束（没想到这么难听）</p>
+
+<p>05:30 pilot show "The Cage"</p>
+
+<p>06:24 电视史上第一个出演主角的女黑人Nichelle Nichols</p>
+
+<p>07:26 The Prime Directive</p>
+
+<p>09:00 星际迷航中的科技reality&amp;future</p>
+
+<p>文稿：</p>
+
+<p>```
+As the most prolific sci-fi show, the Star Trek series and movies had a great influence on sci-fi lovers in the past and definitely will impress more generations to come.</p>
+
+<p>It began in 1964 when Gene Roddenberry wrote the pilot episode of this show, "The Cage", and proposed it to NBC. Though impressed by the concept in it, NBC turned this newly-born TV show down because they thought the new ideas were too unimaginable for the audience. The second pilot, "The Man Trap", came in 1966 after Roddenberry changed the whole story to a less aggressive one. Actually, from a modern point of view, the rewritten story is kind of boring compared to the first pilot, but for the people in that time it was great and received a high rating.</p>
+
+<p>Star Trek in the early days, called "The Original Series" to set apart from the spin-offs followed, depict the voyages of Captain Kirk and his crew of Enterprise, a starship in 23rd century, named after American's first nuclear-powered carrier, aiming "to explore strange new world, to seek out new life and new civilizations, to boldly go where no man has gone before".</p>
+
+<p>A black woman played a protagonist, the role of communication officer of Starship Enterprise, making her the first black woman appeared on TV screens not as a servant. The idea that all human races as well as alien races are created equal is stressed over and over again during the whole show. The Prime Directive of Star Fleet says that every culture has its own way of evolution and, even he/she is in danger of death, no Star Fleet personnel can contaminate their sacred culture with superior knowledge and technology when they're not prepared to handle it nicely. Many other concepts such as authoritarianism, imperialism, religion, sexism, feminism, and the role of technology are also debated repeatedly in Star Trek.</p>
+
+<p>The reason for saying that the Star Trek is the sci-fi show having the most profound influence is that not only the idea but also the novel technology is in advance of its time. Many technologies imagined in Star Trek have already become realities now. For example, the prototype of clamshell phone is shown in the show when Captain Kirk communicates with Enterprise through a box-shaped device. The idea of touchscreen is also a reality in your pocket now. As the time passes by, more technology will become true.</p>
+
+<p>People like Star Trek for different reasons. For me, the spirit of exploration and the philosophy of justice are the most inspiring.
+```</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>2 同学你听说过安利吗(pilot)</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>2 同学你听说过安利吗(pilot)</itunes:subtitle>
+    <itunes:summary>2 同学你听说过安利吗(pilot)</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3</guid>
+    <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/2/</link>
+    <description><p>本期内容主要就是给大家安利这部史诗级长篇巨作Star Trek，入坑吧同志！
+ 时刻 | 内容
+00:55 星际迷航最佳观看顺序
+04:06 星际迷航百度百科
+06:06 星际迷航到底硬不硬
+09:00 星际迷航中的哲学
+11:12 2063年4月5号，你在哪里</p>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+	
+
+<item>
+    <title>1 第一次对着空气说话还是很不习惯的(pilot)</title>
+    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:subtitle>1 第一次对着空气说话还是很不习惯的(pilot)</itunes:subtitle>
+    <itunes:summary>1 第一次对着空气说话还是很不习惯的(pilot)</itunes:summary>
+    <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mp3" length="52916233" />
+    <guid>http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3</guid>
+    <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
+    <itunes:duration>36:43</itunes:duration>
+    <link>http://http://trekin.space/1/</link>
+    <description><p>第一次录，本期主要就是絮叨一下，好像没主题。</p>
+
+<p>第一次剪音频，谁能告诉我如何能够提高音质！！</p>
+
+<p>讲真！实测！对着空气说话会结巴！</p>
+
+<p><a href="https://en.wikipedia.org/wiki/Where_no_man_has_gone_before">Where no man has gone before</a></p>
+
+<p><a href="http://baike.baidu.com/link?url=neczIbDPgwFM6-7RoGqJHEVYcK6JHREg90zqjKvHKRCiVScjfQdU4vjQzuq2TWKSwqqeONFB2q68BXrQPSkoCeCDNL2Hwv3WShrOoHLi4Wi">星际迷航百度百科</a></p>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>首轮上映</strong></th>
+      <th><strong>片名</strong></th>
+      <th><strong>中文译名</strong></th>
+      <th><strong>季数</strong></th>
+      <th><strong>总集数</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1966-1969</td>
+      <td>Star Trek: The Original Series</td>
+      <td><a href="http://baike.baidu.com/item/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA%EF%BC%9A%E5%8E%9F%E5%88%9D%E7%B3%BB%E5%88%97">星际迷航：原初系列</a></td>
+      <td>3</td>
+      <td>79</td>
+    </tr>
+    <tr>
+      <td>1973-1974</td>
+      <td>Star Trek: The Animated Series</td>
+      <td>星际迷航：动画系列</td>
+      <td>2</td>
+      <td>22</td>
+    </tr>
+    <tr>
+      <td>1987-1994</td>
+      <td>Star Trek: The Next Generation</td>
+      <td>星际迷航：下一代</td>
+      <td>7</td>
+      <td>178</td>
+    </tr>
+    <tr>
+      <td>1993-1999</td>
+      <td>Star Trek: Deep Space Nine</td>
+      <td><a href="http://baike.baidu.com/item/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA%EF%BC%9A%E6%B7%B1%E7%A9%BA%E4%B9%9D%E5%8F%B7">星际迷航：深空九号</a></td>
+      <td>7</td>
+      <td>176</td>
+    </tr>
+    <tr>
+      <td>1995-2001</td>
+      <td>Star Trek: Voyager</td>
+      <td><a href="http://baike.baidu.com/item/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA%EF%BC%9A%E8%88%AA%E6%B5%B7%E5%AE%B6%E5%8F%B7">星际迷航：航海家号</a></td>
+      <td>7</td>
+      <td>172</td>
+    </tr>
+    <tr>
+      <td>2001-2005</td>
+      <td>Star Trek: Enterprise</td>
+      <td><a href="http://baike.baidu.com/item/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA%EF%BC%9A%E4%BC%81%E4%B8%9A%E5%8F%B7">星际迷航：企业号</a></td>
+      <td>4</td>
+      <td>98</td>
+    </tr>
+    <tr>
+      <td>2017-</td>
+      <td>Star Trek: Discovery</td>
+      <td><a href="http://baike.baidu.com/item/%E6%98%9F%E9%99%85%E8%BF%B7%E8%88%AA%EF%BC%9A%E5%8F%91%E7%8E%B0%E5%8F%B7">星际迷航：发现号</a></td>
+      <td>未知</td>
+      <td>未知</td>
+    </tr>
+  </tbody>
+</table>
+</description>
+	<itunes:order>itunesoder</itunes:order>
+</item>
+
+	
+	
+
+    </channel>
 </rss>
+
