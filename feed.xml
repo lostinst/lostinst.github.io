@@ -2,6 +2,7 @@
 layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
+
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom"
      version="2.0">
@@ -43,8 +44,9 @@ layout: null
     <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S GMT" }}</pubDate>
     <itunes:duration>36:43</itunes:duration>
     <link>http://{{ site.url }}{{post.permalink}}</link>
-    <description>{{ post.content }}</description>
-	<itunes:order>itunesoder</itunes:order>
+    <description>
+	<![CDATA[{{ post.content }}]]>
+</description>
 </item>
 
 	{% endif %}
