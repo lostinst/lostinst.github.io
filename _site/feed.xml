@@ -9,24 +9,18 @@
         <language>zh-cn</language>
         <link>http://trekin.space</link>
         <title>迷于星际迷航 Lost in Star Trek</title>
-        <itunes:keywords>星际迷航,StarTrek,影评</itunes:keywords>
+        <itunes:keywords>星际迷航,影评,迷于星际迷航,Star Trek</itunes:keywords>
         <itunes:author>小猪|深思|CrazyEMH</itunes:author>
         <itunes:subtitle>迷于星际迷航 Lost in Star Trek</itunes:subtitle>
-        <itunes:summary>星际迷航的中文播客~（也许是中文圈的第一个？） 以星际迷航为主题的自言自语，瞎聊，它的世界观、人设，它的新闻，只要是星际迷航沾边的都可能聊到，不定期更新。 在选类型的时候纠结了一下，涉及到播客定位问题，最后选了“影视”，但我并不打算只聊电影，也不打算只聊电视剧，我还希望聊聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，那句话怎么说的来着，“站在科技与人文的十字路口”，那我希望站在星际迷航、科幻、科技与人文的米字路口。 微博@迷于星际迷航播客，email: subspacesignal@qq.com</itunes:summary>
-        <description>星际迷航的中文播客~（也许是中文圈的第一个？） 以星际迷航为主题的自言自语，瞎聊，它的世界观、人设，它的新闻，只要是星际迷航沾边的都可能聊到，不定期更新。 在选类型的时候纠结了一下，涉及到播客定位问题，最后选了“影视”，但我并不打算只聊电影，也不打算只聊电视剧，我还希望聊聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，那句话怎么说的来着，“站在科技与人文的十字路口”，那我希望站在星际迷航、科幻、科技与人文的米字路口。 微博@迷于星际迷航播客，email: subspacesignal@qq.com</description>
-        <itunes:image href="http://fdfs.xmcdn.com/group8/M0B/94/59/wKgDYVY57ZHBpf8EAAfuhxx1qMk497.jpg"/>
-        
-            
+        <itunes:summary>以星际迷航为主题的闲聊。聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，我希望站在星际迷航、科幻、科技与人文的米字路口。若是站在了任意两者的十字路口或者任意三者的ж字路口，怪我咯~</itunes:summary>
+        <description>以星际迷航为主题的闲聊。聊星际迷航这部科幻长篇剧作对粉丝们以及大众生活的影响，我希望站在星际迷航、科幻、科技与人文的米字路口。若是站在了任意两者的十字路口或者任意三者的ж字路口，怪我咯~</description>
+        <itunes:image href="/images/avatar.jpg"/>
                 <itunes:category text="TV &amp; Film" />
-            
-        
-            
                 <itunes:category text="Technology">
                     <itunes:category text="Tech News" />
                 </itunes:category>
-            
-        
         <itunes:explicit>yes</itunes:explicit>
+
         
 	
 	
@@ -38,10 +32,10 @@
     <itunes:subtitle>36 HoloLens 与全息甲板之间差了多少个复制机</itunes:subtitle>
     <itunes:summary>36 HoloLens 与全息甲板之间差了多少个复制机</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mp3" length="35329533" />
     <guid>http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3</guid>
-    <pubDate>Fri, 03 Mar 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Fri, 03 Mar 2017 01:03:44 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/36/</link>
     <description>
 	<![CDATA[<p>简单聊下VR、AR和全息甲板。</p>
@@ -97,10 +91,10 @@
     <itunes:subtitle>35 神奇外星人在哪里</itunes:subtitle>
     <itunes:summary>35 神奇外星人在哪里</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3</guid>
-    <pubDate>Sat, 18 Feb 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 18 Feb 2017 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/35/</link>
     <description>
 	<![CDATA[<p>星际迷航迷人的一点在于里面有非常多神奇的外星人，以后再有人说科幻里面所有外星人要么长的跟人一样，要么智力、能力和社会结构跟人一样，就甩给他这些外星人。本期是奇怪的外星人的不完整总结，更多的 strange new life forms and new civilizations 等着您去探索。</p>
@@ -192,10 +186,10 @@
     <itunes:subtitle>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</itunes:subtitle>
     <itunes:summary>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3</guid>
-    <pubDate>Fri, 03 Feb 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Fri, 03 Feb 2017 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/SP4/</link>
     <description>
 	<![CDATA[<p>此处插播由 玖涼 主持的「星际迷航英文教室」播客的第一期节目，欢迎前去订阅。</p>
@@ -292,10 +286,10 @@
     <itunes:subtitle>SP3 设计师视角与军迷视角</itunes:subtitle>
     <itunes:summary>SP3 设计师视角与军迷视角</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3</guid>
-    <pubDate>Fri, 27 Jan 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Fri, 27 Jan 2017 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/SP3/</link>
     <description>
 	<![CDATA[<p>除夕前一夜，我们与听众们线上网聚唠嗑，这是其中一段录音。</p>
@@ -325,10 +319,10 @@
     <itunes:subtitle>34 Da Han (Part 3): I Am Laughing Just Thinking about It</itunes:subtitle>
     <itunes:summary>34 Da Han (Part 3): I Am Laughing Just Thinking about It</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3</guid>
-    <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 24 Jan 2017 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/34/</link>
     <description>
 	<![CDATA[<p>Da Han talked about the production stories of the 2nd episode of the "<em>Star Trek: Axiom"</em> fan film, "<em>Yorktown: A Time to Heal"</em>, starring <strong>George Takei</strong> and <strong>James Shigeta</strong>, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film "<em>TReK'd"</em> and our plans.</p>
@@ -418,10 +412,10 @@
     <itunes:subtitle>33 Da Han (Part 2): You Have to Understand How to Control Doses</itunes:subtitle>
     <itunes:summary>33 Da Han (Part 2): You Have to Understand How to Control Doses</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3</guid>
-    <pubDate>Tue, 24 Jan 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 24 Jan 2017 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/33/</link>
     <description>
 	<![CDATA[<p>Da Han and I finally had time to finish the interview we started months ago. In this Part 2 we continued the "drug" metaphor and talked about his stories of making one of the earliest fan films of Star Trek, "<em>The Quadroplastine Incident</em>", or, "<em>Yorktown: In Temporary Command</em>", and the episode 2 of this Yorktown series is on next episode of this podcast. Hope you enjoy.</p>
@@ -486,10 +480,10 @@
     <itunes:subtitle>32 2016年的片尾滚动字幕</itunes:subtitle>
     <itunes:summary>32 2016年的片尾滚动字幕</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3</guid>
-    <pubDate>Sun, 22 Jan 2017 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 22 Jan 2017 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/32/</link>
     <description>
 	<![CDATA[<p>以我们一贯的催眠风格，作2016年最后的滚动字幕。</p>
@@ -632,10 +626,10 @@
     <itunes:subtitle>31 星舰学院报考指南</itunes:subtitle>
     <itunes:summary>31 星舰学院报考指南</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3</guid>
-    <pubDate>Sun, 25 Dec 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 25 Dec 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/31/</link>
     <description>
 	<![CDATA[<p>想考星舰学院却不知道该学什么专业？收听时请查看 <a href="http://memory-alpha.wikia.com/wiki/Starfleet_Academy_courses">星联学院专业目录</a></p>
@@ -695,10 +689,10 @@
     <itunes:subtitle>30 近期新闻与校园霸凌</itunes:subtitle>
     <itunes:summary>30 近期新闻与校园霸凌</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3</guid>
-    <pubDate>Sun, 25 Dec 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 25 Dec 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/30/</link>
     <description>
 	<![CDATA[<p>对上期节目追踪之后我们聊了一些近期的新闻，最后谈了下知道TOS、TNG年代也没有解决的校园霸凌问题。考虑到星际迷航粉有可能是班里的怪胎（偏见？），有必要对欺负与被欺负的孩子以及将来的家长们提个醒，将问题重视起来。至于解决之道，大家具体问题具体分析，注意技巧（比如Spock打架前就先将熊孩子推到一边单挑）。</p>
@@ -761,10 +755,10 @@
     <itunes:subtitle>29 论轨道动力学与星际迷航的关系</itunes:subtitle>
     <itunes:summary>29 论轨道动力学与星际迷航的关系</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3</guid>
-    <pubDate>Sat, 26 Nov 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 26 Nov 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/29s/</link>
     <description>
 	<![CDATA[<p>科普了超级月亮之后，我们讨论了在太空中被打坏引擎会不会往下掉的问题。</p>
@@ -821,10 +815,10 @@
     <itunes:subtitle>28 越来越远</itunes:subtitle>
     <itunes:summary>28 越来越远</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3</guid>
-    <pubDate>Sat, 19 Nov 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 19 Nov 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/28/</link>
     <description>
 	<![CDATA[<p>这次聊了一些我们并不懂的东西——政治，肯定牵扯到派别问题，大家求同存异，欢迎反馈。</p>
@@ -897,10 +891,10 @@
     <itunes:subtitle>27 玖凉豆浆机（下）：这就是我想说的宇宙感</itunes:subtitle>
     <itunes:summary>27 玖凉豆浆机（下）：这就是我想说的宇宙感</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3</guid>
-    <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 13 Nov 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/27/</link>
     <description>
 	<![CDATA[<p>上次讲到2016年在伯明翰举办的 Destination Star Trek Europe 的活动与参与嘉宾，本期节目为下节，玖凉豆浆机继续跟我们分享了这次 DST 中，粉丝们是怎么玩的，以及参加这次 DST 的感受。</p>
@@ -938,10 +932,10 @@
     <itunes:subtitle>26 一周岁，聊聊我们怎么上船的</itunes:subtitle>
     <itunes:summary>26 一周岁，聊聊我们怎么上船的</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3</guid>
-    <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 13 Nov 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/26/</link>
     <description>
 	<![CDATA[<p>本期我们聊了我们是如何登上「做播客」这条船的？还科普了 iTunes Podcasts 的工作原理以及土。接着推荐了一些播客节目，最后我们还聊了未来的计划。本期无干货，且深思宿舍杂音较大，见谅。</p>
@@ -1005,10 +999,10 @@
     <itunes:subtitle>25 玖凉豆浆机（上）：肉体饥饿，精神充实</itunes:subtitle>
     <itunes:summary>25 玖凉豆浆机（上）：肉体饥饿，精神充实</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3</guid>
-    <pubDate>Sun, 13 Nov 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 13 Nov 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/25/</link>
     <description>
 	<![CDATA[<p>参加星际迷航大会是种什么样的体验？如何评价2016年在伯明翰举办的 Destination Star Trek Europe？来听听远在英国的玖凉豆浆机 boldly go 的故事吧。</p>
@@ -1140,10 +1134,10 @@
     <itunes:subtitle>24 **你就收了这个妖孽吧</itunes:subtitle>
     <itunes:summary>24 **你就收了这个妖孽吧</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3</guid>
-    <pubDate>Sun, 16 Oct 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 16 Oct 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/24/</link>
     <description>
 	<![CDATA[<p>号外号外，我台已经马上一周年了，如果大家有什么话想对我们说的，可以通过以下渠道给我们反馈：</p>
@@ -1181,10 +1175,10 @@
     <itunes:subtitle>23 Da Han (Part 1): I need more 'Star Trek drug' </itunes:subtitle>
     <itunes:summary>23 Da Han (Part 1): I need more 'Star Trek drug' </itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3</guid>
-    <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 11 Oct 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/23/</link>
     <description>
 	<![CDATA[<p>A short introduction of director Da Han. This is the first part of the interview. Hope you enjoy. Please wait for the second part.</p>
@@ -1222,10 +1216,10 @@
     <itunes:subtitle>22 看星际迷航也是要听音乐的</itunes:subtitle>
     <itunes:summary>22 看星际迷航也是要听音乐的</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561831345472942598_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561831345472942598_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/10/11/2561831345472942598_hd.mp3</guid>
-    <pubDate>Tue, 11 Oct 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 11 Oct 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/22/</link>
     <description>
 	<![CDATA[<p>一直想聊星际迷航音乐，这次终于来了。大概介绍了一下电影电视的片头和主旋律，诸如星联国歌、The Inner Light、克林贡歌曲、还有歌剧爱好者EMH与Seven of Nine的合唱等等这种小曲子就没有统计在内，下次一定补。</p>
@@ -1306,10 +1300,10 @@
     <itunes:subtitle>21 For the Love of 'Leonard Nimoy' 纪录片</itunes:subtitle>
     <itunes:summary>21 For the Love of 'Leonard Nimoy' 纪录片</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3</guid>
-    <pubDate>Thu, 06 Oct 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Thu, 06 Oct 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/21/</link>
     <description>
 	<![CDATA[<p>Adam Nimoy 拍的纪录片 <a href="http://fortheloveofspock.com/">For the Love of Spock</a> 的一点回顾。</p>
@@ -1345,10 +1339,10 @@
     <itunes:subtitle>20 子空间回信</itunes:subtitle>
     <itunes:summary>20 子空间回信</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3</guid>
-    <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 01 Oct 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/20/</link>
     <description>
 	<![CDATA[<p>播出这么久大家的反馈终于可以凑一期听众反馈了，谢谢大家的来信。不管大家喜不喜欢我们的节目，我们都会再接再厉。本期主播们的情绪芯片已上线，或者说我们已经 out of our Vulcan minds 了。</p>
@@ -1377,10 +1371,10 @@
     <itunes:subtitle>19 除去致敬和情怀</itunes:subtitle>
     <itunes:summary>19 除去致敬和情怀</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3</guid>
-    <pubDate>Sat, 01 Oct 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 01 Oct 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/19/</link>
     <description>
 	<![CDATA[<p>上期看完《星际迷航3超越星辰》谈了一点正面评价，这一期我们本来想好好地负面批判一番，结果整整扯了一期的致敬与情怀。</p>
@@ -1414,10 +1408,10 @@
     <itunes:subtitle>18 星际迷航3超越星辰：一起摇摆拯救世界</itunes:subtitle>
     <itunes:summary>18 星际迷航3超越星辰：一起摇摆拯救世界</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3</guid>
-    <pubDate>Sat, 03 Sep 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 03 Sep 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/18/</link>
     <description>
 	<![CDATA[<p>燃爆宇宙的星际迷航终于等来了，我们聊了聊观感，剧透在10分10秒处开始。</p>
@@ -1455,10 +1449,10 @@
     <itunes:subtitle>17 听完这期你就知道上船的姿势</itunes:subtitle>
     <itunes:summary>17 听完这期你就知道上船的姿势</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3</guid>
-    <pubDate>Sun, 21 Aug 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 21 Aug 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/17/</link>
     <description>
 	<![CDATA[<p>星际迷航3：超越星辰于9月2日中国大陆上映。作为最受欢迎的科幻作品之一，《星际迷航》以各类天马行空的想象、精密的世界观、大量的硬科幻元素和无微不至的人文主义关怀，赢得了地球各族人民的科幻爱好者的喜爱（外星人喜不喜欢我不知道）。</p>
@@ -1533,10 +1527,10 @@
     <itunes:subtitle>16 喵航舰长：制作组真的是把原剧翻烂了</itunes:subtitle>
     <itunes:summary>16 喵航舰长：制作组真的是把原剧翻烂了</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3</guid>
-    <pubDate>Wed, 10 Aug 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Wed, 10 Aug 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/16/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20160808，嘉宾：喵航舰长，主播：CrazyEMH</p>
@@ -1628,10 +1622,10 @@
     <itunes:subtitle>15 我志愿加入星联</itunes:subtitle>
     <itunes:summary>15 我志愿加入星联</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3</guid>
-    <pubDate>Sat, 23 Jul 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 23 Jul 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/15/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20160718，主播：深思|CrazyEMH</p>
@@ -1703,10 +1697,10 @@
     <itunes:subtitle>14 星闻联播</itunes:subtitle>
     <itunes:summary>14 星闻联播</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3</guid>
-    <pubDate>Sat, 09 Jul 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 09 Jul 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/14/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20160704，主播：小猪|CrazyEMH</p>
@@ -1766,10 +1760,10 @@
     <itunes:subtitle>13 从星联扯到没有人到过的地方</itunes:subtitle>
     <itunes:summary>13 从星联扯到没有人到过的地方</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3</guid>
-    <pubDate>Tue, 05 Jul 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 05 Jul 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/13/</link>
     <description>
 	<![CDATA[<p>我台迎来新主播深思。</p>
@@ -1852,10 +1846,10 @@
     <itunes:subtitle>12 老司机不翻船</itunes:subtitle>
     <itunes:summary>12 老司机不翻船</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3</guid>
-    <pubDate>Sun, 26 Jun 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 26 Jun 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/12/</link>
     <description>
 	<![CDATA[<p>本台迎来新主播小猪</p>
@@ -1911,10 +1905,10 @@
     <itunes:subtitle>11 迟到的旧闻联播</itunes:subtitle>
     <itunes:summary>11 迟到的旧闻联播</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3</guid>
-    <pubDate>Sun, 05 Jun 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 05 Jun 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/11/</link>
     <description>
 	<![CDATA[<p>好久不更新，想死你们啦~</p>
@@ -1953,10 +1947,10 @@
     <itunes:subtitle>SP2 未来的犯罪与预防犯罪</itunes:subtitle>
     <itunes:summary>SP2 未来的犯罪与预防犯罪</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3</guid>
-    <pubDate>Tue, 17 May 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 17 May 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/SP2/</link>
     <description>
 	<![CDATA[<p>本期为未来事务管理局【时间们·时空追缉令】现场录音，由未来事务管理局授权发布。更多内容关注未来事务管理局旗下"不存在日报"，微信号：non-exist-FAA</p>
@@ -2057,10 +2051,10 @@
     <itunes:subtitle>SP1 First Contact Day Special</itunes:subtitle>
     <itunes:summary>SP1 First Contact Day Special</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3</guid>
-    <pubDate>Tue, 05 Apr 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Tue, 05 Apr 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/SP1/</link>
     <description>
 	<![CDATA[<p>Happy First Contact Day. 参考第6期 出现在星际迷航中的节日。</p>
@@ -2118,10 +2112,10 @@
     <itunes:subtitle>10 CBS与Paramount诉Axanar案</itunes:subtitle>
     <itunes:summary>10 CBS与Paramount诉Axanar案</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3</guid>
-    <pubDate>Mon, 04 Apr 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Mon, 04 Apr 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/10/</link>
     <description>
 	<![CDATA[<p>本期话题：CBS/Paramount vs. Axanar案</p>
@@ -2155,10 +2149,10 @@
     <itunes:subtitle>9 本来想聊科幻可是一不小心就成闲聊了</itunes:subtitle>
     <itunes:summary>9 本来想聊科幻可是一不小心就成闲聊了</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3</guid>
-    <pubDate>Sat, 12 Mar 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 12 Mar 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/9/</link>
     <description>
 	<![CDATA[<p>本期主题春节闲聊，既然不能成为今年第一个向您问候新年好的播客，那就做最后一个。</p>
@@ -2184,10 +2178,10 @@
     <itunes:subtitle>8 桃媚：DS9都没看你也敢做播客</itunes:subtitle>
     <itunes:summary>8 桃媚：DS9都没看你也敢做播客</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3</guid>
-    <pubDate>Sat, 30 Jan 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 30 Jan 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/8/</link>
     <description>
 	<![CDATA[<p>嘉宾@桃媚</p>
@@ -2221,10 +2215,10 @@
     <itunes:subtitle>7 Beyond the trailer</itunes:subtitle>
     <itunes:summary>7 Beyond the trailer</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3</guid>
-    <pubDate>Mon, 11 Jan 2016 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Mon, 11 Jan 2016 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/7/</link>
     <description>
 	<![CDATA[<p>本期聊预告片</p>
@@ -2264,10 +2258,10 @@
     <itunes:subtitle>6 出现在星际迷航中的节日</itunes:subtitle>
     <itunes:summary>6 出现在星际迷航中的节日</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3</guid>
-    <pubDate>Fri, 25 Dec 2015 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Fri, 25 Dec 2015 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/6/</link>
     <description>
 	<![CDATA[<p>03:00 易中天《费城风云》</p>
@@ -2323,10 +2317,10 @@
     <itunes:subtitle>5 星际迷航50周年特展非官方导览</itunes:subtitle>
     <itunes:summary>5 星际迷航50周年特展非官方导览</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3</guid>
-    <pubDate>Fri, 18 Dec 2015 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Fri, 18 Dec 2015 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/5/</link>
     <description>
 	<![CDATA[<p>00:00:30 无耻地求推广</p>
@@ -2358,10 +2352,10 @@
     <itunes:subtitle>4 Gene Roddenberry生平</itunes:subtitle>
     <itunes:summary>4 Gene Roddenberry生平</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3</guid>
-    <pubDate>Sun, 22 Nov 2015 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sun, 22 Nov 2015 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/4/</link>
     <description>
 	<![CDATA[<p>00:35 关于播客的闲fei聊hua</p>
@@ -2416,10 +2410,10 @@
     <itunes:subtitle>3 To boldly go where no man has gone before(pilot)</itunes:subtitle>
     <itunes:summary>3 To boldly go where no man has gone before(pilot)</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3</guid>
-    <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 31 Oct 2015 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/3/</link>
     <description>
 	<![CDATA[<p>本期主题继续上期：安利，分享我之前写过的一篇安利文章。</p>
@@ -2465,10 +2459,10 @@ As the most prolific sci-fi show, the Star Trek series and movies had a great in
     <itunes:subtitle>2 同学你听说过安利吗(pilot)</itunes:subtitle>
     <itunes:summary>2 同学你听说过安利吗(pilot)</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3</guid>
-    <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 31 Oct 2015 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/2/</link>
     <description>
 	<![CDATA[<p>本期内容主要就是给大家安利这部史诗级长篇巨作Star Trek，入坑吧同志！
@@ -2492,10 +2486,10 @@ As the most prolific sci-fi show, the Star Trek series and movies had a great in
     <itunes:subtitle>1 第一次对着空气说话还是很不习惯的(pilot)</itunes:subtitle>
     <itunes:summary>1 第一次对着空气说话还是很不习惯的(pilot)</itunes:summary>
     <itunes:image href="http://fdfs.xmcdn.com/group13/M0B/92/13/wKgDXVY1zJXR6AfgAAfuhxx1qMk195.jpg"></itunes:image>
-    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mp3" length="52916233" />
+    <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mp3" length="" />
     <guid>http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3</guid>
-    <pubDate>Sat, 31 Oct 2015 00:00:00 GMT</pubDate>
-    <itunes:duration>36:43</itunes:duration>
+    <pubDate>Sat, 31 Oct 2015 00:00:00 +0800</pubDate>
+    <itunes:duration></itunes:duration>
     <link>http://http://trekin.space/1/</link>
     <description>
 	<![CDATA[<p>第一次录，本期主要就是絮叨一下，好像没主题。</p>
