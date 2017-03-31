@@ -8,7 +8,7 @@ layout: null
      version="2.0">
     <channel>
         <atom:link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="self"></atom:link>
-        <copyright>Copyright 迷于星际迷航团队</copyright>
+        <copyright><![CDATA[Copyright &copy; 迷于星际迷航团队]]></copyright>
         <language>zh-cn</language>
         <link>{{ site.url }}</link>
         <title>迷于星际迷航 Lost in Star Trek</title>
