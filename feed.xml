@@ -33,7 +33,7 @@ layout: null
     <guid isPermaLink="true">http://{{ site.url }}{{post.permalink}}</guid>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <itunes:duration>{{ post.duration }}</itunes:duration>
-    <link>http://{{ site.url }}{{post.permalink}}</link>
+    <link>{{ site.url }}{{post.permalink}}</link>
     <description>
 	<![CDATA[{{ post.content }}]]>
 </description>
