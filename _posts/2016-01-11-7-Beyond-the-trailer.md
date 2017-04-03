@@ -2,11 +2,13 @@
 layout: post
 permalink: /7/
 title: "7 Beyond the trailer"
-date: 2016-01-11 
+date: 2016-01-11 23:17:00 +0800
 description: "播客"
 tag: 播客 
-ximalayam4aurl: http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3
+duration: 2284
+ximalayam4aurl: http://jt.ximalaya.com/wKgDWlaTxyaQ_IgpARnznIh-bJA844.m4a?channel=rss&album_id=3135361&track_id=11488609&uid=6418191&jt=http://audio.xmcdn.com/group7/M06/E3/F3/wKgDWlaTxyaQ_IgpARnznIh-bJA844.m4a
 lizhimp3url: http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3
+lizhimp3length: 36609686
 ---   
 
 本期聊预告片

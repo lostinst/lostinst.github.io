@@ -2,11 +2,13 @@
 layout: post
 permalink: /23/
 title: "23 Da Han (Part 1): I need more 'Star Trek drug' "
-date: 2016-10-11
+date: 2016-10-11 05:39:35 +0800
 description: "播客"
 tag: 播客 
+duration: 704
 ximalayam4aurl: http://jt.ximalaya.com/wKgJLFf8sUWjxi-YAFbi_vo540w587.m4a?channel=rss&album_id=3135361&track_id=23046064&uid=6418191&jt=http://audio.xmcdn.com/group20/M0B/6D/05/wKgJLFf8sUWjxi-YAFbi_vo540w587.m4a
 lizhimp3url: http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3
+lizhimp3length: 11324501
 ---   
 
 A short introduction of director Da Han. This is the first part of the interview. Hope you enjoy. Please wait for the second part.

@@ -2,11 +2,13 @@
 layout: post
 permalink: /3/
 title: "3 To boldly go where no man has gone before(pilot)"
-date: 2015-10-31
+date: 2015-10-31 23:57:00 +0800
 description: "播客开播"
 tag: 播客
+duration: 702
 ximalayam4aurl: http://jt.ximalaya.com/wKgDXFY04liS734iAFa8dXyLffM161.m4a?channel=rss&album_id=3135361&track_id=9633110&uid=6418191&jt=http://audio.xmcdn.com/group12/M08/90/DD/wKgDXFY04liS734iAFa8dXyLffM161.m4a
 lizhimp3url: http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3
+lizhimp3length: 11295164
 ---   
 
 本期主题继续上期：安利，分享我之前写过的一篇安利文章。
