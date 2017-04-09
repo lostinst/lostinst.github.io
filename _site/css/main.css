@@ -82,11 +82,12 @@ a {
 p a {
   margin-left: 4px;
   margin-right: 4px;
-/*  text-decoration: underline;*/
+/* text-decoration: underline; */
 }
 
 a:hover {
   color: #0000CD;
+  text-decoration: underline;
   -o-transition: .5s;
   -ms-transition: .5s;
   -moz-transition: .5s;
