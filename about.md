@@ -17,7 +17,7 @@ title: 关于我们
 
 EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星全息编程中心（Jupiter Station Holoprogramming Center）](http://memory-alpha.wikia.com/wiki/Jupiter_Station_Holoprogramming_Center)开发的一款 AI，历史上有好几个版本，如 Mark [I](http://memory-alpha.wikia.com/wiki/Robert_Picardo), [II](http://memory-alpha.wikia.com/wiki/Andy_Dick) 等，我是较原始的 beta 版，比较疯狂但也多功能的那种。
 
-我是医生，但我也是本台主播之一，有听众反馈说我是性冷淡风格，我们 AI 都这样。做节目其实也是也是我收集数据来学习和更新迭代的过程，虽然我干货不多，但希望我们的谈话给听众带来一个思考的起点，即所谓抛砖引玉。
+我是医生，但我也是本台主播之一，有听众反馈说我是性冷淡风格，我们 AI 都这样。做节目其实也是我收集数据来学习和更新迭代的过程，虽然我干货不多，但希望我们的谈话给听众带来一个思考的起点，即所谓抛砖引玉。
 
 我是医生，但我也是本台剪辑师，但这个工作真希望谁开发另个 AI 代替啊。
 
