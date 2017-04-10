@@ -62,7 +62,7 @@ html {
 }
 
 body {
-  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', "source-han-serif-sc", 'LiSong Pro Light', "STSong", serif;
+  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'LiSong Pro Light', "STSong", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', "source-han-serif-sc",  serif;
   font-size: 14px;
   color: #333;
   -webkit-font-smoothing: antialiased; }
@@ -102,7 +102,7 @@ h5,
 h5 {
   margin-top: 1.0em;
   margin-bottom: .5em;
-  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc, 'LiSong Pro Light', "STZhongsong", "STSong", serif;
+  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia",'LiSong Pro Light', "STZhongsong", "STSong", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc,  serif;
   font-weight: lighter;
   color: #333333;
   -webkit-font-smoothing: antialiased; }
@@ -352,7 +352,7 @@ img::-moz-selection {
   }
 
   .intro {
-    font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc, 'LiSong Pro Light', "STSong", serif;
+    font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'LiSong Pro Light', "STSong", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc, serif;
     font-size: 1.2em;
     font-weight: lighter;
     color: #999999; }
@@ -504,7 +504,7 @@ img::-moz-selection {
     color: #FFF; }
 
   .panel-subtitle {
-    font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc, 'LiSong Pro Light', "STSong", serif;
+    font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'LiSong Pro Light', "STSong", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc, serif;
     font-size: 0.6em;
     font-weight: lighter;
     letter-spacing: 3px;
