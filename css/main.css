@@ -1377,6 +1377,7 @@ nav a {
   color: #999;
   font-weight: 700;
   font-size: .8em;
+  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia",'LiSong Pro Light', "STZhongsong", "STSong", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', source-han-serif-sc,  serif;
   text-shadow: none;
   -webkit-transition: color 0.3s;
   -moz-transition: color 0.3s;
