@@ -62,7 +62,7 @@ html {
 }
 
 body {
-  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'LiSong Pro Light', "STSong", 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', "source-han-serif-sc",  serif;
+  font-family: 'Palatino Linotype','Bookman Old Style', "Garamond", "Georgia", 'LiSong Pro Light', 'Noto Serif', 'Noto Serif CJK SC', 'Noto Serif CJK', 'Source Han Serif SC', 'Source Han Serif', "source-han-serif-sc",  "STSong", serif;
   font-size: 14px;
   color: #333;
   -webkit-font-smoothing: antialiased; }
