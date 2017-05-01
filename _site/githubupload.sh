@@ -2,5 +2,5 @@
 
 git init
 git add .
-git commit -m "xml done with coding.net"
+git commit -m "add call for videos"
 git push -u origin master
