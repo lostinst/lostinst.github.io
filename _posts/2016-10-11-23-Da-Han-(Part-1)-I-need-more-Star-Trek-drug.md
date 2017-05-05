@@ -27,7 +27,7 @@ Da Han是最早开始制作星际迷航粉丝剧的导演之一，现在他与�
 
 05:28 [Bjo Trimble: The Woman Who Saved Star Trek](http://www.startrek.com/article/bjo-trimble-the-woman-who-saved-star-trek-part-1)
 
-##·本台反馈·
+## ·本台反馈·
 
 Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies open.
 
