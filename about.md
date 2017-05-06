@@ -11,7 +11,9 @@ title: 关于我们
 
 ### 深思
 
-深思简介
+深思，与某个算出了宇宙、生命以及一切答案的电脑同名，星舰学院地理系学生，曾就读于英国霍格沃茨学校格兰芬多学院，因疏于练习只能熟练使用悬浮咒。后来因为误入 TARDIS 而离开霍格沃茨，并最终留在星舰学院进修离开 TARDIS。知识面广但不精深，所以问我细节很有可能只能得到[“42”](https://en.wikipedia.org/wiki/Phrases_from_The_Hitchhiker%27s_Guide_to_the_Galaxy#Answer_to_the_Ultimate_Question_of_Life.2C_the_Universe.2C_and_Everything_.2842.29)这个回答。秘密身份是 [Ingress](https://www.ingress.com/) 抵抗军特工。
+
+本台工作负责录音，以及在 EMH 要求的情况下参与杂活。
 
 ### CrazyEMH
 
