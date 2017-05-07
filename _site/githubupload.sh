@@ -2,5 +2,5 @@
 
 git init
 git add .
-git commit -m "ep40 updates"
+git commit -m "callforvideoen martin's name updates"
 git push -u origin master
