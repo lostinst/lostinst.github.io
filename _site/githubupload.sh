@@ -2,5 +2,5 @@
 
 git init
 git add .
-git commit -m "add call for vedios link trek-d.starfleet.info"
+git commit -m "changed call for videos title"
 git push -u origin master
