@@ -79,3 +79,31 @@ Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies op
 
 时间与能力有限，如有纰漏欢迎指出。任何意见反馈，我们都会考虑和讨论，改不改就由着我们了。解答各种跟星际迷航有关没关的疑问，还接受话题建议与投稿。
 
+### 投稿
+
+投稿邮箱见上，文章内容不限。欢迎分享自己的所思所想，不限于星际迷航，跟科幻/科学沾边都行。非虚构类文章一律不拒稿。
+
+发 Word 给我们就行，可包含加粗、斜体、链接、图片、视频。如果是虚构类写作，txt 纯文本就很好。
+
+### 打赏
+
+可以通过赏赐[拉蒂锭条(Latinum Bars)](http://memory-alpha.wikia.com/wiki/Latinum)来鼓励我们：
+
+* 添加听众群给我们和群友发红包
+* 在[微博任意长文](http://weibo.com/ttarticle/p/show?id=2309404019291941931844&mod=zwenzhang)下打赏
+* 喜马拉雅平台可以打赏
+
+不鼓励非理性打赏，毕竟打赏不会给你带来什么。任何赏额恕不退款，请参阅 [_Rules of Acquisition_](http://memory-alpha.wikia.com/wiki/Rules_of_Acquisition) 第一条：
+
+> Once you have their money, you never give it back.
+
+### 转载
+
+欢迎引用/转载，请遵循 [CC-BY-NC-SA 知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](http://creativecommons.org/licenses/by-nc-sa/4.0/)。
+
+（科普一下）这意味着：
+
+* 需要指明出处
+* 必须是非商业使用
+* 必须使您的作品供他人在署名、非商业的情况下免费使用（即以与此处所述相同方式共享）。
+
