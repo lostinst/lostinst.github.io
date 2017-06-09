@@ -2,5 +2,5 @@
 
 git init
 git add .
-git commit -m "add donation info in about-page"
+git commit -m "add zh cc link"
 git push -u origin master
