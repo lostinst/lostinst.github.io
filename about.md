@@ -47,7 +47,7 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 
 既然免责声明都开始了就来个彻底的 Disclaimer：
 
-Star Trek ®, in all its various forms, is a trademark of CBS / Paramount Pictures / Viacom. No copyright infringement is intended or contained on this `trekin.space` site and the `迷于星际迷航播客` podcast. We understand and recognize the right of CBS / Paramount Pictures / Viacom, to enforce ownership of these trademarks, and do not dispute this. We believe that everything on this web site falls within the fair use clause of Trademarks and Copyrights, and pledge full cooperation with CBS / Paramount / Viacom to protect its trademarks. The `迷于星际迷航播客` podcast and this `trekin.space` website are in no way affiliated or recognized by CBS / Paramount Pictures / Viacom.
+Star Trek ®, in all its various forms, is a trademark of CBS / Paramount Pictures / Viacom. No copyright infringement is intended or contained on this `trekin.space` site and the `迷于星际播客` podcast. We understand and recognize the right of CBS / Paramount Pictures / Viacom, to enforce ownership of these trademarks, and do not dispute this. We believe that everything on this web site falls within the fair use clause of Trademarks and Copyrights, and pledge full cooperation with CBS / Paramount / Viacom to protect its trademarks. The `迷于星际播客` podcast and this `trekin.space` website are in no way affiliated or recognized by CBS / Paramount Pictures / Viacom.
 
 ### 收听指导
 
@@ -73,7 +73,7 @@ Star Trek ®, in all its various forms, is a trademark of CBS / Paramount Pictur
 
 Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies open.
 
-新浪微博：[@迷于星际迷航播客](http://weibo.com/lostinst)
+新浪微博：[@迷于星际播客](http://weibo.com/lostinst)
 
 听众交流群：QQ 群号 591546843
 
