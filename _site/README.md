@@ -9,4 +9,4 @@
 201709051100 updated ep 46
 201709051251 updated avatar/podcast artwork
 201709051838 changed podcast name from 迷于星际播客 to 迷于星际迷航播客 in official site. ximalaya & lizhi platform have already changed.
-
+201709192100 add to the journey to explore podcast
