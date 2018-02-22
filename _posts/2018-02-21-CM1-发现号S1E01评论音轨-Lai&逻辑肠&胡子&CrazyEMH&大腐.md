@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /CM1/
-title: "CM1 发现号S1E01评论音轨-Lai&逻辑肠&胡子&CrazyEMH&大腐"
+title: "CM1 发现号S1E01评论音轨-Lai&amp;逻辑肠&amp;胡子&amp;CrazyEMH&amp;大腐"
 date: 2018-02-21 13:18:00 +0800
 description: "播客"
 tag: 评论音轨
