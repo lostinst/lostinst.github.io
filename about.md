@@ -38,6 +38,7 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 * [喜马拉雅](http://www.ximalaya.com/6418191/album/3135361)
 * [iTunes](https://itunes.apple.com/cn/podcast/mi-yu-xing-ji-mi-hang-lost-in-st/id1054780505?mt=2)
 * [Google Play Music](https://play.google.com/music/m/Iey4t72nyfjstbvsymmgcoptdqy?t=_Lost_in_ST)
+* [Spotify](https://open.spotify.com/show/4e3NxO5u4rS8oWkwjeP37d)
 
 ### 目标受众（其实是*免责声明*）
 
