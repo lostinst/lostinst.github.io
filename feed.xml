@@ -13,7 +13,7 @@ layout: null
         <link>{{ site.url }}</link>
         <title>迷于星际 Lost in Trek</title>
         <itunes:keywords>星际迷航,影评,迷于星际,Star Trek</itunes:keywords>
-        <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+        <itunes:author>迷于星际团队</itunes:author>
         <itunes:subtitle></itunes:subtitle>
         <description>以星际迷航为主题的聊天节目。</description>
         <itunes:image href="http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_3198153140110973258.jpg"/>
