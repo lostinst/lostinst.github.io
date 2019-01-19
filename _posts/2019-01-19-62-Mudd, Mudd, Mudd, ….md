@@ -25,7 +25,7 @@ Mudd 重新登场，Mudd 重新登场，Mudd 重新登场，在不同的空间�
 
 00:05:41 [John Eaves](http://www.startrek.com/article/first-look-the-art-of-john-eaves)
 
-00:32:10 [《起风之城》](https://book.douban.com/subject/26648648/)张冉 着
+00:32:10 [《起风之城》](https://book.douban.com/subject/26648648/)张冉 著
 
 00:43:37 [安多利亚人](http://memory-alpha.wikia.com/wiki/Andorian)的生殖方式
 
@@ -34,7 +34,7 @@ Mudd 重新登场，Mudd 重新登场，Mudd 重新登场，在不同的空间�
 - 三倍体的直接定义即为拥有三套同源染色体，故按描述，安多利亚人可称为三倍体。
 - 三倍体生物可由一个四倍体产生的配子与二倍体产生的配子受精而成。
 - 三倍体生物多采用无性繁殖（如香蕉、无籽西瓜等）
-- 《[神们自己](https://book.douban.com/subject/26264967/)》阿西莫夫 着
+- 《[神们自己](https://book.douban.com/subject/26264967/)》阿西莫夫 著
 
 00:55:28 星际迷航近期新闻：
 
@@ -42,7 +42,7 @@ Mudd 重新登场，Mudd 重新登场，Mudd 重新登场，在不同的空间�
 - 还有一部[面向青少年的动画](https://io9.gizmodo.com/another-star-trek-animated-series-is-coming-and-so-are-1831590126)
 - [皮卡剧，Stewart 已表示喜欢并加入](https://www.hollywoodreporter.com/live-feed/star-trek-patrick-stewarts-picard-series-reveals-new-details-1174452)
   - [开尔文时间线与主宇宙时间线示意图](https://redshirtsalwaysdie.com/wp-content/blogs.dir/370/files/2019/01/STOtimeline.jpg)
-- [星际迷航 4 被搁置](https://news.yahoo.com/paramount-pictures-shelves-star-trek-002704419.html)
+- [星际迷航4被搁置](https://news.yahoo.com/paramount-pictures-shelves-star-trek-002704419.html)
 
 ## ●本台反馈●
 
