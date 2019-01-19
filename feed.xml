@@ -28,7 +28,7 @@ layout: null
 
 <item>
     <title>{{ post.title }}</title>
-    <itunes:author>小猪|深思|CrazyEMH</itunes:author>
+    <itunes:author>迷于星际团队</itunes:author>
     <enclosure url="{{post.lizhimp3url}}" type="audio/mp3" length="{{ post.lizhimp3length }}" />
     <guid isPermaLink="true">{{ site.url }}{{post.permalink}}</guid>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
