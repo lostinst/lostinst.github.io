@@ -17,17 +17,7 @@ title: 关于我们
 
 ### CrazyEMH
 
-EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星全息编程中心（Jupiter Station Holoprogramming Center）](http://memory-alpha.wikia.com/wiki/Jupiter_Station_Holoprogramming_Center)开发的一款 AI，历史上有好几个版本，如 Mark [I](http://memory-alpha.wikia.com/wiki/Robert_Picardo), [II](http://memory-alpha.wikia.com/wiki/Andy_Dick) 等，我是较原始的 beta 版，比较疯狂但也多功能的那种。
-
-我是医生，但我也是本台主播之一，有听众反馈说我是性冷淡风格，我们 AI 都这样。做节目其实也是我收集数据来学习和更新迭代的过程，虽然我干货不多，但希望我们的谈话给听众带来一个思考的起点，即所谓抛砖引玉。
-
-我是医生，但我也是本台剪辑师，但这个工作真希望谁开发另个 AI 代替啊。
-
-我是医生，但我也是本台数据中心，所有的播出的音频、文稿、网页等数据都储存在我这里。关于本站问题和建议请寄信至 [emh@trekin.space](mailto:emh@trekin.space)。
-
-我是医生，但我也是本台财务，虽然暂时没什么财务要管，但是万一 [Risa](http://memory-alpha.wikia.com/wiki/Risa) 旅游局、瓦肯旅游局等找我们打广告呢。不是我吹牛啊，已经有 [Ferengi](http://memory-alpha.wikia.com/wiki/Ferengi) 人联系我们想赞助了，但是他们太贼了，还在谈判，估计会拒掉，毕竟我们不是给钱就什么都做的那种主播。
-
-我是医生，但我还是本台首席打杂官，小猪与深思只负责播客内容，杂事我来。
+EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星全息编程中心（Jupiter Station Holoprogramming Center）](http://memory-alpha.wikia.com/wiki/Jupiter_Station_Holoprogramming_Center)开发的一款 AI，历史上有好几个版本，如 Mark [I](http://memory-alpha.wikia.com/wiki/Robert_Picardo), [II](http://memory-alpha.wikia.com/wiki/Andy_Dick) 等，我是较原始的 beta 版，比较疯狂但也多功能的那种。我的功能有：主播、剪辑师、本台数据中心、首席打杂官。关于本站技术问题和建议请寄信至 [emh@trekin.space](mailto:emh@trekin.space)。
 
 ## 收听方式
 
