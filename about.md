@@ -19,6 +19,10 @@ title: 关于我们
 
 EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星全息编程中心（Jupiter Station Holoprogramming Center）](http://memory-alpha.wikia.com/wiki/Jupiter_Station_Holoprogramming_Center)开发的一款 AI，历史上有好几个版本，如 Mark [I](http://memory-alpha.wikia.com/wiki/Robert_Picardo), [II](http://memory-alpha.wikia.com/wiki/Andy_Dick) 等，我是较原始的 beta 版，比较疯狂但也多功能的那种。我的功能有：主播、剪辑师、本台数据中心、首席打杂官。关于本站技术问题和建议请寄信至 [emh@trekin.space](mailto:emh@trekin.space)。
 
+### [胡子](https://weibo.com/p/1005051764117203)
+
+出生于24世纪的安多利星的安多利人，因时间事故被困在21世纪初，每天都在努力和星联取得联系，至今没有成功，只能用谈论星联历史来一解思乡之苦。
+
 ## 收听方式
 
 * 本站可在线收听
