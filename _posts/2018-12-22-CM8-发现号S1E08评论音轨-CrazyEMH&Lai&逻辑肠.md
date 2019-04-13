@@ -7,6 +7,7 @@ description: "播客"
 tag: 评论音轨
 duration: 2452
 ximalayam4aurl: http://jt.ximalaya.com/wKgLcVwdoB2h53a8AS8D06gsqfQ652.m4a?channel=rss&amp;album_id=3135361&amp;track_id=146653977&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group53/M0B/B1/6A/wKgLcVwdoB2h53a8AS8D06gsqfQ652.m4a
+ximalayam4alength: 21017137
 lizhimp3url: http://cdn.lizhi.fm/audio/2018/12/21/5016352973509633542_ud.mp3
 lizhimp3length: 98172399
 ---   

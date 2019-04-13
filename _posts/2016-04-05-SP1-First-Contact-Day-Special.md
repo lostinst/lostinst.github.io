@@ -6,7 +6,8 @@ date: 2016-04-05 12:55:19 +0800
 description: "播客"
 tag: 增刊
 duration: 1500
-ximalayam4aurl: http://jt.ximalaya.com/wKgDZlcCkTHTMxljALkUY-i61Wc687.m4a?channel=rss&album_id=3135361&track_id=14017063&uid=6418191&jt=http://audio.xmcdn.com/group9/M02/3A/B9/wKgDZlcCkTHTMxljALkUY-i61Wc687.m4a
+ximalayam4aurl: http://jt.ximalaya.com/wKgDZlcCkTHTMxljALkUY-i61Wc687.m4a?channel=rss&amp;album_id=3135361&amp;track_id=14017063&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group9/M02/3A/B9/wKgDZlcCkTHTMxljALkUY-i61Wc687.m4a
+ximalayam4alength: 35957138
 lizhimp3url: http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3
 lizhimp3length: 24060504
 ---   

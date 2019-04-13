@@ -6,7 +6,8 @@ date: 2018-07-28 21:06:00 +0800
 description: "播客"
 tag: Ready Room
 duration: 2176
-ximalayam4aurl: http://jt.ximalaya.com/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a?channel=rss&album_id=3135361&track_id=102189418&uid=6418191&jt=http://audio.xmcdn.com/group47/M02/D8/19/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a
+ximalayam4aurl: http://jt.ximalaya.com/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a?channel=rss&amp;album_id=3135361&amp;track_id=102189418&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group47/M02/D8/19/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a
+ximalayam4alength: 52258623
 lizhimp3url: http://cdn.lizhi.fm/audio/2018/07/28/2683399752768376838_ud.mp3
 lizhimp3length: 87132036
 ---   
