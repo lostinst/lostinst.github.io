@@ -14,7 +14,7 @@ lizhimp3length: 111623329
 
 本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。
 
-本期节目录制于20180221，主播：[CrazyE](mailto:emh@trekin.space)[MH](mailto:emh@trekin.space)\|[Lai](http://weibo.com/daishengniao)\|[IV](https://weibo.com/u/5682045870)[超智能逻辑肠](https://weibo.com/u/5682045870)\|[大腐](https://weibo.com/u/5113590549)
+本期节目录制于20180221，主播：[CrazyEMH](mailto:emh@trekin.space)\|[Lai](http://weibo.com/daishengniao)\|[IV超智能逻辑肠](https://weibo.com/u/5682045870)\|[大腐](https://weibo.com/u/5113590549)
 
 ————
 

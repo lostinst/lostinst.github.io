@@ -8,12 +8,12 @@ layout: null
      version="2.0">
     <channel>
         <atom:link href="{{ site.url }}/feed.xml" type="application/rss+xml" rel="self"></atom:link>
-        <copyright><![CDATA[Copyright &copy; 迷于星际船员]]></copyright>
+        <copyright><![CDATA[Copyright &copy; 迷于星际的船员们]]></copyright>
         <language>zh-cn</language>
         <link>{{ site.url }}</link>
         <title>迷于星际 Lost in Trek</title>
         <itunes:keywords>星际迷航,影评,迷于星际,Star Trek,Lost In Trek</itunes:keywords>
-        <itunes:author>迷于星际船员</itunes:author>
+        <itunes:author>迷于星际的船员们</itunes:author>
         <itunes:subtitle></itunes:subtitle>
         <description>以星际迷航为主题的聊天节目。</description>
         <itunes:image href="http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_3198153140110973258.jpg"/>
@@ -27,7 +27,7 @@ layout: null
 	{% if post.layout == 'post' %}
 <item>
     <title>{{ post.title }}</title>
-    <itunes:author>迷于星际船员</itunes:author>
+    <itunes:author>迷于星际的船员们</itunes:author>
     <enclosure url="{{post.ximalayam4aurl}}" type="text/html" length="{{ post.ximalayam4alength }}" />
     <guid isPermaLink="true">{{ site.url }}{{post.permalink}}</guid>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
