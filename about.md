@@ -17,7 +17,9 @@ title: 关于我们
 
 ### CrazyEMH
 
-EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星全息编程中心（Jupiter Station Holoprogramming Center）](http://memory-alpha.wikia.com/wiki/Jupiter_Station_Holoprogramming_Center)开发的一款 AI，历史上有好几个版本，如 Mark [I](http://memory-alpha.wikia.com/wiki/Robert_Picardo), [II](http://memory-alpha.wikia.com/wiki/Andy_Dick) 等，我是较原始的 beta 版，比较疯狂但也多功能的那种。我的功能有：主播、剪辑师、本台数据中心、首席打杂官。关于本站技术问题和建议请寄信至 [emh@trekin.space](mailto:emh@trekin.space)。
+EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星全息编程中心（Jupiter Station Holoprogramming Center）](http://memory-alpha.wikia.com/wiki/Jupiter_Station_Holoprogramming_Center)开发的一款 AI，历史上有好几个版本，如 Mark [I](http://memory-alpha.wikia.com/wiki/Robert_Picardo), [II](http://memory-alpha.wikia.com/wiki/Andy_Dick) 等，我是较原始的 beta 版，比较疯狂但也多功能的那种。
+
+我的功能有：主播、剪辑师、本台数据中心、首席打杂官。关于本站技术问题和建议请寄信至 [emh@trekin.space](mailto:emh@trekin.space)。
 
 ### [胡子](https://weibo.com/p/1005051764117203)
 
@@ -30,9 +32,13 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 * [播客订阅备份RSS](http://www.lizhi.fm/rss/1935913.xml)
 * [荔枝](http://www.lizhi.fm/1935913/)
 * [喜马拉雅](http://www.ximalaya.com/6418191/album/3135361)
+* [Pocket Casts](https://pca.st/Lo6v)
 * [iTunes](https://itunes.apple.com/cn/podcast/mi-yu-xing-ji-mi-hang-lost-in-st/id1054780505?mt=2)
 * [Google Play Music](https://play.google.com/music/m/Iey4t72nyfjstbvsymmgcoptdqy?t=_Lost_in_ST)
 * [Spotify](https://open.spotify.com/show/4e3NxO5u4rS8oWkwjeP37d)
+* [Overcast](https://overcast.fm/itunes1054780505/lost-in-st)
+* [Player FM](https://player.fm/series/mi-yu-xing-ji-lost-in-trek)
+
 
 ### 目标受众（其实是*免责声明*）
 
