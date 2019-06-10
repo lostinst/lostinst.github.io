@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+    <channel>
+        <atom:link href="http://localhost:4000/ReadyRoomFeed.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright><![CDATA[Copyright &copy; TReK'd Production Team]]></copyright>
+        <language>en-US</language>
+        <link>http://localhost:4000/tags/#Ready Room-ref</link>
+        <title>TReK'd Ready Room Podcast</title>
+        <itunes:keywords>TReK'd, TREKD, trekd, Star Trek, ready room</itunes:keywords>
+        <itunes:author>TReK'd Production Team</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <description>Ready Room for TReK'd</description>
+        <itunes:image href="http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_3198153140110973258.jpg"/>
+                <itunes:category text="TV &amp; Film" />
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News" />
+                </itunes:category>
+        <itunes:explicit>yes</itunes:explicit>
+
+        
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+<item>
+    <title>RR1 Get Off the Couch and Do Something Creative</title>
+    <itunes:author>TReK'd Production Team</itunes:author>
+    <enclosure url="http://cdn.lizhi.fm/audio/2018/07/28/2683399752768376838_ud.mp3" type="audio/mpeg" length="87132036" />
+    <guid isPermaLink="true">http://localhost:4000/RR1/</guid>
+    <pubDate>Sat, 28 Jul 2018 21:06:00 +0800</pubDate>
+    <itunes:duration>2176</itunes:duration>
+    <link>http://localhost:4000/RR1/</link>
+    <description>
+	<![CDATA[<p>Starting a new podcast category now where we post after shows during <a href="http://trekin.space/call_for_videos_en/">TReK'd</a> production, as it's now back to warp speed after some resource problem and the C&amp;D from CBS/Paramount.</p>
+
+<p>This is the first <em>Ready Room</em> episode, recorded just after we done a script read through. Raise your blue little antennas and subscribe for more <em>Ready Room</em> episodes, and, the release of our audio drama!</p>
+
+<p>BTW we welcome any help you can offer, if you want to join the production just contact the feedback email below.</p>
+
+<p>Recorded on 20180623, hosts: Martin|Da Han|CrazyEMH</p>
+
+<p>————</p>
+
+<p>04:51 星联英语补习班重新开课啦~</p>
+
+<ul>
+  <li>Exasperate
+    <ul>
+      <li>to make someone very annoyed by continuing to do something that upsets them</li>
+    </ul>
+  </li>
+  <li>Exacerbate
+    <ul>
+      <li>to make a bad situation worse</li>
+    </ul>
+  </li>
+</ul>
+
+<p>●Feedback●</p>
+
+<p>Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, all frequencies open.</p>
+
+<p>Website: <a href="http://trekin.space">http://trekin.space</a>, which contains more stuff we done, most of them are in Chinese.</p>
+
+<p>QQ group chat: 591546843</p>
+
+<p>Sina Weibo： <a href="http://weibo.com/lostinst">@迷于星际播客</a></p>
+]]>
+</description>
+</item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+
+    </channel>
+</rss>
+

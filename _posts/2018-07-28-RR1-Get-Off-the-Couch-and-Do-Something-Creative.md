@@ -5,6 +5,7 @@ title: "RR1 Get Off the Couch and Do Something Creative"
 date: 2018-07-28 21:06:00 +0800
 description: "播客"
 tag: Ready Room
+branch: readyroom
 duration: 2176
 ximalayam4aurl: http://jt.ximalaya.com/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a?channel=rss&amp;album_id=3135361&amp;track_id=102189418&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group47/M02/D8/19/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a
 ximalayam4alength: 52258623

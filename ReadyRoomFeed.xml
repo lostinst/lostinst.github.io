@@ -1,0 +1,45 @@
+---
+layout: null
+---
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     version="2.0">
+    <channel>
+        <atom:link href="{{ site.url }}/ReadyRoomFeed.xml" type="application/rss+xml" rel="self"></atom:link>
+        <copyright><![CDATA[Copyright &copy; TReK'd Production Team]]></copyright>
+        <language>en-US</language>
+        <link>{{ site.url }}/tags/#Ready Room-ref</link>
+        <title>TReK'd Ready Room Podcast</title>
+        <itunes:keywords>TReK'd, TREKD, trekd, Star Trek, ready room</itunes:keywords>
+        <itunes:author>TReK'd Production Team</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <description>Ready Room for TReK'd</description>
+        <itunes:image href="http://cdn.lizhi.fm/podcast_cover/podcast_imgthum_3198153140110973258.jpg"/>
+                <itunes:category text="TV &amp; Film" />
+                <itunes:category text="Technology">
+                    <itunes:category text="Tech News" />
+                </itunes:category>
+        <itunes:explicit>yes</itunes:explicit>
+
+        {% for post in site.posts %}
+	{% if post.branch == 'readyroom' %}
+<item>
+    <title>{{ post.title }}</title>
+    <itunes:author>TReK'd Production Team</itunes:author>
+    <enclosure url="{{post.lizhimp3url}}" type="audio/mpeg" length="{{ post.lizhimp3length }}" />
+    <guid isPermaLink="true">{{ site.url }}{{post.permalink}}</guid>
+    <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+    <itunes:duration>{{ post.duration }}</itunes:duration>
+    <link>{{ site.url }}{{post.permalink}}</link>
+    <description>
+	<![CDATA[{{ post.content }}]]>
+</description>
+</item>
+	{% endif %}
+	{% endfor %}
+
+    </channel>
+</rss>
+
