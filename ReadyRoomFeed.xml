@@ -24,7 +24,7 @@ layout: null
         <itunes:explicit>yes</itunes:explicit>
 
         {% for post in site.posts %}
-	{% if post.branch == 'readyroom' %}
+	{% if post.permalink == "RR*" %}
 <item>
     <title>{{ post.title }}</title>
     <itunes:author>TReK'd Production Team</itunes:author>
