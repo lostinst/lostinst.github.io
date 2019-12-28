@@ -32,17 +32,16 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 ## 收听方式
 
 * 本站可在线收听
-* [播客订阅首选RSS](http://trekin.space/feed.xml)
-* [播客订阅备份RSS](http://www.lizhi.fm/rss/1935913.xml)
+* [iTunes Podcast](https://itunes.apple.com/cn/podcast/mi-yu-xing-ji-mi-hang-lost-in-st/id1054780505?mt=2)
+* [Google Play Music](https://play.google.com/music/m/Iey4t72nyfjstbvsymmgcoptdqy?t=_Lost_in_ST)
+* [Pocket Casts](https://pca.st/Lo6v)
 * [荔枝](http://www.lizhi.fm/1935913/)
 * [喜马拉雅](http://www.ximalaya.com/6418191/album/3135361)
-* [Pocket Casts](https://pca.st/Lo6v)
-* [iTunes](https://itunes.apple.com/cn/podcast/mi-yu-xing-ji-mi-hang-lost-in-st/id1054780505?mt=2)
-* [Google Play Music](https://play.google.com/music/m/Iey4t72nyfjstbvsymmgcoptdqy?t=_Lost_in_ST)
 * [Spotify](https://open.spotify.com/show/4e3NxO5u4rS8oWkwjeP37d)
 * [Overcast](https://overcast.fm/itunes1054780505/lost-in-st)
 * [Player FM](https://player.fm/series/mi-yu-xing-ji-lost-in-trek)
-
+* [播客订阅首选RSS](http://trekin.space/feed.xml)
+* [播客订阅备份RSS](http://www.lizhi.fm/rss/1935913.xml)
 
 ### 目标受众（其实是*免责声明*）
 
