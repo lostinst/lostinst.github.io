@@ -28,6 +28,7 @@ layout: null
 <item>
     <title>{{ post.title }}</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href="{{post.coverimage}}"></itunes:image>
     <enclosure url="{{post.lizhimp3url}}" type="audio/mpeg" length="{{ post.lizhimp3length }}" />
     <guid isPermaLink="true">{{ site.url }}{{post.permalink}}</guid>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>

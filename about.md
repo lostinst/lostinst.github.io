@@ -25,6 +25,10 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 
 出生于24世纪的安多利星的安多利人，因时间事故被困在21世纪初，每天都在努力和星联取得联系，至今没有成功，只能用谈论星联历史来一解思乡之苦。
 
+### 大腐
+
+星际迷航中毒重症患者。喜欢关于STAR TREK的一切， 爱所有星际迷航的演员，想嫁给他们所有人，特别是William Shatner、Leonard Nimoy、Andrew Robinson、Connor Trinneer等等等等宇宙种马们。
+
 ## 收听方式
 
 * 本站可在线收听

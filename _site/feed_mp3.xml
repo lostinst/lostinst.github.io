@@ -23,8 +23,44 @@
         
 	
 <item>
+    <title>69 咕咕咕咕……</title>
+    <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href="http://fdfs.xmcdn.com/group70/M03/67/1E/wKgO2F4Gyn2hY2JRAAJNyOuCXwU052.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2019/12/28/5085278605855824518_ud.mp3" type="audio/mpeg" length="104710278" />
+    <guid isPermaLink="true">http://localhost:4000/69/</guid>
+    <pubDate>Sat, 28 Dec 2019 11:23:00 +0800</pubDate>
+    <itunes:duration>2616</itunes:duration>
+    <link>http://localhost:4000/69/</link>
+    <description>
+	<![CDATA[<p>看到标题，想必你已经知道我们要聊什么了，星际迷航宇宙最萌的毛球。</p>
+
+<p>本期节目录制于20191201，主播：<a href="mailto:emh@trekin.space">CrazyEMH</a>|<a href="https://weibo.com/u/5113590549">大腐</a>|<a href="https://weibo.com/p/1005051764117203">胡子</a>|<a href="https://weibo.com/lunaliang1029">玖凉豆浆机</a>|苏</p>
+
+<p>————</p>
+
+<p>00:05:36 <a href="https://i.imgur.com/KfSgt.jpg">毛球解剖图</a></p>
+
+<p>00:38:00 "Disaster" TNG 5x05</p>
+
+<h2 id="本台反馈">●本台反馈●</h2>
+
+<p>Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, all frequencies open.</p>
+
+<p>官网：<a href="http://trekin.space">http://trekin.space</a>，官网包含完整且富文本格式的 shownotes</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：<a href="http://weibo.com/lostinst">@迷于星际播客</a></p>
+]]>
+</description>
+</item>
+	
+	
+	
+<item>
     <title>68 模范人类</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href="http://fdfs.xmcdn.com/group69/M07/21/D3/wKgMb13YFmWATVNSAAj9r1-Ucng407.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/11/23/5078706520588783110_ud.mp3" type="audio/mpeg" length="192170323" />
     <guid isPermaLink="true">http://localhost:4000/68/</guid>
     <pubDate>Sat, 23 Nov 2019 01:10:00 +0800</pubDate>
@@ -59,6 +95,7 @@
 <item>
     <title>67 好无聊的短途</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/10/15/5071640255034351238_ud.mp3" type="audio/mpeg" length="80761217" />
     <guid isPermaLink="true">http://localhost:4000/67/</guid>
     <pubDate>Tue, 15 Oct 2019 23:18:00 +0800</pubDate>
@@ -100,6 +137,7 @@
 <item>
     <title>66 爬墙也会曲速回坑</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/09/21/5067018525153471494_ud.mp3" type="audio/mpeg" length="404095491" />
     <guid isPermaLink="true">http://localhost:4000/66/</guid>
     <pubDate>Sat, 21 Sep 2019 01:28:00 +0800</pubDate>
@@ -140,6 +178,7 @@
 <item>
     <title>65 百花齐放、IDIC的迷航宇宙</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/07/31/5057535022614626310_ud.mp3" type="audio/mpeg" length="263184743" />
     <guid isPermaLink="true">http://localhost:4000/65/</guid>
     <pubDate>Wed, 31 Jul 2019 22:45:00 +0800</pubDate>
@@ -180,6 +219,7 @@
 <item>
     <title>64 宇宙各族人民大团结</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/07/28/5056981959816756870_ud.mp3" type="audio/mpeg" length="373454904" />
     <guid isPermaLink="true">http://localhost:4000/64/</guid>
     <pubDate>Sun, 28 Jul 2019 23:37:00 +0800</pubDate>
@@ -224,6 +264,7 @@
 <item>
     <title>63 皮卡剧的预告片就能吹两小时</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/06/13/5048456376581571078_ud.mp3" type="audio/mpeg" length="305650439" />
     <guid isPermaLink="true">http://localhost:4000/63/</guid>
     <pubDate>Thu, 13 Jun 2019 00:26:00 +0800</pubDate>
@@ -288,6 +329,7 @@
 <item>
     <title>SP10 佛经版《女儿情》</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://trekin.space/audio/LostInTrek_SP10.mp3" type="audio/mpeg" length="2023705" />
     <guid isPermaLink="true">http://localhost:4000/SP10/</guid>
     <pubDate>Mon, 10 Jun 2019 23:09:00 +0800</pubDate>
@@ -324,6 +366,7 @@
 <item>
     <title>CM15 发现号S1E15评论音轨-逻辑肠&amp;胡子&amp;舟中小卒&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/04/5041158172869996166_ud.mp3" type="audio/mpeg" length="108072806" />
     <guid isPermaLink="true">http://localhost:4000/CM15/</guid>
     <pubDate>Sat, 04 May 2019 16:25:00 +0800</pubDate>
@@ -354,6 +397,7 @@
 <item>
     <title>CM14 发现号S1E14评论音轨-逻辑肠&amp;大腐&amp;胡子</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/04/5041147826293415558_ud.mp3" type="audio/mpeg" length="116189563" />
     <guid isPermaLink="true">http://localhost:4000/CM14/</guid>
     <pubDate>Sat, 04 May 2019 15:05:00 +0800</pubDate>
@@ -384,6 +428,7 @@
 <item>
     <title>CM13 发现号S1E13评论音轨-CrazyEMH&amp;逻辑肠&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5041030337323805190_ud.mp3" type="audio/mpeg" length="104254750" />
     <guid isPermaLink="true">http://localhost:4000/CM13/</guid>
     <pubDate>Fri, 03 May 2019 23:48:00 +0800</pubDate>
@@ -414,6 +459,7 @@
 <item>
     <title>CM12 发现号S1E12评论音轨-CrazyEMH&amp;逻辑肠&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5041023259215317510_ud.mp3" type="audio/mpeg" length="89534228" />
     <guid isPermaLink="true">http://localhost:4000/CM12/</guid>
     <pubDate>Fri, 03 May 2019 22:55:00 +0800</pubDate>
@@ -444,6 +490,7 @@
 <item>
     <title>CM11 发现号S1E11评论音轨-CrazyEMH&amp;Lai&amp;逻辑肠&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5041018605620061190_ud.mp3" type="audio/mpeg" length="116665012" />
     <guid isPermaLink="true">http://localhost:4000/CM11/</guid>
     <pubDate>Fri, 03 May 2019 22:19:00 +0800</pubDate>
@@ -475,6 +522,7 @@
 <item>
     <title>DR25 再提发现号就是叛国</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5040964055380699270_ud.mp3" type="audio/mpeg" length="364131284" />
     <guid isPermaLink="true">http://localhost:4000/DR25/</guid>
     <pubDate>Fri, 03 May 2019 15:14:00 +0800</pubDate>
@@ -537,6 +585,7 @@
 <item>
     <title>DR24 Q，管管这个宇宙吧</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/02/5040821692107648006_ud.mp3" type="audio/mpeg" length="183855039" />
     <guid isPermaLink="true">http://localhost:4000/DR24/</guid>
     <pubDate>Thu, 02 May 2019 20:50:00 +0800</pubDate>
@@ -571,6 +620,7 @@
 <item>
     <title>DR23 哎，心累</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/04/26/5039549941552257030_ud.mp3" type="audio/mpeg" length="145982702" />
     <guid isPermaLink="true">http://localhost:4000/DR23/</guid>
     <pubDate>Fri, 26 Apr 2019 00:32:00 +0800</pubDate>
@@ -603,6 +653,7 @@
 <item>
     <title>DR22 高分作文赏析亮点，低分作文改改标点</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/04/07/5036184184129363078_ud.mp3" type="audio/mpeg" length="350897667" />
     <guid isPermaLink="true">http://localhost:4000/DR22/</guid>
     <pubDate>Sun, 07 Apr 2019 21:02:00 +0800</pubDate>
@@ -636,6 +687,7 @@
 <item>
     <title>DR21 家暴受害者心理疗伤互助小组</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/04/04/5035644237879231494_ud.mp3" type="audio/mpeg" length="365502198" />
     <guid isPermaLink="true">http://localhost:4000/DR21/</guid>
     <pubDate>Thu, 04 Apr 2019 23:12:00 +0800</pubDate>
@@ -675,6 +727,7 @@
 <item>
     <title>DR20 是时候接受星际迷航已辉煌不再</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/03/31/5034732197420970630_ud.mp3" type="audio/mpeg" length="177490576" />
     <guid isPermaLink="true">http://localhost:4000/DR20/</guid>
     <pubDate>Sun, 31 Mar 2019 10:07:00 +0800</pubDate>
@@ -707,6 +760,7 @@
 <item>
     <title>DR19 忘不了星际迷航的昔日辉煌</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/03/11/5031195680408454662_ud.mp3" type="audio/mpeg" length="493790589" />
     <guid isPermaLink="true">http://localhost:4000/DR19/</guid>
     <pubDate>Mon, 11 Mar 2019 23:42:00 +0800</pubDate>
@@ -763,6 +817,7 @@
 <item>
     <title>DR18 除主角外发现号还是挺好看的</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/24/5028357372743216646_ud.mp3" type="audio/mpeg" length="205482345" />
     <guid isPermaLink="true">http://localhost:4000/DR18/</guid>
     <pubDate>Sun, 24 Feb 2019 18:38:00 +0800</pubDate>
@@ -800,6 +855,7 @@
 <item>
     <title>DR17 为推新而毁原设</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/24/5028232717760046086_ud.mp3" type="audio/mpeg" length="180614806" />
     <guid isPermaLink="true">http://localhost:4000/DR17/</guid>
     <pubDate>Sun, 24 Feb 2019 00:37:00 +0800</pubDate>
@@ -844,6 +900,7 @@
 <item>
     <title>DR16 发现号闪光点无闪光，奥维尔器真大活还好</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/04/5024600560694716038_ud.mp3" type="audio/mpeg" length="278797622" />
     <guid isPermaLink="true">http://localhost:4000/DR16/</guid>
     <pubDate>Mon, 04 Feb 2019 10:31:00 +0800</pubDate>
@@ -912,6 +969,7 @@
 <item>
     <title>DR15 跟星际迷航床头吵架床尾和</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/02/5024226340053485574_ud.mp3" type="audio/mpeg" length="330191959" />
     <guid isPermaLink="true">http://localhost:4000/DR15/</guid>
     <pubDate>Sat, 02 Feb 2019 10:26:00 +0800</pubDate>
@@ -958,6 +1016,7 @@
 <item>
     <title>DR14 跟星际迷航的婚姻出现了裂痕</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/21/5021927415999022726_ud.mp3" type="audio/mpeg" length="289960255" />
     <guid isPermaLink="true">http://localhost:4000/DR14/</guid>
     <pubDate>Mon, 21 Jan 2019 01:01:00 +0800</pubDate>
@@ -1008,6 +1067,7 @@
 <item>
     <title>62 Mudd, Mudd, Mudd, …</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/19/5021658435081752710_ud.mp3" type="audio/mpeg" length="220648002" />
     <guid isPermaLink="true">http://localhost:4000/62/</guid>
     <pubDate>Sat, 19 Jan 2019 14:11:00 +0800</pubDate>
@@ -1074,6 +1134,7 @@
 <item>
     <title>61 心忧天下</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/14/5020800751448689158_ud.mp3" type="audio/mpeg" length="89001278" />
     <guid isPermaLink="true">http://localhost:4000/61/</guid>
     <pubDate>Mon, 14 Jan 2019 23:09:00 +0800</pubDate>
@@ -1112,6 +1173,7 @@
 <item>
     <title>60 Martin: &quot;Star Trek Reviewed&quot; Introduction</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/01/5018355184185607174_ud.mp3" type="audio/mpeg" length="144177189" />
     <guid isPermaLink="true">http://localhost:4000/60/</guid>
     <pubDate>Tue, 01 Jan 2019 19:15:00 +0800</pubDate>
@@ -1144,6 +1206,7 @@
 <item>
     <title>59 生存还是毁灭</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/01/5018218580742342278_ud.mp3" type="audio/mpeg" length="223031388" />
     <guid isPermaLink="true">http://localhost:4000/59/</guid>
     <pubDate>Tue, 01 Jan 2019 01:13:00 +0800</pubDate>
@@ -1195,6 +1258,7 @@
 <item>
     <title>DR13 明明爱着对方为什么要分手</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/31/5018029185570332806_ud.mp3" type="audio/mpeg" length="143255535" />
     <guid isPermaLink="true">http://localhost:4000/DR13/</guid>
     <pubDate>Mon, 31 Dec 2018 00:36:00 +0800</pubDate>
@@ -1227,6 +1291,7 @@
 <item>
     <title>DR12 搞搞时间线</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/30/5017976136281628806_ud.mp3" type="audio/mpeg" length="173865807" />
     <guid isPermaLink="true">http://localhost:4000/DR12/</guid>
     <pubDate>Sun, 30 Dec 2018 17:48:00 +0800</pubDate>
@@ -1263,6 +1328,7 @@
 <item>
     <title>DR11 赏你一根上等的神经节</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/30/5017840604153490950_ud.mp3" type="audio/mpeg" length="101136737" />
     <guid isPermaLink="true">http://localhost:4000/DR11/</guid>
     <pubDate>Sun, 30 Dec 2018 00:36:00 +0800</pubDate>
@@ -1293,6 +1359,7 @@
 <item>
     <title>DR10 可惜镜像叛军没有原力</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/29/5017818010478118406_ud.mp3" type="audio/mpeg" length="179925180" />
     <guid isPermaLink="true">http://localhost:4000/DR10/</guid>
     <pubDate>Sat, 29 Dec 2018 22:17:00 +0800</pubDate>
@@ -1327,6 +1394,7 @@
 <item>
     <title>CM10 发现号S1E10评论音轨-CrazyEMH&amp;Lai&amp;逻辑肠&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/22/5016467683497383430_ud.mp3" type="audio/mpeg" length="119353534" />
     <guid isPermaLink="true">http://localhost:4000/CM10/</guid>
     <pubDate>Sat, 22 Dec 2018 14:44:00 +0800</pubDate>
@@ -1357,6 +1425,7 @@
 <item>
     <title>CM9 发现号S1E09评论音轨-CrazyEMH&amp;Lai&amp;逻辑肠&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/22/5016450896757827206_ud.mp3" type="audio/mpeg" length="111623329" />
     <guid isPermaLink="true">http://localhost:4000/CM9/</guid>
     <pubDate>Sat, 22 Dec 2018 12:49:00 +0800</pubDate>
@@ -1388,6 +1457,7 @@
 <item>
     <title>CM8 发现号S1E08评论音轨-CrazyEMH&amp;Lai&amp;逻辑肠</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/21/5016352973509633542_ud.mp3" type="audio/mpeg" length="98172399" />
     <guid isPermaLink="true">http://localhost:4000/CM8/</guid>
     <pubDate>Sat, 22 Dec 2018 10:24:00 +0800</pubDate>
@@ -1419,6 +1489,7 @@
 <item>
     <title>58 你已经是个成熟的船了</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/17/5015595942715373702_ud.mp3" type="audio/mpeg" length="140482368" />
     <guid isPermaLink="true">http://localhost:4000/58/</guid>
     <pubDate>Mon, 17 Dec 2018 21:52:00 +0800</pubDate>
@@ -1461,6 +1532,7 @@
 <item>
     <title>57 玖凉豆浆机&amp;舟中小卒：更用力的参加展会</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/16/5015395178763234950_ud.mp3" type="audio/mpeg" length="380352296" />
     <guid isPermaLink="true">http://localhost:4000/57/</guid>
     <pubDate>Sun, 16 Dec 2018 20:17:00 +0800</pubDate>
@@ -1550,6 +1622,7 @@
 <item>
     <title>56 编剧拍脑袋</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/11/26/5011709611351389702_ud.mp3" type="audio/mpeg" length="70794978" />
     <guid isPermaLink="true">http://localhost:4000/56/</guid>
     <pubDate>Mon, 26 Nov 2018 23:13:00 +0800</pubDate>
@@ -1584,6 +1657,7 @@
 <item>
     <title>55 复兴弗瑞吉</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/10/22/2699363854151766534_ud.mp3" type="audio/mpeg" length="153369084" />
     <guid isPermaLink="true">http://localhost:4000/55/</guid>
     <pubDate>Mon, 22 Oct 2018 20:06:00 +0800</pubDate>
@@ -1667,6 +1741,7 @@
 <item>
     <title>SP9 我在昆明蹦野迪（彝族左脚舞）</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/10/06/2696397062541999622_ud.mp3" type="audio/mpeg" length="1497355" />
     <guid isPermaLink="true">http://localhost:4000/SP9/</guid>
     <pubDate>Sat, 06 Oct 2018 22:21:00 +0800</pubDate>
@@ -1695,6 +1770,7 @@
 <item>
     <title>54 通往地狱的路是由正确的意图铺就的</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/09/09/2691348300565280774_ud.mp3" type="audio/mpeg" length="164419947" />
     <guid isPermaLink="true">http://localhost:4000/54/</guid>
     <pubDate>Sun, 09 Sep 2018 17:16:00 +0800</pubDate>
@@ -1751,6 +1827,7 @@
 <item>
     <title>53 霸道总裁毫不讲理，颜值高则为所欲为</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/09/07/2690994839788674054_ud.mp3" type="audio/mpeg" length="113698512" />
     <guid isPermaLink="true">http://localhost:4000/53/</guid>
     <pubDate>Fri, 07 Sep 2018 19:32:00 +0800</pubDate>
@@ -1800,6 +1877,7 @@
 <item>
     <title>52 没蹭上的热点与旧闻</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/09/02/2690013289438725638_ud.mp3" type="audio/mpeg" length="143589892" />
     <guid isPermaLink="true">http://localhost:4000/52/</guid>
     <pubDate>Sun, 02 Sep 2018 12:36:00 +0800</pubDate>
@@ -1838,6 +1916,7 @@
 <item>
     <title>51 舟中小卒：科幻中的真实发人深思</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/08/26/2688800927546983942_ud.mp3" type="audio/mpeg" length="270280647" />
     <guid isPermaLink="true">http://localhost:4000/51/</guid>
     <pubDate>Sun, 26 Aug 2018 23:45:00 +0800</pubDate>
@@ -1892,6 +1971,7 @@
 <item>
     <title>SP8 皮皮复出</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/08/05/2684848973518137350_ud.mp3" type="audio/mpeg" length="29365818" />
     <guid isPermaLink="true">http://localhost:4000/SP8/</guid>
     <pubDate>Sun, 05 Aug 2018 16:31:00 +0800</pubDate>
@@ -1941,6 +2021,7 @@
 <item>
     <title>RR1 Get Off the Couch and Do Something Creative</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/07/28/2683399752768376838_ud.mp3" type="audio/mpeg" length="87132036" />
     <guid isPermaLink="true">http://localhost:4000/RR1/</guid>
     <pubDate>Sat, 28 Jul 2018 21:06:00 +0800</pubDate>
@@ -1990,6 +2071,7 @@
 <item>
     <title>SP7 那年夏天</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/07/07/2679470708095251462_ud.mp3" type="audio/mpeg" length="226785705" />
     <guid isPermaLink="true">http://localhost:4000/SP7/</guid>
     <pubDate>Sat, 07 Jul 2018 16:53:00 +0800</pubDate>
@@ -2020,6 +2102,7 @@
 <item>
     <title>50 谢谢所有的鱼</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/27/2671834234666071558_ud.mp3" type="audio/mpeg" length="189818262" />
     <guid isPermaLink="true">http://localhost:4000/50/</guid>
     <pubDate>Sun, 27 May 2018 12:59:00 +0800</pubDate>
@@ -2088,6 +2171,7 @@
 <item>
     <title>49 The Computer Knows Everything, as Doctors Can Do Everything</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/02/2667096849230915078_ud.mp3" type="audio/mpeg" length="105672735" />
     <guid isPermaLink="true">http://localhost:4000/49/</guid>
     <pubDate>Wed, 02 May 2018 00:21:30 +0800</pubDate>
@@ -2118,6 +2202,7 @@
 <item>
     <title>48 流离的奇怪星球</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/02/2667096617302664710_ud.mp3" type="audio/mpeg" length="95478607" />
     <guid isPermaLink="true">http://localhost:4000/48/</guid>
     <pubDate>Wed, 02 May 2018 00:21:00 +0800</pubDate>
@@ -2168,6 +2253,7 @@
 <item>
     <title>47 The Needs of You Outweigh the Needs of the Few</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/02/2667096456241383430_ud.mp3" type="audio/mpeg" length="137803311" />
     <guid isPermaLink="true">http://localhost:4000/47/</guid>
     <pubDate>Wed, 02 May 2018 00:18:00 +0800</pubDate>
@@ -2220,6 +2306,7 @@
 <item>
     <title>DR9 克林贡与韩国的共同点</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/01/2667026093939036678_ud.mp3" type="audio/mpeg" length="178871921" />
     <guid isPermaLink="true">http://localhost:4000/DR9/</guid>
     <pubDate>Tue, 01 May 2018 15:17:00 +0800</pubDate>
@@ -2260,6 +2347,7 @@
 <item>
     <title>DR8 半季批判大会</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/30/2666870880262553606_ud.mp3" type="audio/mpeg" length="143106100" />
     <guid isPermaLink="true">http://localhost:4000/DR8/</guid>
     <pubDate>Mon, 30 Apr 2018 19:06:00 +0800</pubDate>
@@ -2292,6 +2380,7 @@
 <item>
     <title>DR7 外星人的心思你别猜</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/30/2666826311393228806_ud.mp3" type="audio/mpeg" length="227860915" />
     <guid isPermaLink="true">http://localhost:4000/DR7/</guid>
     <pubDate>Mon, 30 Apr 2018 13:17:00 +0800</pubDate>
@@ -2386,6 +2475,7 @@
 <item>
     <title>SP6 Trek Dinner Role Playing Game Plot Discuss</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/29/2666655212776585222_ud.mp3" type="audio/mpeg" length="94526776" />
     <guid isPermaLink="true">http://localhost:4000/SP6/</guid>
     <pubDate>Sun, 29 Apr 2018 15:10:00 +0800</pubDate>
@@ -2444,6 +2534,7 @@
 <item>
     <title>CM7 发现号S1E07评论音轨-CrazyEMH&amp;大腐&amp;逻辑肠&amp;胡子</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/29/2666648808986309638_ud.mp3" type="audio/mpeg" length="115167669" />
     <guid isPermaLink="true">http://localhost:4000/CM7/</guid>
     <pubDate>Sun, 29 Apr 2018 14:18:00 +0800</pubDate>
@@ -2474,6 +2565,7 @@
 <item>
     <title>CM6 发现号S1E06评论音轨-CrazyEMH&amp;大腐&amp;逻辑肠&amp;胡子</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/03/26/2660408421221355526_ud.mp3" type="audio/mpeg" length="107264061" />
     <guid isPermaLink="true">http://localhost:4000/CM6/</guid>
     <pubDate>Mon, 26 Mar 2018 23:09:00 +0800</pubDate>
@@ -2506,6 +2598,7 @@
 <item>
     <title>CM5 发现号S1E05评论音轨-CrazyEMH&amp;大腐&amp;逻辑肠&amp;胡子</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/03/25/2660182293339085830_ud.mp3" type="audio/mpeg" length="113871995" />
     <guid isPermaLink="true">http://localhost:4000/CM5/</guid>
     <pubDate>Sun, 25 Mar 2018 17:51:00 +0800</pubDate>
@@ -2534,6 +2627,7 @@
 <item>
     <title>CM4 发现号S1E04评论音轨-Lai&amp;胡子</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/22/2654449972281814534_ud.mp3" type="audio/mpeg" length="97031383" />
     <guid isPermaLink="true">http://localhost:4000/CM4/</guid>
     <pubDate>Thu, 22 Feb 2018 20:25:00 +0800</pubDate>
@@ -2562,6 +2656,7 @@
 <item>
     <title>CM3 发现号S1E03评论音轨-Lai&amp;胡子</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/22/2654449819810458630_ud.mp3" type="audio/mpeg" length="97031383" />
     <guid isPermaLink="true">http://localhost:4000/CM3/</guid>
     <pubDate>Thu, 22 Feb 2018 20:22:00 +0800</pubDate>
@@ -2590,6 +2685,7 @@
 <item>
     <title>CM2 发现号S1E02评论音轨-Lai&amp;逻辑肠&amp;胡子&amp;CrazyEMH&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/22/2654449252874708998_ud.mp3" type="audio/mpeg" length="97031383" />
     <guid isPermaLink="true">http://localhost:4000/CM2/</guid>
     <pubDate>Thu, 22 Feb 2018 20:19:00 +0800</pubDate>
@@ -2618,6 +2714,7 @@
 <item>
     <title>CM1 发现号S1E01评论音轨-Lai&amp;逻辑肠&amp;胡子&amp;CrazyEMH&amp;大腐</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/21/2654209570077486598_ud.mp3" type="audio/mpeg" length="105328918" />
     <guid isPermaLink="true">http://localhost:4000/CM1/</guid>
     <pubDate>Wed, 21 Feb 2018 13:18:00 +0800</pubDate>
@@ -2648,6 +2745,7 @@
 <item>
     <title>DR6 保护濒危动物人人有责</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/01/22/2648541804533031942_ud.mp3" type="audio/mpeg" length="151538435" />
     <guid isPermaLink="true">http://localhost:4000/DR6/</guid>
     <pubDate>Mon, 22 Jan 2018 00:15:00 +0800</pubDate>
@@ -2753,6 +2851,7 @@
 <item>
     <title>DR5 瓦肯爸爸脑子里的洞</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/12/30/2644285367387771910_ud.mp3" type="audio/mpeg" length="170616180" />
     <guid isPermaLink="true">http://localhost:4000/DR5/</guid>
     <pubDate>Sat, 30 Dec 2017 01:38:00 +0800</pubDate>
@@ -2795,6 +2894,7 @@
 <item>
     <title>DR4 捡到了获利准则的Mudd会回归吗</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/10/23/2631825980794110470_ud.mp3" type="audio/mpeg" length="111267035" />
     <guid isPermaLink="true">http://localhost:4000/DR4/</guid>
     <pubDate>Mon, 23 Oct 2017 21:59:00 +0800</pubDate>
@@ -2840,6 +2940,7 @@
 <item>
     <title>DR3 旋转跳跃的发现号，饥寒交迫的石棺舰</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/10/23/2631825615723934726_ud.mp3" type="audio/mpeg" length="166651853" />
     <guid isPermaLink="true">http://localhost:4000/DR3/</guid>
     <pubDate>Mon, 23 Oct 2017 21:54:00 +0800</pubDate>
@@ -2896,6 +2997,7 @@
 <item>
     <title>DR2 就想看简单的像ST的ST</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/10/21/2631406678169926662_hd.mp3" type="audio/mpeg" length="79522818" />
     <guid isPermaLink="true">http://localhost:4000/DR2/</guid>
     <pubDate>Sat, 21 Oct 2017 15:46:00 +0800</pubDate>
@@ -2938,6 +3040,7 @@
 <item>
     <title>DR1 克林贡不克林贡，瓦肯也不瓦肯</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/09/27/2626842983360929286_hd.mp3" type="audio/mpeg" length="38212572" />
     <guid isPermaLink="true">http://localhost:4000/DR1/</guid>
     <pubDate>Wed, 27 Sep 2017 01:18:00 +0800</pubDate>
@@ -2974,6 +3077,7 @@
 <item>
     <title>SP5 瓦肯蔬菜汤：星际迷航五十一周年记</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/09/10/2623862507991457798_hd.mp3" type="audio/mpeg" length="26803146" />
     <guid isPermaLink="true">http://localhost:4000/SP5/</guid>
     <pubDate>Sun, 10 Sep 2017 23:45:00 +0800</pubDate>
@@ -3006,6 +3110,7 @@
 <item>
     <title>46 前路再远莫忘记，一点初心为谁来</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/09/05/2622751346259896326_hd.mp3" type="audio/mpeg" length="49141389" />
     <guid isPermaLink="true">http://localhost:4000/46/</guid>
     <pubDate>Tue, 05 Sep 2017 00:19:00 +0800</pubDate>
@@ -3053,6 +3158,7 @@
 <item>
     <title>45 为星联之崛起而上班</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/08/15/2619037537430536198_hd.mp3" type="audio/mpeg" length="33822755" />
     <guid isPermaLink="true">http://localhost:4000/45/</guid>
     <pubDate>Tue, 15 Aug 2017 23:48:00 +0800</pubDate>
@@ -3094,6 +3200,7 @@
 <item>
     <title>44 武汉 STO 3.0 采访：美好的未来</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/20/2602854397017519110_hd.mp3" type="audio/mpeg" length="32099529" />
     <guid isPermaLink="true">http://localhost:4000/44/</guid>
     <pubDate>Sat, 20 May 2017 18:35:00 +0800</pubDate>
@@ -3144,6 +3251,7 @@
 <item>
     <title>43 瓦肯蔬菜汤：发现不可见的同好</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/20/2602736452921467398_hd.mp3" type="audio/mpeg" length="53506136" />
     <guid isPermaLink="true">http://localhost:4000/43/</guid>
     <pubDate>Sat, 20 May 2017 03:16:00 +0800</pubDate>
@@ -3178,6 +3286,7 @@
 <item>
     <title>42 带上毛巾去旅行</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/20/2602717724716461574_hd.mp3" type="audio/mpeg" length="40409369" />
     <guid isPermaLink="true">http://localhost:4000/42/</guid>
     <pubDate>Sat, 20 May 2017 00:53:00 +0800</pubDate>
@@ -3268,6 +3377,7 @@
 <item>
     <title>41 如何吹一个曲速泡</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/19/2602699608537372678_hd.mp3" type="audio/mpeg" length="37813009" />
     <guid isPermaLink="true">http://localhost:4000/41/</guid>
     <pubDate>Fri, 19 May 2017 22:36:00 +0800</pubDate>
@@ -3337,6 +3447,7 @@
 <item>
     <title>40 那片光，照亮一切</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/05/2600101563498607622_hd.mp3" type="audio/mpeg" length="17150779" />
     <guid isPermaLink="true">http://localhost:4000/40/</guid>
     <pubDate>Fri, 05 May 2017 22:16:00 +0800</pubDate>
@@ -3374,6 +3485,7 @@
 <item>
     <title>39 都是歌手</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/04/2599920000199032326_hd.mp3" type="audio/mpeg" length="46731832" />
     <guid isPermaLink="true">http://localhost:4000/39/</guid>
     <pubDate>Thu, 04 May 2017 23:04:00 +0800</pubDate>
@@ -3492,6 +3604,7 @@
 <item>
     <title>38 怪不得它奇葩的翻译</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/04/04/2594176160039026694_hd.mp3" type="audio/mpeg" length="129874790" />
     <guid isPermaLink="true">http://localhost:4000/38/</guid>
     <pubDate>Mon, 03 Apr 2017 23:54:00 +0800</pubDate>
@@ -3780,6 +3893,7 @@
 <item>
     <title>37 武汉 STO2.0 采访</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/04/03/2594169696113146374_hd.mp3" type="audio/mpeg" length="28519272" />
     <guid isPermaLink="true">http://localhost:4000/37/</guid>
     <pubDate>Mon, 03 Apr 2017 23:09:02 +0800</pubDate>
@@ -3837,6 +3951,7 @@
 <item>
     <title>36 HoloLens 与全息甲板之间差了多少个复制机</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mpeg" length="35329533" />
     <guid isPermaLink="true">http://localhost:4000/36/</guid>
     <pubDate>Fri, 03 Mar 2017 01:03:44 +0800</pubDate>
@@ -3891,6 +4006,7 @@
 <item>
     <title>35 神奇外星人在哪里</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/02/18/2585832799315435526_hd.mp3" type="audio/mpeg" length="60360235" />
     <guid isPermaLink="true">http://localhost:4000/35/</guid>
     <pubDate>Sat, 18 Feb 2017 01:14:28 +0800</pubDate>
@@ -3981,6 +4097,7 @@
 <item>
     <title>SP4 星际迷航英文教室第一期《来，上船！|星际迷航中舰船的种类》</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3" type="audio/mpeg" length="6135507" />
     <guid isPermaLink="true">http://localhost:4000/SP4/</guid>
     <pubDate>Fri, 03 Feb 2017 11:36:43 +0800</pubDate>
@@ -4076,6 +4193,7 @@
 <item>
     <title>SP3 设计师视角与军迷视角</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3" type="audio/mpeg" length="23468238" />
     <guid isPermaLink="true">http://localhost:4000/SP3/</guid>
     <pubDate>Fri, 27 Jan 2017 04:39:17 +0800</pubDate>
@@ -4104,6 +4222,7 @@
 <item>
     <title>34 Da Han (Part 3): I Am Laughing Just Thinking about It</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3" type="audio/mpeg" length="87320364" />
     <guid isPermaLink="true">http://localhost:4000/34/</guid>
     <pubDate>Tue, 24 Jan 2017 02:40:42 +0800</pubDate>
@@ -4192,6 +4311,7 @@
 <item>
     <title>33 Da Han (Part 2): You Have to Understand How to Control Doses</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3" type="audio/mpeg" length="83804921" />
     <guid isPermaLink="true">http://localhost:4000/33/</guid>
     <pubDate>Tue, 24 Jan 2017 01:51:52 +0800</pubDate>
@@ -4255,6 +4375,7 @@
 <item>
     <title>32 2016年的片尾滚动字幕</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3" type="audio/mpeg" length="67526153" />
     <guid isPermaLink="true">http://localhost:4000/32/</guid>
     <pubDate>Sun, 22 Jan 2017 11:00:55 +0800</pubDate>
@@ -4396,6 +4517,7 @@
 <item>
     <title>31 星舰学院报考指南</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3" type="audio/mpeg" length="73940565" />
     <guid isPermaLink="true">http://localhost:4000/31/</guid>
     <pubDate>Sun, 25 Dec 2016 17:49:00 +0800</pubDate>
@@ -4454,6 +4576,7 @@
 <item>
     <title>30 近期新闻与校园霸凌</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3" type="audio/mpeg" length="60830023" />
     <guid isPermaLink="true">http://localhost:4000/30/</guid>
     <pubDate>Sun, 25 Dec 2016 11:50:55 +0800</pubDate>
@@ -4515,6 +4638,7 @@
 <item>
     <title>29 论轨道动力学与星际迷航的关系</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3" type="audio/mpeg" length="38849560" />
     <guid isPermaLink="true">http://localhost:4000/29/</guid>
     <pubDate>Sat, 26 Nov 2016 02:30:51 +0800</pubDate>
@@ -4570,6 +4694,7 @@
 <item>
     <title>28 越来越远</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3" type="audio/mpeg" length="58244936" />
     <guid isPermaLink="true">http://localhost:4000/28/</guid>
     <pubDate>Sat, 19 Nov 2016 07:59:58 +0800</pubDate>
@@ -4641,6 +4766,7 @@
 <item>
     <title>27 玖凉豆浆机（下）：这就是我想说的宇宙感</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3" type="audio/mpeg" length="51328159" />
     <guid isPermaLink="true">http://localhost:4000/27/</guid>
     <pubDate>Sun, 13 Nov 2016 04:55:36 +0800</pubDate>
@@ -4677,6 +4803,7 @@
 <item>
     <title>26 一周岁，聊聊我们怎么上船的</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3" type="audio/mpeg" length="44113336" />
     <guid isPermaLink="true">http://localhost:4000/26/</guid>
     <pubDate>Sun, 13 Nov 2016 04:44:10 +0800</pubDate>
@@ -4739,6 +4866,7 @@
 <item>
     <title>25 玖凉豆浆机（上）：肉体饥饿，精神充实</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3" type="audio/mpeg" length="120297692" />
     <guid isPermaLink="true">http://localhost:4000/25/</guid>
     <pubDate>Sun, 13 Nov 2016 04:22:33 +0800</pubDate>
@@ -4871,6 +4999,7 @@
 <item>
     <title>24 **你就收了这个妖孽吧</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3" type="audio/mpeg" length="20437616" />
     <guid isPermaLink="true">http://localhost:4000/24/</guid>
     <pubDate>Sun, 16 Oct 2016 06:43:38 +0800</pubDate>
@@ -4907,6 +5036,7 @@
 <item>
     <title>23 Da Han (Part 1): I need more 'Star Trek drug' </title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3" type="audio/mpeg" length="11324501" />
     <guid isPermaLink="true">http://localhost:4000/23/</guid>
     <pubDate>Tue, 11 Oct 2016 05:39:35 +0800</pubDate>
@@ -4943,6 +5073,7 @@
 <item>
     <title>22 看星际迷航也是要听音乐的</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/03/2661883393665591814_ud.mp3" type="audio/mpeg" length="169395755" />
     <guid isPermaLink="true">http://localhost:4000/22/</guid>
     <pubDate>Tue, 11 Oct 2016 04:17:59 +0800</pubDate>
@@ -5012,6 +5143,7 @@
 <item>
     <title>21 For the Love of 'Leonard Nimoy' 纪录片</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3" type="audio/mpeg" length="37230428" />
     <guid isPermaLink="true">http://localhost:4000/21/</guid>
     <pubDate>Thu, 06 Oct 2016 02:40:42 +0800</pubDate>
@@ -5046,6 +5178,7 @@
 <item>
     <title>20 子空间回信</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3" type="audio/mpeg" length="32670015" />
     <guid isPermaLink="true">http://localhost:4000/20/</guid>
     <pubDate>Sat, 01 Oct 2016 09:15:20 +0800</pubDate>
@@ -5073,6 +5206,7 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
 <item>
     <title>19 除去致敬和情怀</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3" type="audio/mpeg" length="51005053" />
     <guid isPermaLink="true">http://localhost:4000/19/</guid>
     <pubDate>Sat, 01 Oct 2016 08:42:57 +0800</pubDate>
@@ -5105,6 +5239,7 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
 <item>
     <title>18 星际迷航3超越星辰：一起摇摆拯救世界</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3" type="audio/mpeg" length="51113326" />
     <guid isPermaLink="true">http://localhost:4000/18/</guid>
     <pubDate>Sat, 03 Sep 2016 01:02:38 +0800</pubDate>
@@ -5141,6 +5276,7 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
 <item>
     <title>17 听完这期你就知道上船的姿势</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3" type="audio/mpeg" length="85518044" />
     <guid isPermaLink="true">http://localhost:4000/17/</guid>
     <pubDate>Sun, 21 Aug 2016 02:36:53 +0800</pubDate>
@@ -5214,6 +5350,7 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
 <item>
     <title>16 喵航舰长：制作组真的是把原剧翻烂了</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3" type="audio/mpeg" length="79888560" />
     <guid isPermaLink="true">http://localhost:4000/16/</guid>
     <pubDate>Wed, 10 Aug 2016 11:20:13 +0800</pubDate>
@@ -5314,6 +5451,7 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
 <item>
     <title>15 我志愿加入星联</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3" type="audio/mpeg" length="64602089" />
     <guid isPermaLink="true">http://localhost:4000/15/</guid>
     <pubDate>Sat, 23 Jul 2016 02:35:18 +0800</pubDate>
@@ -5388,6 +5526,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>14 星闻联播</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3" type="audio/mpeg" length="38139833" />
     <guid isPermaLink="true">http://localhost:4000/14/</guid>
     <pubDate>Sat, 09 Jul 2016 10:48:32 +0800</pubDate>
@@ -5452,6 +5591,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>13 从星联扯到没有人到过的地方</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3" type="audio/mpeg" length="45013190" />
     <guid isPermaLink="true">http://localhost:4000/13/</guid>
     <pubDate>Tue, 05 Jul 2016 11:41:43 +0800</pubDate>
@@ -5529,6 +5669,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>12 老司机不翻船</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3" type="audio/mpeg" length="69389809" />
     <guid isPermaLink="true">http://localhost:4000/12/</guid>
     <pubDate>Sun, 26 Jun 2016 01:42:52 +0800</pubDate>
@@ -5590,6 +5731,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>11 迟到的旧闻联播</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3" type="audio/mpeg" length="29205961" />
     <guid isPermaLink="true">http://localhost:4000/11/</guid>
     <pubDate>Sun, 05 Jun 2016 10:27:14 +0800</pubDate>
@@ -5627,6 +5769,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>SP2 未来的犯罪与预防犯罪</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3" type="audio/mpeg" length="104155240" />
     <guid isPermaLink="true">http://localhost:4000/SP2/</guid>
     <pubDate>Tue, 17 May 2016 05:57:36 +0800</pubDate>
@@ -5726,6 +5869,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>SP1 First Contact Day Special</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3" type="audio/mpeg" length="24060504" />
     <guid isPermaLink="true">http://localhost:4000/SP1/</guid>
     <pubDate>Tue, 05 Apr 2016 12:55:19 +0800</pubDate>
@@ -5782,6 +5926,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>10 CBS与Paramount诉Axanar案</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3" type="audio/mpeg" length="27469367" />
     <guid isPermaLink="true">http://localhost:4000/10/</guid>
     <pubDate>Mon, 04 Apr 2016 03:48:19 +0800</pubDate>
@@ -5814,6 +5959,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>9 本来想聊科幻可是一不小心就成闲聊了</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3" type="audio/mpeg" length="16911692" />
     <guid isPermaLink="true">http://localhost:4000/9/</guid>
     <pubDate>Sat, 12 Mar 2016 10:31:39 +0800</pubDate>
@@ -5838,6 +5984,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>8 桃媚：DS9都没看你也敢做播客</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3" type="audio/mpeg" length="49143852" />
     <guid isPermaLink="true">http://localhost:4000/8/</guid>
     <pubDate>Sat, 30 Jan 2016 10:38:55 +0800</pubDate>
@@ -5870,6 +6017,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>7 Beyond the trailer</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3" type="audio/mpeg" length="36609686" />
     <guid isPermaLink="true">http://localhost:4000/7/</guid>
     <pubDate>Mon, 11 Jan 2016 23:17:00 +0800</pubDate>
@@ -5908,6 +6056,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>6 出现在星际迷航中的节日</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3" type="audio/mpeg" length="39236964" />
     <guid isPermaLink="true">http://localhost:4000/6/</guid>
     <pubDate>Fri, 25 Dec 2015 17:37:00 +0800</pubDate>
@@ -5962,6 +6111,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>5 星际迷航50周年特展非官方导览</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3" type="audio/mpeg" length="81270665" />
     <guid isPermaLink="true">http://localhost:4000/5/</guid>
     <pubDate>Fri, 18 Dec 2015 23:34:00 +0800</pubDate>
@@ -5992,6 +6142,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>4 Gene Roddenberry生平</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3" type="audio/mpeg" length="26923919" />
     <guid isPermaLink="true">http://localhost:4000/4/</guid>
     <pubDate>Sun, 22 Nov 2015 23:07:00 +0800</pubDate>
@@ -6045,6 +6196,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 <item>
     <title>3 To boldly go where no man has gone before(pilot)</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3" type="audio/mpeg" length="11295164" />
     <guid isPermaLink="true">http://localhost:4000/3/</guid>
     <pubDate>Sat, 31 Oct 2015 23:57:00 +0800</pubDate>
@@ -6088,6 +6240,7 @@ People like Star Trek for different reasons. For me, the spirit of exploration a
 <item>
     <title>2 同学你听说过安利吗(pilot)</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853508332578822_hd.mp3" type="audio/mpeg" length="10927996" />
     <guid isPermaLink="true">http://localhost:4000/2/</guid>
     <pubDate>Sat, 31 Oct 2015 21:09:00 +0800</pubDate>
@@ -6116,6 +6269,7 @@ People like Star Trek for different reasons. For me, the spirit of exploration a
 <item>
     <title>1 第一次对着空气说话还是很不习惯的(pilot)</title>
     <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mpeg" length="6810762" />
     <guid isPermaLink="true">http://localhost:4000/1/</guid>
     <pubDate>Sat, 31 Oct 2015 16:04:00 +0800</pubDate>
