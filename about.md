@@ -27,7 +27,7 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 
 ### 大腐
 
-星际迷航中毒重症患者。喜欢关于STAR TREK的一切， 爱所有星际迷航的演员，想嫁给他们所有人，特别是William Shatner、Leonard Nimoy、Andrew Robinson、Connor Trinneer等等等等宇宙种马们。
+星际迷航中毒重症患者。喜欢关于 Star Trek 的一切， 爱所有星际迷航的演员，想嫁给他们所有人，特别是 William Shatner、Leonard Nimoy、Andrew Robinson、Connor Trinneer 等等等等宇宙种马们。
 
 ## 收听方式
 
