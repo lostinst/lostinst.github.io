@@ -16,7 +16,7 @@ layout: null
         <itunes:author>迷于星际的船员们</itunes:author>
         <itunes:subtitle></itunes:subtitle>
         <description>以星际迷航为主题的聊天节目。</description>
-        <itunes:image href="{{ site.url }}/images/avatar.jpg"/>
+        <itunes:image href="{{ site.avatarUrl }}"/>
                 <itunes:category text="TV &amp; Film" />
                 <itunes:category text="Technology">
                     <itunes:category text="Tech News" />

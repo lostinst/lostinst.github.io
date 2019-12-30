@@ -1,6 +1,6 @@
 # 迷于星际播客
 
-迷于星际的官方网站，CrazyEMH打理。
+迷于星际的官方网站，CrazyEMH 打理。
 
 关于我们 [trekin.space/about](http://trekin.space/about)。
 

@@ -13,7 +13,7 @@
         <itunes:author>迷于星际的船员们</itunes:author>
         <itunes:subtitle></itunes:subtitle>
         <description>以星际迷航为主题的聊天节目。</description>
-        <itunes:image href="http://localhost:4000/images/avatar.jpg"/>
+        <itunes:image href="http://fdfs.xmcdn.com/group67/M06/6C/75/wKgMbV3qeH_SemubAAKj-IleZCU830.jpg"/>
                 <itunes:category text="TV &amp; Film" />
                 <itunes:category text="Technology">
                     <itunes:category text="Tech News" />
@@ -21,6 +21,47 @@
         <itunes:explicit>yes</itunes:explicit>
 
         
+	
+<item>
+    <title>70 韭菜，大饼</title>
+    <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href="http://fdfs.xmcdn.com/group72/M0B/09/DA/wKgO0F4IvYqTik_7ABRpl1pZpK4531.png"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2019/12/29/5085555183096547334_ud.mp3" type="audio/mpeg" length="174968170" />
+    <guid isPermaLink="true">http://localhost:4000/70/</guid>
+    <pubDate>Sun, 29 Dec 2019 22:41:00 +0800</pubDate>
+    <itunes:duration>4372</itunes:duration>
+    <link>http://localhost:4000/70/</link>
+    <description>
+	<![CDATA[<p>对星战粉丝被利用情怀割韭菜表示同病相怜，同时对星际迷航 IP 的未来充满期待。</p>
+
+<p>本期节目录制于20191222，主播：<a href="mailto:emh@trekin.space">CrazyEMH</a>|<a href="http://weibo.com/u/5013547255">瓦肯蔬菜汤</a>|<a href="https://weibo.com/p/1005051764117203">胡子</a></p>
+
+<p>————</p>
+
+<p>00:01:07 星际迷航短途</p>
+
+<ul>
+  <li><a href="https://memory-alpha.fandom.com/wiki/Ask_Not_(episode)">Ask Not</a></li>
+  <li><a href="https://memory-alpha.fandom.com/wiki/The_Girl_Who_Made_the_Stars_(episode)">The Girl Who Made the Stars</a></li>
+  <li><a href="https://memory-alpha.fandom.com/wiki/Ephraim_and_Dot_(episode)">Ephraim and Dot</a></li>
+</ul>
+
+<p>00:36:40 星球大战</p>
+
+<h2 id="本台反馈">●本台反馈●</h2>
+
+<p>Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, all frequencies open.</p>
+
+<p>官网：<a href="http://trekin.space">http://trekin.space</a>，官网包含完整且富文本格式的 shownotes</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：<a href="http://weibo.com/lostinst">@迷于星际播客</a></p>
+]]>
+</description>
+</item>
+	
+	
 	
 <item>
     <title>69 咕咕咕咕……</title>
