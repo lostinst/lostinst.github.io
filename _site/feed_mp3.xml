@@ -23,6 +23,39 @@
         
 	
 <item>
+    <title>LDR2 给社畜看的职场剧</title>
+    <itunes:author>迷于星际的船员们</itunes:author>
+    <itunes:image href="https://fdfs.xmcdn.com/storages/7dcd-audiofreehighqps/62/A4/CMCoOSMDrVIRAACzogBxXxGO.jpg"></itunes:image>
+    <enclosure url="http://cdn.lizhi.fm/audio/2020/12/15/5149896049734607878_ud.mp3" type="audio/mpeg" length="117301685" />
+    <guid isPermaLink="true">http://localhost:4000/LDR2/</guid>
+    <pubDate>Tue, 15 Dec 2020 00:23:00 +0800</pubDate>
+    <itunes:duration>2931</itunes:duration>
+    <link>http://localhost:4000/LDR2/</link>
+    <description>
+	<![CDATA[<p>《星际迷航：底层甲板》第 2, 3 集剧评。</p>
+
+<p>本期节目录制于20200823，主播：<a href="mailto:emh@trekin.space">CrazyEMH</a>\|<a href="https://weibo.com/p/1005051764117203">胡子</a>\|<a href="https://weibo.com/u/5113590549">大腐</a></p>
+
+<hr />
+
+<h2 id="本台反馈">●本台反馈●</h2>
+
+<p>Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, all frequencies open.</p>
+
+<p>听众交流群：QQ群号 591546843</p>
+
+<p>新浪微博：<a href="http://weibo.com/lostinst">\@迷于星际播客</a></p>
+
+<p>官网：<a href="http://trekin.space">http://trekin.space</a></p>
+
+<p>爱发电：<a href="https://afdian.net/@lostinst">在爱发电支持迷于星际播客</a></p>
+]]>
+</description>
+</item>
+	
+	
+	
+<item>
     <title>LDR1 弱水三千，试试这瓢喜剧？</title>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group82/M07/C8/92/wKg5HF849tyzFm90AAE580nWHOM720.jpg"></itunes:image>
@@ -3645,7 +3678,7 @@ ST
 
 <p>42:00 昵称读音为nìchēng，我们大人弄错了就算了，小朋友们不要弄错了哦</p>
 
-<p>57:38 星联与 <a href="http://memory-alpha.wikia.com/wiki/Romulan_Star_Empire">Romulan Star Empire</a>签订的协议 <code class="highlighter-rouge">Treaty of Algeron</code> 明文禁止星联开发隐形技术。在 <a href="http://memory-alpha.wikia.com/wiki/The_Pegasus_(episode)">"The Pegasus"</a> <a href="http://memory-alpha.wikia.com/wiki/TNG">TNG</a> <a href="http://memory-alpha.wikia.com/wiki/TNG_Season_7">7x12</a> 中，Ricker 的前上司 <a href="http://memory-alpha.wikia.com/wiki/Erik_Pressman">Erik Pressman</a> 于 <a href="http://memory-alpha.wikia.com/wiki/USS_Pegasus">USS</a> <a href="http://memory-alpha.wikia.com/wiki/USS_Pegasus"><em>Pegasus</em></a>上研制过相位隐身技术（ <a href="http://memory-alpha.wikia.com/wiki/Phasing_cloaking_device">phasing cloaking device</a>）。</p>
+<p>57:38 星联与 <a href="http://memory-alpha.wikia.com/wiki/Romulan_Star_Empire">Romulan Star Empire</a>签订的协议 <code class="language-plaintext highlighter-rouge">Treaty of Algeron</code> 明文禁止星联开发隐形技术。在 <a href="http://memory-alpha.wikia.com/wiki/The_Pegasus_(episode)">"The Pegasus"</a> <a href="http://memory-alpha.wikia.com/wiki/TNG">TNG</a> <a href="http://memory-alpha.wikia.com/wiki/TNG_Season_7">7x12</a> 中，Ricker 的前上司 <a href="http://memory-alpha.wikia.com/wiki/Erik_Pressman">Erik Pressman</a> 于 <a href="http://memory-alpha.wikia.com/wiki/USS_Pegasus">USS</a> <a href="http://memory-alpha.wikia.com/wiki/USS_Pegasus"><em>Pegasus</em></a>上研制过相位隐身技术（ <a href="http://memory-alpha.wikia.com/wiki/Phasing_cloaking_device">phasing cloaking device</a>）。</p>
 
 <h2 id="本台反馈">●本台反馈●</h2>
 
@@ -4484,8 +4517,8 @@ ST
     </tr>
     <tr>
       <td style="text-align: center">13:53</td>
-      <td style="text-align: center">乌龙 <code class="highlighter-rouge">wrong</code> or <code class="highlighter-rouge">own goal</code>？</td>
-      <td style="text-align: center">具体可参考<code class="highlighter-rouge">张维伟. “乌龙球”语源误说辨正[J]. 文学教育:下, 2014(10):142-143.</code></td>
+      <td style="text-align: center">乌龙 <code class="language-plaintext highlighter-rouge">wrong</code> or <code class="language-plaintext highlighter-rouge">own goal</code>？</td>
+      <td style="text-align: center">具体可参考<code class="language-plaintext highlighter-rouge">张维伟. “乌龙球”语源误说辨正[J]. 文学教育:下, 2014(10):142-143.</code></td>
     </tr>
     <tr>
       <td style="text-align: center">14:22</td>
@@ -4587,7 +4620,7 @@ ST
       <td>2016年</td>
     </tr>
     <tr>
-      <td><code class="highlighter-rouge">Star Trek</code> in general</td>
+      <td><code class="language-plaintext highlighter-rouge">Star Trek</code> in general</td>
       <td>星际旅行/星舰迷航/星舰奇航记/星际奇旅/星空奇遇记(港)/星舰迷航记(电影，台)/星际争霸战(电视及后来新系列电影，台)</td>
       <td> </td>
     </tr>
@@ -4644,7 +4677,7 @@ ST
 
 <ul>
   <li><a href="https://wenku.baidu.com/view/6cf6a91755270722192ef7f1.html">汉语拼音、威妥玛拼音、耶鲁拼音对照表</a></li>
-  <li><code class="highlighter-rouge">杨坤. 中国大陆、香港和台湾地区英语姓名音译的异同浅析[J]. 信息系统工程, 2010(4):138-138.</code></li>
+  <li><code class="language-plaintext highlighter-rouge">杨坤. 中国大陆、香港和台湾地区英语姓名音译的异同浅析[J]. 信息系统工程, 2010(4):138-138.</code></li>
   <li><a href="https://zh.wikipedia.org/wiki/%E6%B3%A8%E9%9F%B3%E7%AC%A6%E8%99%9F">注音符</a>（国音一式，国语注音符号第一式）</li>
   <li><a href="https://zh.wikipedia.org/wiki/%E5%9C%8B%E8%AA%9E%E7%BE%85%E9%A6%AC%E5%AD%97">国语罗马字</a>（国音二式，国语注音符号第二式）</li>
   <li><a href="https://zh.wikipedia.org/wiki/Category:%E7%8E%B0%E4%BB%A3%E6%A0%87%E5%87%86%E6%B1%89%E8%AF%AD%E6%8B%BC%E9%9F%B3%E7%B3%BB%E7%BB%9F">现代标准汉语拼音系统</a></li>
@@ -4679,11 +4712,11 @@ ST
   <li>黑铁匠（Blacksmith）</li>
 </ul>
 
-<p>1:20:40 说着说着又回到<code class="highlighter-rouge">冼朴</code>和<code class="highlighter-rouge">洗朴</code>的讨论了</p>
+<p>1:20:40 说着说着又回到<code class="language-plaintext highlighter-rouge">冼朴</code>和<code class="language-plaintext highlighter-rouge">洗朴</code>的讨论了</p>
 
 <p>1:24:21 App 推荐：<a href="http://www.neospeech.com/">pleco</a></p>
 
-<p>1:36:43 <code class="highlighter-rouge">胡裕树. **现代汉语**(重订本)[M]. 上海教育出版社, 1995.</code></p>
+<p>1:36:43 <code class="language-plaintext highlighter-rouge">胡裕树. **现代汉语**(重订本)[M]. 上海教育出版社, 1995.</code></p>
 
 <p>1:47:21 aftershow 是一些鬼畜以及关于方言的讨论</p>
 
@@ -6422,7 +6455,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 
 <p>14:53 那些个不知道谁致敬谁的logo</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  Klingon logo ≈ 中国传媒大学 logo.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>  Klingon logo ≈ 中国传媒大学 logo.
   Starfleet Command logo ≈ 中国国家航天局 logo, 北京航空航天大学 logo, etc..
 </code></pre></div></div>
 
@@ -6436,7 +6469,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 
 <p>23:19 Rule No. 31: NEVER-MAKE-FUN-OF-A-FERENGI'S-MOTHER!</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	 Julian Bashir 与 Quark 的对话：
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>	 Julian Bashir 与 Quark 的对话：
 
      "Quark, leave it!"
 
@@ -7033,7 +7066,7 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
 
 <p>文稿：</p>
 
-<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>As the most prolific sci-fi show, the Star Trek series and movies had a great influence on sci-fi lovers in the past and definitely will impress more generations to come.
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>As the most prolific sci-fi show, the Star Trek series and movies had a great influence on sci-fi lovers in the past and definitely will impress more generations to come.
 
 It began in 1964 when Gene Roddenberry wrote the pilot episode of this show, &amp;quot;The Cage&amp;quot;, and proposed it to NBC. Though impressed by the concept in it, NBC turned this newly-born TV show down because they thought the new ideas were too unimaginable for the audience. The second pilot, &amp;quot;The Man Trap&amp;quot;, came in 1966 after Roddenberry changed the whole story to a less aggressive one. Actually, from a modern point of view, the rewritten story is kind of boring compared to the first pilot, but for the people in that time it was great and received a high rating.
 

@@ -99,11 +99,12 @@ Email: [subspacesignal@qq.com](mailto:subspacesignal@qq.com), all frequencies op
 
 可以通过赏赐[拉蒂锭条(Latinum Bars)](http://memory-alpha.wikia.com/wiki/Latinum)来鼓励我们：
 
+* 在[爱发电支持迷于星际播客](https://afdian.net/@lostinst)，如果可以，请持续发电支持
 * 添加听众群给我们和群友发红包
 * 在[微博任意长文](http://weibo.com/ttarticle/p/show?id=2309404019291941931844&mod=zwenzhang)下打赏
 * 喜马拉雅平台可以打赏
 
-不鼓励非理性打赏，毕竟打赏不会给你带来什么。任何赏额恕不退款，请参阅 [_Rules of Acquisition_](http://memory-alpha.wikia.com/wiki/Rules_of_Acquisition) 第一条：
+打赏可以激励我们积极创作，积极做后期剪辑，有催更的作用，同时也是赞助播客基础设施建设（网站/域名/录音硬件）的有效方式。不鼓励非理性打赏，毕竟打赏不会给你带来什么。任何赏额恕不退款，请参阅 [_Rules of Acquisition_](http://memory-alpha.wikia.com/wiki/Rules_of_Acquisition) 第一条：
 
 > Once you have their money, you never give it back.
 
