@@ -35,6 +35,10 @@ EMH（Emergency Medical Hologram，紧急医疗全息程序）是星联[木星�
 
 本台工作负责讲相声以及偶尔的英文科普。也是个[b站咸鱼up](https://space.bilibili.com/10136865)。 
 
+### [闪光梦魇](https://space.bilibili.com/4326906)
+
+一个多愁善感的胖子，电影特摄两开花。
+
 ## 收听方式
 
 * 本站可在线收听
