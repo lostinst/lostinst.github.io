@@ -6,7 +6,7 @@ date: 2018-02-22 20:19:00 +0800
 description: "播客"
 tag: 评论音轨
 duration: 2424
-ximalayam4aurl: http://jt.ximalaya.com/wKgJnVqOtVmBIkJWASt8uv_vDNk043.m4a?channel=rss&amp;album_id=3135361&amp;track_id=72837867&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group35/M07/06/A8/wKgJnVqOtVmBIkJWASt8uv_vDNk043.m4a
+ximalayam4aurl: https://jt.ximalaya.com//wKgJXFqOtQKh06PLA3gG4jJkw3w537.mp3.m4a?channel=rss&amp;album_id=3135361&amp;track_id=72837867&amp;uid=6418191&amp;jt=https://audio.xmcdn.com/group28/M02/9E/F8/wKgJXFqOtQKh06PLA3gG4jJkw3w537.mp3
 ximalayam4alength: 58197730
 lizhimp3url: http://cdn.lizhi.fm/audio/2018/02/22/2654449252874708998_ud.mp3
 lizhimp3length: 97031383

@@ -6,7 +6,7 @@ date: 2018-05-02 00:21:30 +0800
 description: "播客"
 tag: 播客 
 duration: 2640
-ximalayam4aurl: http://jt.ximalaya.com/wKgJVFrolBLzHFcEAUYr4iFF8k4948.m4a?channel=rss&amp;album_id=3135361&amp;track_id=85992821&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group40/M06/0A/97/wKgJVFrolBLzHFcEAUYr4iFF8k4948.m4a
+ximalayam4aurl: https://jt.ximalaya.com//wKgJW1rok9ThBnv0A8cpWnEmIuw692.mp3.m4a?channel=rss&amp;album_id=3135361&amp;track_id=85992821&amp;uid=6418191&amp;jt=https://audio.xmcdn.com/group27/M08/34/04/wKgJW1rok9ThBnv0A8cpWnEmIuw692.mp3
 ximalayam4alength: 63383898
 lizhimp3url: http://cdn.lizhi.fm/audio/2018/05/02/2667096849230915078_ud.mp3
 lizhimp3length: 105672735

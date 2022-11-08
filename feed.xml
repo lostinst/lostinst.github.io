@@ -14,6 +14,10 @@ layout: null
         <title>迷于星际 Lost in Trek</title>
         <itunes:keywords>星际迷航,影评,迷于星际,Star Trek,Lost In Trek</itunes:keywords>
         <itunes:author>迷于星际的船员们</itunes:author>
+        <itunes:owner>
+            <itunes:name>迷于星际的船员们</itunes:name>
+            <itunes:email>subspacesignal@qq.com</itunes:email>
+        </itunes:owner>
         <itunes:subtitle></itunes:subtitle>
         <description>以星际迷航为主题的聊天节目。</description>
         <itunes:image href="{{ site.avatarUrl }}"/>
@@ -29,7 +33,7 @@ layout: null
     <title>{{ post.title }}</title>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="{{post.coverimage}}"></itunes:image>
-    <enclosure url="{{post.ximalayam4aurl}}" type="text/html" length="{{ post.ximalayam4alength }}" />
+    <enclosure url="{{post.ximalayam4aurl}}" type="audio/x-m4a" length="{{ post.ximalayam4alength }}" />
     <guid isPermaLink="true">{{ site.url }}{{post.permalink}}</guid>
     <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
     <itunes:duration>{{ post.duration }}</itunes:duration>

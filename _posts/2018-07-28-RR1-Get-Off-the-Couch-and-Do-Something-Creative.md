@@ -7,7 +7,7 @@ description: "播客"
 tag: Ready Room
 branch: readyroom
 duration: 2176
-ximalayam4aurl: http://jt.ximalaya.com/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a?channel=rss&amp;album_id=3135361&amp;track_id=102189418&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group47/M02/D8/19/wKgKk1tcasGjYaBQAQzs6PzXQzw524.m4a
+ximalayam4aurl: https://jt.ximalaya.com//wKgKlVtcakPx2fffAx1nP53vZUQ483.mp3.m4a?channel=rss&amp;album_id=3135361&amp;track_id=102189418&amp;uid=6418191&amp;jt=https://audio.xmcdn.com/group48/M0B/3A/12/wKgKlVtcakPx2fffAx1nP53vZUQ483.mp3
 ximalayam4alength: 52258623
 lizhimp3url: http://cdn.lizhi.fm/audio/2018/07/28/2683399752768376838_ud.mp3
 lizhimp3length: 87132036

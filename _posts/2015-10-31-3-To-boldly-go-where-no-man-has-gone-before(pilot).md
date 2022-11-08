@@ -6,7 +6,7 @@ date: 2015-10-31 23:57:00 +0800
 description: "播客开播"
 tag: 播客
 duration: 702
-ximalayam4aurl: http://jt.ximalaya.com/wKgDXFY04liS734iAFa8dXyLffM161.m4a?channel=rss&amp;album_id=3135361&amp;track_id=9633110&amp;uid=6418191&amp;jt=http://audio.xmcdn.com/group12/M08/90/DD/wKgDXFY04liS734iAFa8dXyLffM161.m4a
+ximalayam4aurl: https://jt.ximalaya.com//wKgDY1Y04kPgi6aEAQGMDdnYDYM346.mp3.m4a?channel=rss&amp;album_id=3135361&amp;track_id=9633110&amp;uid=6418191&amp;jt=https://audio.xmcdn.com/group14/M01/91/A8/wKgDY1Y04kPgi6aEAQGMDdnYDYM346.mp3
 ximalayam4alength: 16878605
 lizhimp3url: http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3
 lizhimp3length: 11295164
