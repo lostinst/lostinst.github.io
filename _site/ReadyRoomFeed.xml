@@ -4,10 +4,10 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      version="2.0">
     <channel>
-        <atom:link href="http://localhost:4000/ReadyRoomFeed.xml" type="application/rss+xml" rel="self"></atom:link>
+        <atom:link href="http://trekin.space/ReadyRoomFeed.xml" type="application/rss+xml" rel="self"></atom:link>
         <copyright><![CDATA[Copyright &copy; TReK'd Production Team]]></copyright>
         <language>en-US</language>
-        <link>http://localhost:4000/tags/#Ready Room-ref</link>
+        <link>http://trekin.space/tags/#Ready Room-ref</link>
         <title>TReK'd Ready Room Podcast</title>
         <itunes:keywords>TReK'd, TREKD, trekd, Star Trek, ready room</itunes:keywords>
         <itunes:author>TReK'd Production Team</itunes:author>
