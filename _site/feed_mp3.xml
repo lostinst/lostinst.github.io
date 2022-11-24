@@ -4,10 +4,10 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      version="2.0">
     <channel>
-        <atom:link href="http://trekin.space/feed_mp3.xml" type="application/rss+xml" rel="self"></atom:link>
+        <atom:link href="http://localhost:4000/feed_mp3.xml" type="application/rss+xml" rel="self"></atom:link>
         <copyright><![CDATA[Copyright &copy; 迷于星际的船员们]]></copyright>
         <language>zh-cn</language>
-        <link>http://trekin.space</link>
+        <link>http://localhost:4000</link>
         <title>迷于星际 Lost in Trek</title>
         <itunes:keywords>星际迷航,影评,迷于星际,Star Trek,Lost In Trek</itunes:keywords>
         <itunes:author>迷于星际的船员们</itunes:author>
@@ -31,10 +31,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/6b5c-audiofreehighqps/C0/52/GMCoOScHPt33AAUiwgHFfPkU.jpeg"></itunes:image>
     <enclosure url="https://pan.startrekcn.cn/d/upload/LostinTrekPodcast/LDR8.mp3" type="audio/mpeg" length="54420846" />
-    <guid isPermaLink="true">http://trekin.space/LDR8/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR8/</guid>
     <pubDate>Mon, 07 Nov 2022 22:50:00 +0800</pubDate>
     <itunes:duration>2270.0</itunes:duration>
-    <link>http://trekin.space/LDR8/</link>
+    <link>http://localhost:4000/LDR8/</link>
     <description>
 	<![CDATA[<p>《底层甲板》第3季全十集剧评节目。</p>
 
@@ -66,10 +66,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/c8f4-audiofreehighqps/8F/FC/GKwRIMAGIKL1AAODmwE1LImy.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2022/04/04/2933132867988688390_ud.mp3" type="audio/mpeg" length="123181340" />
-    <guid isPermaLink="true">http://trekin.space/PR11/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR11/</guid>
     <pubDate>Mon, 04 Apr 2022 20:01:00 +0800</pubDate>
     <itunes:duration>3078</itunes:duration>
-    <link>http://trekin.space/PR11/</link>
+    <link>http://localhost:4000/PR11/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第二季第4集剧评。</p>
 
@@ -104,10 +104,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/76ca-audiofreehighqps/4A/42/GKwRIDoGFNfDAAK8dAEv7rFW.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2022/03/26/2931473080329129478_ud.mp3" type="audio/mpeg" length="123022500" />
-    <guid isPermaLink="true">http://trekin.space/PR10/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR10/</guid>
     <pubDate>Sat, 26 Mar 2022 21:28:00 +0800</pubDate>
     <itunes:duration>3074</itunes:duration>
-    <link>http://trekin.space/PR10/</link>
+    <link>http://localhost:4000/PR10/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第二季第3集剧评。</p>
 
@@ -149,10 +149,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/922d-audiofreehighqps/02/D6/GKwRIUEGDJOLAAKcOwEssyOg.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2022/03/20/2930309404038394886_ud.mp3" type="audio/mpeg" length="124637890" />
-    <guid isPermaLink="true">http://trekin.space/PR9/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR9/</guid>
     <pubDate>Sun, 20 Mar 2022 14:58:00 +0800</pubDate>
     <itunes:duration>3114</itunes:duration>
-    <link>http://trekin.space/PR9/</link>
+    <link>http://localhost:4000/PR9/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第二季第2集剧评。</p>
 
@@ -192,10 +192,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/6046-audiofreehighqps/2B/B7/GKwRIMAGCzk4AAJ2lwEsJmt5.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2022/03/19/2930119270557510662_ud.mp3" type="audio/mpeg" length="140968616" />
-    <guid isPermaLink="true">http://trekin.space/PR8/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR8/</guid>
     <pubDate>Sat, 19 Mar 2022 14:22:00 +0800</pubDate>
     <itunes:duration>3522</itunes:duration>
-    <link>http://trekin.space/PR8/</link>
+    <link>http://localhost:4000/PR8/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第二季第 1 集剧评。</p>
 
@@ -244,10 +244,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/f0a9-audiofreehighqps/26/E2/GKwRIDoFiy5vAAMk6QEBbpq_.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/12/12/2912098619697744902_ud.mp3" type="audio/mpeg" length="92643125" />
-    <guid isPermaLink="true">http://trekin.space/PRO1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PRO1/</guid>
     <pubDate>Sun, 12 Dec 2021 11:25:00 +0800</pubDate>
     <itunes:duration>2314</itunes:duration>
-    <link>http://trekin.space/PRO1/</link>
+    <link>http://localhost:4000/PRO1/</link>
     <description>
 	<![CDATA[<p>《神童》第一季第1-2集剧评节目。星际迷航老IP上新，如果你被七百多集电视剧吓到，可以从这个剧入手哦~</p>
 
@@ -289,10 +289,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/90b6-audiofreehighqps/DC/1C/GKwRINsFgittAAMRbwD-ww1T.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/12/05/2910830675510289926_ud.mp3" type="audio/mpeg" length="90982772" />
-    <guid isPermaLink="true">http://trekin.space/LDR7/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR7/</guid>
     <pubDate>Sun, 05 Dec 2021 15:22:00 +0800</pubDate>
     <itunes:duration>2273</itunes:duration>
-    <link>http://trekin.space/LDR7/</link>
+    <link>http://localhost:4000/LDR7/</link>
     <description>
 	<![CDATA[<p>《底层甲板》第2季第5-10集剧评节目。</p>
 
@@ -352,10 +352,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/6a8c-audiofreehighqps/6C/07/GMCoOSMFdBDNAAI-zAD67IZ6.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/11/24/2908845345179723270_ud.mp3" type="audio/mpeg" length="23700756" />
-    <guid isPermaLink="true">http://trekin.space/LDR6/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR6/</guid>
     <pubDate>Wed, 24 Nov 2021 22:36:00 +0800</pubDate>
     <itunes:duration>591</itunes:duration>
-    <link>http://trekin.space/LDR6/</link>
+    <link>http://localhost:4000/LDR6/</link>
     <description>
 	<![CDATA[<p>《底层甲板》第二季第1-4集短评。</p>
 
@@ -387,10 +387,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/5b8f-audiofreehighqps/85/72/CKwRIaIFQFnUAAMyDgDtLlCE.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/10/16/2901567587814708742_ud.mp3" type="audio/mpeg" length="41146378" />
-    <guid isPermaLink="true">http://trekin.space/81/</guid>
+    <guid isPermaLink="true">http://localhost:4000/81/</guid>
     <pubDate>Sat, 16 Oct 2021 17:08:00 +0800</pubDate>
     <itunes:duration>1027</itunes:duration>
-    <link>http://trekin.space/81/</link>
+    <link>http://localhost:4000/81/</link>
     <description>
 	<![CDATA[<p>闲聊节目，内容并没有回答标题的疑问。</p>
 
@@ -430,10 +430,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/group65/M07/33/F0/wKgMdF2FnHeCnQAgAACU2uwLpv0657.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/10/15/2901410566262544902_ud.mp3" type="audio/mpeg" length="37891505" />
-    <guid isPermaLink="true">http://trekin.space/80/</guid>
+    <guid isPermaLink="true">http://localhost:4000/80/</guid>
     <pubDate>Fri, 15 Oct 2021 20:50:00 +0800</pubDate>
     <itunes:duration>945</itunes:duration>
-    <link>http://trekin.space/80/</link>
+    <link>http://localhost:4000/80/</link>
     <description>
 	<![CDATA[<p>时隔多月，我们回来了。</p>
 
@@ -467,10 +467,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/d5e8-audiofreehighqps/36/60/CMCoOSMEBuLmAAXzKQCJ0Hph.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/02/20/5163260789683045894_ud.mp3" type="audio/mpeg" length="51173238" />
-    <guid isPermaLink="true">http://trekin.space/79/</guid>
+    <guid isPermaLink="true">http://localhost:4000/79/</guid>
     <pubDate>Sat, 20 Feb 2021 22:45:00 +0800</pubDate>
     <itunes:duration>1277</itunes:duration>
-    <link>http://trekin.space/79/</link>
+    <link>http://localhost:4000/79/</link>
     <description>
 	<![CDATA[<p>在《<a href="http://trekin.space/77/">77 星联中央电视台2021春晚</a>》这期节目的奥斯卡颁奖（其实是推荐）环节中，主播们推荐了不少2020年食用过的精神食粮，本期节目是那期推荐作品的讨论会。谈到最喜欢的演员时，我们的车跑偏了。</p>
 
@@ -507,10 +507,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/group65/M07/33/F0/wKgMdF2FnHeCnQAgAACU2uwLpv0657.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/02/19/5162490163051027462_ud.mp3" type="audio/mpeg" length="4850807" />
-    <guid isPermaLink="true">http://trekin.space/78/</guid>
+    <guid isPermaLink="true">http://localhost:4000/78/</guid>
     <pubDate>Fri, 19 Feb 2021 22:20:00 +0800</pubDate>
     <itunes:duration>119</itunes:duration>
-    <link>http://trekin.space/78/</link>
+    <link>http://localhost:4000/78/</link>
     <description>
 	<![CDATA[<p>播客标题编号含义介绍。</p>
 
@@ -555,10 +555,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/c6a7-audiofreehighqps/21/15/CMCoOScD-ymIAAX0fACG1LXo.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/02/11/5161400987260761606_ud.mp3" type="audio/mpeg" length="124320271" />
-    <guid isPermaLink="true">http://trekin.space/77/</guid>
+    <guid isPermaLink="true">http://localhost:4000/77/</guid>
     <pubDate>Thu, 11 Feb 2021 23:00:00 +0800</pubDate>
     <itunes:duration>3106</itunes:duration>
-    <link>http://trekin.space/77/</link>
+    <link>http://localhost:4000/77/</link>
     <description>
 	<![CDATA[<p>2021年星联中央电视台春节联欢晚会实录，祝各位新春愉快。</p>
 
@@ -604,10 +604,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/2cb5-audiofreehighqps/3F/3C/CMCoOScD13YwAAOa3gB8IrDN.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/01/15/5156567304326275078_ud.mp3" type="audio/mpeg" length="172772183" />
-    <guid isPermaLink="true">http://trekin.space/DR26/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR26/</guid>
     <pubDate>Fri, 15 Jan 2021 23:24:00 +0800</pubDate>
     <itunes:duration>4317</itunes:duration>
-    <link>http://trekin.space/DR26/</link>
+    <link>http://localhost:4000/DR26/</link>
     <description>
 	<![CDATA[<p>《星际迷航：发现号》第 3 季第 1 集剧评。</p>
 
@@ -645,10 +645,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/4e6e-audiofreehighqps/3A/44/CMCoOR4D1KDZAAGrEAB7TbWV.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2021/01/13/5156197361590020102_ud.mp3" type="audio/mpeg" length="199127655" />
-    <guid isPermaLink="true">http://trekin.space/LDR5/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR5/</guid>
     <pubDate>Wed, 13 Jan 2021 19:55:00 +0800</pubDate>
     <itunes:duration>4976</itunes:duration>
-    <link>http://trekin.space/LDR5/</link>
+    <link>http://localhost:4000/LDR5/</link>
     <description>
 	<![CDATA[<p>《星际迷航：底层甲板》第 8, 9, 10 集剧评，以及发现号第三季的一些现在（发现号第三季已完结）看来天真的讨论与预测。</p>
 
@@ -689,10 +689,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/b3f3-audiofreehighqps/B3/2F/CMCoOSQDwQZOAAHELQB2TEQs.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/12/29/5153389413008194054_ud.mp3" type="audio/mpeg" length="112709349" />
-    <guid isPermaLink="true">http://trekin.space/LDR4/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR4/</guid>
     <pubDate>Tue, 29 Dec 2020 22:58:00 +0800</pubDate>
     <itunes:duration>2816</itunes:duration>
-    <link>http://trekin.space/LDR4/</link>
+    <link>http://localhost:4000/LDR4/</link>
     <description>
 	<![CDATA[<p>《星际迷航：底层甲板》第 6, 7 集剧评。</p>
 
@@ -724,10 +724,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/9b64-audiofreehighqps/EF/D9/CMCoOSUDtnKsAALCuABzmqrW.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/12/21/5151928670964750342_ud.mp3" type="audio/mpeg" length="70338747" />
-    <guid isPermaLink="true">http://trekin.space/LDR3/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR3/</guid>
     <pubDate>Mon, 21 Dec 2020 22:24:00 +0800</pubDate>
     <itunes:duration>1757</itunes:duration>
-    <link>http://trekin.space/LDR3/</link>
+    <link>http://localhost:4000/LDR3/</link>
     <description>
 	<![CDATA[<p>《星际迷航：底层甲板》第 4, 5 集剧评。</p>
 
@@ -757,10 +757,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="https://fdfs.xmcdn.com/storages/7dcd-audiofreehighqps/62/A4/CMCoOSMDrVIRAACzogBxXxGO.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/12/15/5149896049734607878_ud.mp3" type="audio/mpeg" length="117301685" />
-    <guid isPermaLink="true">http://trekin.space/LDR2/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR2/</guid>
     <pubDate>Tue, 15 Dec 2020 00:23:00 +0800</pubDate>
     <itunes:duration>2931</itunes:duration>
-    <link>http://trekin.space/LDR2/</link>
+    <link>http://localhost:4000/LDR2/</link>
     <description>
 	<![CDATA[<p>《星际迷航：底层甲板》第 2, 3 集剧评。</p>
 
@@ -790,10 +790,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group82/M07/C8/92/wKg5HF849tyzFm90AAE580nWHOM720.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/08/16/5128164960456950790_ud.mp3" type="audio/mpeg" length="194710869" />
-    <guid isPermaLink="true">http://trekin.space/LDR1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/LDR1/</guid>
     <pubDate>Sun, 16 Aug 2020 17:16:00 +0800</pubDate>
     <itunes:duration>4866</itunes:duration>
-    <link>http://trekin.space/LDR1/</link>
+    <link>http://localhost:4000/LDR1/</link>
     <description>
 	<![CDATA[<p>《星际迷航：底层甲板》第 1 集剧评。</p>
 
@@ -821,10 +821,10 @@
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group85/M02/EA/2D/wKg5H18MaiXiwewYAAIdXSLwLJw187.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/07/13/5122099120638991878_ud.mp3" type="audio/mpeg" length="119625535" />
-    <guid isPermaLink="true">http://trekin.space/76/</guid>
+    <guid isPermaLink="true">http://localhost:4000/76/</guid>
     <pubDate>Mon, 13 Jul 2020 22:08:00 +0800</pubDate>
     <itunes:duration>2989</itunes:duration>
-    <link>http://trekin.space/76/</link>
+    <link>http://localhost:4000/76/</link>
     <description>
 	<![CDATA[<p>我们采访了七位来自不同地方和行业的普通人，希望能够更深入地了解这场疫情究竟对人们的生活造成了哪些改变，用播客的方式记录，并传播给你听。</p>
 
@@ -860,10 +860,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group87/M06/CE/12/wKg5IV8JxZqyFOakAADx4CLffts376.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/07/11/5121726783483982854_ud.mp3" type="audio/mpeg" length="123668245" />
-    <guid isPermaLink="true">http://trekin.space/75/</guid>
+    <guid isPermaLink="true">http://localhost:4000/75/</guid>
     <pubDate>Sat, 11 Jul 2020 11:50:00 +0800</pubDate>
     <itunes:duration>3090</itunes:duration>
-    <link>http://trekin.space/75/</link>
+    <link>http://localhost:4000/75/</link>
     <description>
 	<![CDATA[<p>上期我们聊了自己在疫情阴云下的所感所想，这期我们邀请位于武汉的主播<a href="http://weibo.com/u/5013547255">瓦肯蔬菜汤</a>与我们继续这个话题，她疫情期间所在的孝感市在湖北省确诊人数排名第二，这期我们听听靠近疫情风暴中心的她有什么思考。</p>
 
@@ -893,10 +893,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group86/M05/07/24/wKg5Jl70Fcmj0mA_AARgdKAt1vw25.jpeg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/06/25/5118675234989901830_ud.mp3" type="audio/mpeg" length="194350371" />
-    <guid isPermaLink="true">http://trekin.space/74/</guid>
+    <guid isPermaLink="true">http://localhost:4000/74/</guid>
     <pubDate>Thu, 25 Jun 2020 11:17:00 +0800</pubDate>
     <itunes:duration>4857</itunes:duration>
-    <link>http://trekin.space/74/</link>
+    <link>http://localhost:4000/74/</link>
     <description>
 	<![CDATA[<p>聊聊最近发生的事，关于疫情、举报、审查、谣言、回声室，最后开了个脑洞，假如疫情发生在星际迷航的世界。</p>
 
@@ -924,10 +924,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group81/M00/2E/25/wKgPEl7JSsPQZD3mAAJ7bgyuTJM687.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/05/24/5112735907251603462_ud.mp3" type="audio/mpeg" length="46824359" />
-    <guid isPermaLink="true">http://trekin.space/73/</guid>
+    <guid isPermaLink="true">http://localhost:4000/73/</guid>
     <pubDate>Sun, 24 May 2020 00:13:00 +0800</pubDate>
     <itunes:duration>1169</itunes:duration>
-    <link>http://trekin.space/73/</link>
+    <link>http://localhost:4000/73/</link>
     <description>
 	<![CDATA[<p>帕特里克·斯图尔特 (<a href="https://en.wikipedia.org/wiki/Patrick_Stewart">Patrick Stewart</a>)，大家熟悉的X教授、皮卡德舰长，其实同时他还是著名老牌舞台剧演员，这一期我们一起了解他的故事。</p>
 
@@ -955,10 +955,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group75/M05/F5/DC/wKgO016IcXOCdM9nAAJ6YCOcCPw413.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/04/05/5103562106216365574_ud.mp3" type="audio/mpeg" length="355553041" />
-    <guid isPermaLink="true">http://trekin.space/PR7/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR7/</guid>
     <pubDate>Sat, 04 Apr 2020 19:55:00 +0800</pubDate>
     <itunes:duration>8887</itunes:duration>
-    <link>http://trekin.space/PR7/</link>
+    <link>http://localhost:4000/PR7/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 10 集剧评。我们从技术设定、剧情逻辑与人物动机、世界观设定、呈现方式低级这四个角度，对皮卡德大结局进行了吐槽。</p>
 
@@ -990,10 +990,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group78/M02/FB/70/wKgO1l6Ib6bTTAPVAASEo6nSx9E799.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/04/05/5103561122807057542_ud.mp3" type="audio/mpeg" length="184044541" />
-    <guid isPermaLink="true">http://trekin.space/PR6/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR6/</guid>
     <pubDate>Sat, 04 Apr 2020 19:29:00 +0800</pubDate>
     <itunes:duration>4599</itunes:duration>
-    <link>http://trekin.space/PR6/</link>
+    <link>http://localhost:4000/PR6/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 8, 9 集剧评。皮卡德剧进行到季末，剧情走向开始让人捉摸不透。</p>
 
@@ -1073,10 +1073,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group77/M09/63/BF/wKgO1V5t-yjSc1nFAALifgPGp7A111.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/03/15/5099809159499096582_ud.mp3" type="audio/mpeg" length="170100379" />
-    <guid isPermaLink="true">http://trekin.space/PR5/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR5/</guid>
     <pubDate>Sun, 15 Mar 2020 18:05:00 +0800</pubDate>
     <itunes:duration>4251</itunes:duration>
-    <link>http://trekin.space/PR5/</link>
+    <link>http://localhost:4000/PR5/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 7 集剧评。虽然标题有点跑题，但是这期节目确实是皮卡德剧评，欢迎各位Dax的哥哥姐姐叔叔阿姨们收听。</p>
 
@@ -1129,10 +1129,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group76/M00/41/1C/wKgO3l5sc5PAV0kPAAB9-VqvWZM980.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/03/14/5099588866469039238_ud.mp3" type="audio/mpeg" length="179108457" />
-    <guid isPermaLink="true">http://trekin.space/PR4/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR4/</guid>
     <pubDate>Sat, 14 Mar 2020 14:12:00 +0800</pubDate>
     <itunes:duration>4476</itunes:duration>
-    <link>http://trekin.space/PR4/</link>
+    <link>http://localhost:4000/PR4/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 6 集剧评。剧情越来越好看，欢迎收听这期的吹捧。</p>
 
@@ -1191,10 +1191,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group73/M09/12/F3/wKgO215ZSDDDNZ3UAAKWZx8Itkg166.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/02/29/5096888220959655430_ud.mp3" type="audio/mpeg" length="47745590" />
-    <guid isPermaLink="true">http://trekin.space/72/</guid>
+    <guid isPermaLink="true">http://localhost:4000/72/</guid>
     <pubDate>Sat, 29 Feb 2020 01:05:00 +0800</pubDate>
     <itunes:duration>1192</itunes:duration>
-    <link>http://trekin.space/72/</link>
+    <link>http://localhost:4000/72/</link>
     <description>
 	<![CDATA[<p>本集话题覆盖：</p>
 
@@ -1231,10 +1231,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group77/M02/10/11/wKgO315ZMQHishnTAAfo0VrquIM368.png"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/02/28/5096876031841294342_ud.mp3" type="audio/mpeg" length="215352449" />
-    <guid isPermaLink="true">http://trekin.space/PR3/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR3/</guid>
     <pubDate>Fri, 28 Feb 2020 23:30:00 +0800</pubDate>
     <itunes:duration>5382</itunes:duration>
-    <link>http://trekin.space/PR3/</link>
+    <link>http://localhost:4000/PR3/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 4, 5 集剧评。随着剧情的逐渐展开，上集剧评讨论时的猜测逐渐得到证实。欢迎收听，跟我们一起神预言。</p>
 
@@ -1313,10 +1313,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group76/M06/10/5B/wKgO1F5GxK7gfvsDAAGayYHWCUU571.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/02/15/5094282596769991302_ud.mp3" type="audio/mpeg" length="173185584" />
-    <guid isPermaLink="true">http://trekin.space/PR2/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR2/</guid>
     <pubDate>Sat, 15 Feb 2020 00:03:00 +0800</pubDate>
     <itunes:duration>4328</itunes:duration>
-    <link>http://trekin.space/PR2/</link>
+    <link>http://localhost:4000/PR2/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 2, 3 集剧评。皮卡德将军找到了船，与几个队友一起踏上最后的旅程，本剧第一篇章结束。理清了一些问题的同时，该剧向观众抛出更多的问题，罗姆兰神秘的特工组织 Zhat Vash 背后的阴谋是什么？《皮卡德》剧集会跟《发现号》联动嘛？</p>
 
@@ -1389,10 +1389,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group71/M0A/24/43/wKgO2V41GOyxXULZABJzVhkDde4150.png"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/02/01/5091795660382666374_ud.mp3" type="audio/mpeg" length="258533890" />
-    <guid isPermaLink="true">http://trekin.space/PR1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/PR1/</guid>
     <pubDate>Sat, 01 Feb 2020 14:22:00 +0800</pubDate>
     <itunes:duration>6462</itunes:duration>
-    <link>http://trekin.space/PR1/</link>
+    <link>http://localhost:4000/PR1/</link>
     <description>
 	<![CDATA[<p>《星际迷航：皮卡德》第一季第 1 集剧评，我们带来的是接近两小时的彩虹屁，很香速吸。</p>
 
@@ -1478,10 +1478,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group70/M0B/C7/8E/wKgO2F4wTyzwA6n3ABp40Z74tP8271.png"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/01/28/5091121969665837062_ud.mp3" type="audio/mpeg" length="261085541" />
-    <guid isPermaLink="true">http://trekin.space/71/</guid>
+    <guid isPermaLink="true">http://localhost:4000/71/</guid>
     <pubDate>Tue, 28 Jan 2020 23:11:00 +0800</pubDate>
     <itunes:duration>6525</itunes:duration>
-    <link>http://trekin.space/71/</link>
+    <link>http://localhost:4000/71/</link>
     <description>
 	<![CDATA[<p>本期是皮卡先导短途《火星的孩子》（"Children of Mars" ST 2x06）的剧评。节目包含一场关于 AI 的大讨论，以及皮卡剧的预测。</p>
 
@@ -1536,10 +1536,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2020/01/05/5086848560284994694_ud.mp3" type="audio/mpeg" length="3493100" />
-    <guid isPermaLink="true">http://trekin.space/SP11/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP11/</guid>
     <pubDate>Sun, 05 Jan 2020 22:27:00 +0800</pubDate>
     <itunes:duration>86</itunes:duration>
-    <link>http://trekin.space/SP11/</link>
+    <link>http://localhost:4000/SP11/</link>
     <description>
 	<![CDATA[<p>音频录制于北京，2020年1月5日。</p>
 
@@ -1563,10 +1563,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group72/M0B/09/DA/wKgO0F4IvYqTik_7ABRpl1pZpK4531.png"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/12/29/5085555183096547334_ud.mp3" type="audio/mpeg" length="174968170" />
-    <guid isPermaLink="true">http://trekin.space/70/</guid>
+    <guid isPermaLink="true">http://localhost:4000/70/</guid>
     <pubDate>Sun, 29 Dec 2019 22:41:00 +0800</pubDate>
     <itunes:duration>4372</itunes:duration>
-    <link>http://trekin.space/70/</link>
+    <link>http://localhost:4000/70/</link>
     <description>
 	<![CDATA[<p>对星战粉丝被利用情怀割韭菜表示同病相怜，同时对星际迷航 IP 的未来充满期待。</p>
 
@@ -1604,10 +1604,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group70/M03/67/1E/wKgO2F4Gyn2hY2JRAAJNyOuCXwU052.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/12/28/5085278605855824518_ud.mp3" type="audio/mpeg" length="104710278" />
-    <guid isPermaLink="true">http://trekin.space/69/</guid>
+    <guid isPermaLink="true">http://localhost:4000/69/</guid>
     <pubDate>Sat, 28 Dec 2019 11:23:00 +0800</pubDate>
     <itunes:duration>2616</itunes:duration>
-    <link>http://trekin.space/69/</link>
+    <link>http://localhost:4000/69/</link>
     <description>
 	<![CDATA[<p>看到标题，想必你已经知道我们要聊什么了，星际迷航宇宙最萌的毛球。</p>
 
@@ -1639,10 +1639,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href="http://fdfs.xmcdn.com/group69/M07/21/D3/wKgMb13YFmWATVNSAAj9r1-Ucng407.jpg"></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/11/23/5078706520588783110_ud.mp3" type="audio/mpeg" length="192170323" />
-    <guid isPermaLink="true">http://trekin.space/68/</guid>
+    <guid isPermaLink="true">http://localhost:4000/68/</guid>
     <pubDate>Sat, 23 Nov 2019 01:10:00 +0800</pubDate>
     <itunes:duration>4802</itunes:duration>
-    <link>http://trekin.space/68/</link>
+    <link>http://localhost:4000/68/</link>
     <description>
 	<![CDATA[<p>这期节目聊的是《皮卡德自传》<a href="https://memory-alpha.fandom.com/wiki/The_Autobiography_of_Jean-Luc_Picard"><em>The Autobiography of Jean Luc Picard</em></a>，作为人类模范人物的皮卡德船长，他有怎样的早年生活呢？影响他性格的人生转折是什么？</p>
 
@@ -1674,10 +1674,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/10/15/5071640255034351238_ud.mp3" type="audio/mpeg" length="80761217" />
-    <guid isPermaLink="true">http://trekin.space/67/</guid>
+    <guid isPermaLink="true">http://localhost:4000/67/</guid>
     <pubDate>Tue, 15 Oct 2019 23:18:00 +0800</pubDate>
     <itunes:duration>2017</itunes:duration>
-    <link>http://trekin.space/67/</link>
+    <link>http://localhost:4000/67/</link>
     <description>
 	<![CDATA[<p>聊聊最近两集的短途 2x01 "<a href="https://memory-alpha.fandom.com/wiki/Q%26A_(episode)">Q&amp;A</a>"、2x02 "<a href="https://memory-alpha.fandom.com/wiki/The_Trouble_with_Edward_(episode)">The Trouble with Edward</a>"。</p>
 
@@ -1716,10 +1716,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/09/21/5067018525153471494_ud.mp3" type="audio/mpeg" length="404095491" />
-    <guid isPermaLink="true">http://trekin.space/66/</guid>
+    <guid isPermaLink="true">http://localhost:4000/66/</guid>
     <pubDate>Sat, 21 Sep 2019 01:28:00 +0800</pubDate>
     <itunes:duration>10101</itunes:duration>
-    <link>http://trekin.space/66/</link>
+    <link>http://localhost:4000/66/</link>
     <description>
 	<![CDATA[<p>DS9 相关的纪录片《我们留下了什么：回顾&lt;星际迷航：深空九号&gt;》（<a href="https://ds9documentary.com/"><em>What We Left Behind: Looking Back at Star Trek: Deep Space Nine</em></a>）资源已出，我们这期聊观后感受，顺便讲讲近期新闻。</p>
 
@@ -1757,10 +1757,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/07/31/5057535022614626310_ud.mp3" type="audio/mpeg" length="263184743" />
-    <guid isPermaLink="true">http://trekin.space/65/</guid>
+    <guid isPermaLink="true">http://localhost:4000/65/</guid>
     <pubDate>Wed, 31 Jul 2019 22:45:00 +0800</pubDate>
     <itunes:duration>6578</itunes:duration>
-    <link>http://trekin.space/65/</link>
+    <link>http://localhost:4000/65/</link>
     <description>
 	<![CDATA[<p>这期是对San Diego Comic Con放出的新闻的一些讨论，欢迎收听。</p>
 
@@ -1798,10 +1798,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/07/28/5056981959816756870_ud.mp3" type="audio/mpeg" length="373454904" />
-    <guid isPermaLink="true">http://trekin.space/64/</guid>
+    <guid isPermaLink="true">http://localhost:4000/64/</guid>
     <pubDate>Sun, 28 Jul 2019 23:37:00 +0800</pubDate>
     <itunes:duration>9335</itunes:duration>
-    <link>http://trekin.space/64/</link>
+    <link>http://localhost:4000/64/</link>
     <description>
 	<![CDATA[<p>为什么星际迷航中的外星生物大多数是类人生物，到底是人性的扭曲还是道德的沦丧，迷于星际播客带您走进物种起源背后的故事……</p>
 
@@ -1843,10 +1843,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/06/13/5048456376581571078_ud.mp3" type="audio/mpeg" length="305650439" />
-    <guid isPermaLink="true">http://trekin.space/63/</guid>
+    <guid isPermaLink="true">http://localhost:4000/63/</guid>
     <pubDate>Thu, 13 Jun 2019 00:26:00 +0800</pubDate>
     <itunes:duration>7639</itunes:duration>
-    <link>http://trekin.space/63/</link>
+    <link>http://localhost:4000/63/</link>
     <description>
 	<![CDATA[<p>为迎接皮卡剧 <a href="https://memory-alpha.fandom.com/wiki/Star_Trek:_Picard"><em>Star Trek: Picard</em></a>，本期我们复习了一下瓦肯&amp;罗慕兰的历史的相关剧集。</p>
 
@@ -1908,10 +1908,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://trekin.space/audio/LostInTrek_SP10.mp3" type="audio/mpeg" length="2023705" />
-    <guid isPermaLink="true">http://trekin.space/SP10/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP10/</guid>
     <pubDate>Mon, 10 Jun 2019 23:09:00 +0800</pubDate>
     <itunes:duration>83</itunes:duration>
-    <link>http://trekin.space/SP10/</link>
+    <link>http://localhost:4000/SP10/</link>
     <description>
 	<![CDATA[<p>音频录制于北京八大处大悲寺，2019年6月9日。</p>
 
@@ -1945,10 +1945,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/04/5041158172869996166_ud.mp3" type="audio/mpeg" length="108072806" />
-    <guid isPermaLink="true">http://trekin.space/CM15/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM15/</guid>
     <pubDate>Sat, 04 May 2019 16:25:00 +0800</pubDate>
     <itunes:duration>2700</itunes:duration>
-    <link>http://trekin.space/CM15/</link>
+    <link>http://localhost:4000/CM15/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -1976,10 +1976,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/04/5041147826293415558_ud.mp3" type="audio/mpeg" length="116189563" />
-    <guid isPermaLink="true">http://trekin.space/CM14/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM14/</guid>
     <pubDate>Sat, 04 May 2019 15:05:00 +0800</pubDate>
     <itunes:duration>2903</itunes:duration>
-    <link>http://trekin.space/CM14/</link>
+    <link>http://localhost:4000/CM14/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -2007,10 +2007,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5041030337323805190_ud.mp3" type="audio/mpeg" length="104254750" />
-    <guid isPermaLink="true">http://trekin.space/CM13/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM13/</guid>
     <pubDate>Fri, 03 May 2019 23:48:00 +0800</pubDate>
     <itunes:duration>2605</itunes:duration>
-    <link>http://trekin.space/CM13/</link>
+    <link>http://localhost:4000/CM13/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -2038,10 +2038,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5041023259215317510_ud.mp3" type="audio/mpeg" length="89534228" />
-    <guid isPermaLink="true">http://trekin.space/CM12/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM12/</guid>
     <pubDate>Fri, 03 May 2019 22:55:00 +0800</pubDate>
     <itunes:duration>2237</itunes:duration>
-    <link>http://trekin.space/CM12/</link>
+    <link>http://localhost:4000/CM12/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -2069,10 +2069,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5041018605620061190_ud.mp3" type="audio/mpeg" length="116665012" />
-    <guid isPermaLink="true">http://trekin.space/CM11/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM11/</guid>
     <pubDate>Fri, 03 May 2019 22:19:00 +0800</pubDate>
     <itunes:duration>2915</itunes:duration>
-    <link>http://trekin.space/CM11/</link>
+    <link>http://localhost:4000/CM11/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -2101,10 +2101,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/03/5040964055380699270_ud.mp3" type="audio/mpeg" length="364131284" />
-    <guid isPermaLink="true">http://trekin.space/DR25/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR25/</guid>
     <pubDate>Fri, 03 May 2019 15:14:00 +0800</pubDate>
     <itunes:duration>9101</itunes:duration>
-    <link>http://trekin.space/DR25/</link>
+    <link>http://localhost:4000/DR25/</link>
     <description>
 	<![CDATA[<p>发现号第二季的最后一次剧评了，以后谁再跟我提发现号就是叛国了。</p>
 
@@ -2164,10 +2164,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/05/02/5040821692107648006_ud.mp3" type="audio/mpeg" length="183855039" />
-    <guid isPermaLink="true">http://trekin.space/DR24/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR24/</guid>
     <pubDate>Thu, 02 May 2019 20:50:00 +0800</pubDate>
     <itunes:duration>4595</itunes:duration>
-    <link>http://trekin.space/DR24/</link>
+    <link>http://localhost:4000/DR24/</link>
     <description>
 	<![CDATA[<p>"<a href="https://memory-alpha.fandom.com/wiki/Perpetual_Infinity_(episode)"><em>Perpetual Infinity</em></a>" DIS 2x11剧评。漏洞多的跟筛子一样，爱咋咋地吧💊。</p>
 
@@ -2199,10 +2199,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/04/26/5039549941552257030_ud.mp3" type="audio/mpeg" length="145982702" />
-    <guid isPermaLink="true">http://trekin.space/DR23/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR23/</guid>
     <pubDate>Fri, 26 Apr 2019 00:32:00 +0800</pubDate>
     <itunes:duration>3648</itunes:duration>
-    <link>http://trekin.space/DR23/</link>
+    <link>http://localhost:4000/DR23/</link>
     <description>
 	<![CDATA[<p>发现号 DIS 2x10 "The Red Angel" 剧评。</p>
 
@@ -2232,10 +2232,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/04/07/5036184184129363078_ud.mp3" type="audio/mpeg" length="350897667" />
-    <guid isPermaLink="true">http://trekin.space/DR22/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR22/</guid>
     <pubDate>Sun, 07 Apr 2019 21:02:00 +0800</pubDate>
     <itunes:duration>8771</itunes:duration>
-    <link>http://trekin.space/DR22/</link>
+    <link>http://localhost:4000/DR22/</link>
     <description>
 	<![CDATA[<p>我们想对90分的作文进行赏析，结果发现号交出的是60分不到的答卷，我们也只能改改标点、找找错别字了。</p>
 
@@ -2266,10 +2266,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/04/04/5035644237879231494_ud.mp3" type="audio/mpeg" length="365502198" />
-    <guid isPermaLink="true">http://trekin.space/DR21/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR21/</guid>
     <pubDate>Thu, 04 Apr 2019 23:12:00 +0800</pubDate>
     <itunes:duration>9136</itunes:duration>
-    <link>http://trekin.space/DR21/</link>
+    <link>http://localhost:4000/DR21/</link>
     <description>
 	<![CDATA[<p>红酥手，黄藤酒，满城春色宫墙柳。徘徊民政局路口，罢了还是往回走。滴蜡皮鞭家暴久，甜言蜜语只是昔日有，姻缘要续还靠浇愁酒。</p>
 
@@ -2306,10 +2306,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/03/31/5034732197420970630_ud.mp3" type="audio/mpeg" length="177490576" />
-    <guid isPermaLink="true">http://trekin.space/DR20/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR20/</guid>
     <pubDate>Sun, 31 Mar 2019 10:07:00 +0800</pubDate>
     <itunes:duration>4435</itunes:duration>
-    <link>http://trekin.space/DR20/</link>
+    <link>http://localhost:4000/DR20/</link>
     <description>
 	<![CDATA[<p>本集为DIS 2x07 "Light and Shadows" 剧评。不再探索新奇生命体的迷航，甚至开起了女性议题上的倒车。</p>
 
@@ -2339,10 +2339,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/03/11/5031195680408454662_ud.mp3" type="audio/mpeg" length="493790589" />
-    <guid isPermaLink="true">http://trekin.space/DR19/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR19/</guid>
     <pubDate>Mon, 11 Mar 2019 23:42:00 +0800</pubDate>
     <itunes:duration>12343</itunes:duration>
-    <link>http://trekin.space/DR19/</link>
+    <link>http://localhost:4000/DR19/</link>
     <description>
 	<![CDATA[<p>本集为 "The Sound of Thunder" <a href="https://memory-alpha.fandom.com/wiki/DIS">DIS</a> <a href="https://memory-alpha.fandom.com/wiki/DIS_Season_2">2x06</a> 剧评。时长过长，一次听不完可使用下面 时间-话题 对应列表进行索引。虽然有点长，但是真的值得听（自我感觉良好），我们的猜测可是很准的。</p>
 
@@ -2396,10 +2396,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/24/5028357372743216646_ud.mp3" type="audio/mpeg" length="205482345" />
-    <guid isPermaLink="true">http://trekin.space/DR18/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR18/</guid>
     <pubDate>Sun, 24 Feb 2019 18:38:00 +0800</pubDate>
     <itunes:duration>5135</itunes:duration>
-    <link>http://trekin.space/DR18/</link>
+    <link>http://localhost:4000/DR18/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20190218，主播：<a href="mailto:deepthought@trekin.space">深思</a>|<a href="http://weibo.com/u/5013547255">瓦肯蔬菜汤</a>|<a href="https://weibo.com/u/5113590549">大腐</a></p>
 
@@ -2434,10 +2434,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/24/5028232717760046086_ud.mp3" type="audio/mpeg" length="180614806" />
-    <guid isPermaLink="true">http://trekin.space/DR17/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR17/</guid>
     <pubDate>Sun, 24 Feb 2019 00:37:00 +0800</pubDate>
     <itunes:duration>4514</itunes:duration>
-    <link>http://trekin.space/DR17/</link>
+    <link>http://localhost:4000/DR17/</link>
     <description>
 	<![CDATA[<p>本集为 "<a href="https://memory-alpha.fandom.com/wiki/An_Obol_for_Charon_(episode)">An Obol for Charon</a>" DIS 2x04 剧评。</p>
 
@@ -2479,10 +2479,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/04/5024600560694716038_ud.mp3" type="audio/mpeg" length="278797622" />
-    <guid isPermaLink="true">http://trekin.space/DR16/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR16/</guid>
     <pubDate>Mon, 04 Feb 2019 10:31:00 +0800</pubDate>
     <itunes:duration>6968</itunes:duration>
-    <link>http://trekin.space/DR16/</link>
+    <link>http://localhost:4000/DR16/</link>
     <description>
 	<![CDATA[<p>跟迷航的感情生活再次出现情感危机，家暴现场惨不忍睹，蜜月后立即找小三奥维尔寻求安慰？</p>
 
@@ -2548,10 +2548,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/02/02/5024226340053485574_ud.mp3" type="audio/mpeg" length="330191959" />
-    <guid isPermaLink="true">http://trekin.space/DR15/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR15/</guid>
     <pubDate>Sat, 02 Feb 2019 10:26:00 +0800</pubDate>
     <itunes:duration>8253</itunes:duration>
-    <link>http://trekin.space/DR15/</link>
+    <link>http://localhost:4000/DR15/</link>
     <description>
 	<![CDATA[<p>欢迎收听年度情感大戏——《迷航婚姻保卫战》系列之二：跟星际迷航床头吵架床尾和。</p>
 
@@ -2595,10 +2595,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/21/5021927415999022726_ud.mp3" type="audio/mpeg" length="289960255" />
-    <guid isPermaLink="true">http://trekin.space/DR14/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR14/</guid>
     <pubDate>Mon, 21 Jan 2019 01:01:00 +0800</pubDate>
     <itunes:duration>7247</itunes:duration>
-    <link>http://trekin.space/DR14/</link>
+    <link>http://localhost:4000/DR14/</link>
     <description>
 	<![CDATA[<p>发现号第二季首播集评论，总结了这一集的少许优点，对更多的缺点进行了吐槽，还有本季走向的预测。欢迎收听。</p>
 
@@ -2646,10 +2646,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/19/5021658435081752710_ud.mp3" type="audio/mpeg" length="220648002" />
-    <guid isPermaLink="true">http://trekin.space/62/</guid>
+    <guid isPermaLink="true">http://localhost:4000/62/</guid>
     <pubDate>Sat, 19 Jan 2019 14:11:00 +0800</pubDate>
     <itunes:duration>5514</itunes:duration>
-    <link>http://trekin.space/62/</link>
+    <link>http://localhost:4000/62/</link>
     <description>
 	<![CDATA[<p>Mudd 重新登场，Mudd 重新登场，Mudd 重新登场，在不同的空间，不同的时间。</p>
 
@@ -2713,10 +2713,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/14/5020800751448689158_ud.mp3" type="audio/mpeg" length="89001278" />
-    <guid isPermaLink="true">http://trekin.space/61/</guid>
+    <guid isPermaLink="true">http://localhost:4000/61/</guid>
     <pubDate>Mon, 14 Jan 2019 23:09:00 +0800</pubDate>
     <itunes:duration>2223</itunes:duration>
-    <link>http://trekin.space/61/</link>
+    <link>http://localhost:4000/61/</link>
     <description>
 	<![CDATA[<p>三位心忧天下的宝宝从如何卖星际迷航安利讲到星际迷航给自己洗进脑袋的国际主义精神。</p>
 
@@ -2752,10 +2752,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/01/5018355184185607174_ud.mp3" type="audio/mpeg" length="144177189" />
-    <guid isPermaLink="true">http://trekin.space/60/</guid>
+    <guid isPermaLink="true">http://localhost:4000/60/</guid>
     <pubDate>Tue, 01 Jan 2019 19:15:00 +0800</pubDate>
     <itunes:duration>3603</itunes:duration>
-    <link>http://trekin.space/60/</link>
+    <link>http://localhost:4000/60/</link>
     <description>
 	<![CDATA[<p>本期节目我们请 <a href="https://www.blogger.com/profile/05354194503115467537">Horatio Martin</a> 介绍了粉丝作品聚合站 <a href="http://startrekreviewed.blogspot.com/">Star Trek Reviewed</a>（墙外），该站专门收集与评论星际迷航粉丝作品，Martin 系该站资源搜集与维护者之一。</p>
 
@@ -2785,10 +2785,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2019/01/01/5018218580742342278_ud.mp3" type="audio/mpeg" length="223031388" />
-    <guid isPermaLink="true">http://trekin.space/59/</guid>
+    <guid isPermaLink="true">http://localhost:4000/59/</guid>
     <pubDate>Tue, 01 Jan 2019 01:13:00 +0800</pubDate>
     <itunes:duration>5574</itunes:duration>
-    <link>http://trekin.space/59/</link>
+    <link>http://localhost:4000/59/</link>
     <description>
 	<![CDATA[<p>本集是 <a href="http://memory-alpha.wikia.com/wiki/ST">Short Trek</a><a href="http://memory-alpha.wikia.com/wiki/ST_Season_1">1x03</a> <strong>"</strong> <a href="http://memory-alpha.wikia.com/wiki/The_Brightest_Star_(episode)"><strong>The Brightest Star</strong></a> <strong>"</strong> 的剧评，主要围绕这一集的设定展开讨论。</p>
 
@@ -2837,10 +2837,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/31/5018029185570332806_ud.mp3" type="audio/mpeg" length="143255535" />
-    <guid isPermaLink="true">http://trekin.space/DR13/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR13/</guid>
     <pubDate>Mon, 31 Dec 2018 00:36:00 +0800</pubDate>
     <itunes:duration>3580</itunes:duration>
-    <link>http://trekin.space/DR13/</link>
+    <link>http://localhost:4000/DR13/</link>
     <description>
 	<![CDATA[<p>多分几次就知道了。</p>
 
@@ -2870,10 +2870,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/30/5017976136281628806_ud.mp3" type="audio/mpeg" length="173865807" />
-    <guid isPermaLink="true">http://trekin.space/DR12/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR12/</guid>
     <pubDate>Sun, 30 Dec 2018 17:48:00 +0800</pubDate>
     <itunes:duration>4345</itunes:duration>
-    <link>http://trekin.space/DR12/</link>
+    <link>http://localhost:4000/DR12/</link>
     <description>
 	<![CDATA[<p>本集是 <strong>"What's Past Is Prologue"</strong> <a href="http://memory-alpha.wikia.com/wiki/DIS">DIS</a><a href="http://memory-alpha.wikia.com/wiki/DIS_Season_1">1x13</a>的剧情讨论。</p>
 
@@ -2907,10 +2907,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/30/5017840604153490950_ud.mp3" type="audio/mpeg" length="101136737" />
-    <guid isPermaLink="true">http://trekin.space/DR11/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR11/</guid>
     <pubDate>Sun, 30 Dec 2018 00:36:00 +0800</pubDate>
     <itunes:duration>2527</itunes:duration>
-    <link>http://trekin.space/DR11/</link>
+    <link>http://localhost:4000/DR11/</link>
     <description>
 	<![CDATA[<p>本集为 <strong>"Vaulting Ambition"</strong> <a href="http://memory-alpha.wikia.com/wiki/DIS">DIS</a><a href="http://memory-alpha.wikia.com/wiki/DIS_Season_1">1x12</a> 的剧评，讨论了镜像宇宙一些人物的动机。</p>
 
@@ -2938,10 +2938,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/29/5017818010478118406_ud.mp3" type="audio/mpeg" length="179925180" />
-    <guid isPermaLink="true">http://trekin.space/DR10/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR10/</guid>
     <pubDate>Sat, 29 Dec 2018 22:17:00 +0800</pubDate>
     <itunes:duration>4496</itunes:duration>
-    <link>http://trekin.space/DR10/</link>
+    <link>http://localhost:4000/DR10/</link>
     <description>
 	<![CDATA[<p>本期为"The Wolf Inside" <a href="http://memory-alpha.wikia.com/wiki/DIS">DIS</a><a href="http://memory-alpha.wikia.com/wiki/DIS_Season_1">1x11</a> 观后感与脑洞，很多脑洞都很高能而且都成真了，可惜发布时间晚了一年，欢迎收听。</p>
 
@@ -2973,10 +2973,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/22/5016467683497383430_ud.mp3" type="audio/mpeg" length="119353534" />
-    <guid isPermaLink="true">http://trekin.space/CM10/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM10/</guid>
     <pubDate>Sat, 22 Dec 2018 14:44:00 +0800</pubDate>
     <itunes:duration>2982</itunes:duration>
-    <link>http://trekin.space/CM10/</link>
+    <link>http://localhost:4000/CM10/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -3004,10 +3004,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/22/5016450896757827206_ud.mp3" type="audio/mpeg" length="111623329" />
-    <guid isPermaLink="true">http://trekin.space/CM9/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM9/</guid>
     <pubDate>Sat, 22 Dec 2018 12:49:00 +0800</pubDate>
     <itunes:duration>2789</itunes:duration>
-    <link>http://trekin.space/CM9/</link>
+    <link>http://localhost:4000/CM9/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -3036,10 +3036,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/21/5016352973509633542_ud.mp3" type="audio/mpeg" length="98172399" />
-    <guid isPermaLink="true">http://trekin.space/CM8/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM8/</guid>
     <pubDate>Sat, 22 Dec 2018 10:24:00 +0800</pubDate>
     <itunes:duration>2452</itunes:duration>
-    <link>http://trekin.space/CM8/</link>
+    <link>http://localhost:4000/CM8/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，听我们口令一起按播放，边播边听。</p>
 
@@ -3068,10 +3068,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/17/5015595942715373702_ud.mp3" type="audio/mpeg" length="140482368" />
-    <guid isPermaLink="true">http://trekin.space/58/</guid>
+    <guid isPermaLink="true">http://localhost:4000/58/</guid>
     <pubDate>Mon, 17 Dec 2018 21:52:00 +0800</pubDate>
     <itunes:duration>3510</itunes:duration>
-    <link>http://trekin.space/58/</link>
+    <link>http://localhost:4000/58/</link>
     <description>
 	<![CDATA[<p>这期是我们对 Short Trek 短途 1x02 <a href="http://memory-alpha.wikia.com/wiki/Calypso_(episode)">Calypso</a>的一些脑洞。</p>
 
@@ -3111,10 +3111,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/12/16/5015395178763234950_ud.mp3" type="audio/mpeg" length="380352296" />
-    <guid isPermaLink="true">http://trekin.space/57/</guid>
+    <guid isPermaLink="true">http://localhost:4000/57/</guid>
     <pubDate>Sun, 16 Dec 2018 20:17:00 +0800</pubDate>
     <itunes:duration>9507</itunes:duration>
-    <link>http://trekin.space/57/</link>
+    <link>http://localhost:4000/57/</link>
     <description>
 	<![CDATA[<p><a href="https://weibo.com/lunaliang1029">玖凉豆浆机 与</a><a href="http://weibo.com/u/3044338061">舟中小卒</a>给我们带来他们参加 <a href="http://www.destinationstartrek.com/">DST</a>与 <a href="https://www.creationent.com/cal/st_lasvegas.html">STLV</a>展会的分享，从参展见闻到攻略应有尽有，后面还聚众吸了小鲜肉和毛球。</p>
 
@@ -3201,10 +3201,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/11/26/5011709611351389702_ud.mp3" type="audio/mpeg" length="70794978" />
-    <guid isPermaLink="true">http://trekin.space/56/</guid>
+    <guid isPermaLink="true">http://localhost:4000/56/</guid>
     <pubDate>Mon, 26 Nov 2018 23:13:00 +0800</pubDate>
     <itunes:duration>1768</itunes:duration>
-    <link>http://trekin.space/56/</link>
+    <link>http://localhost:4000/56/</link>
     <description>
 	<![CDATA[<p><a href="http://memory-alpha.wikia.com/wiki/Star_Trek%3A_Short_Treks">Star Trek: Short Treks</a> 系列第一集 <a href="http://memory-alpha.wikia.com/wiki/Runaway_(episode)">Runaway</a> 的剧评</p>
 
@@ -3236,10 +3236,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/10/22/2699363854151766534_ud.mp3" type="audio/mpeg" length="153369084" />
-    <guid isPermaLink="true">http://trekin.space/55/</guid>
+    <guid isPermaLink="true">http://localhost:4000/55/</guid>
     <pubDate>Mon, 22 Oct 2018 20:06:00 +0800</pubDate>
     <itunes:duration>3832</itunes:duration>
-    <link>http://trekin.space/55/</link>
+    <link>http://localhost:4000/55/</link>
     <description>
 	<![CDATA[<p>本期我们一边看剧一边玩喝酒游戏（Drinking Game），收听前请准备好 <strong>"Body Parts"</strong> <a href="http://memory-alpha.wikia.com/wiki/DS9">DS9</a><a href="http://memory-alpha.wikia.com/wiki/DS9_Season_4">4x25</a>，并配备上好的罗慕兰麦芽酒，可以来点瓜子花生八宝粥。提醒一下开船不喝酒喝酒不开船，各位坚守舵手岗位的亲们可以准备根汽水/克林贡咖啡等饮品。</p>
 
@@ -3320,10 +3320,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/10/06/2696397062541999622_ud.mp3" type="audio/mpeg" length="1497355" />
-    <guid isPermaLink="true">http://trekin.space/SP9/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP9/</guid>
     <pubDate>Sat, 06 Oct 2018 22:21:00 +0800</pubDate>
     <itunes:duration>36</itunes:duration>
-    <link>http://trekin.space/SP9/</link>
+    <link>http://localhost:4000/SP9/</link>
     <description>
 	<![CDATA[<p>音频录制于昆明桃源广场，2018年9月30日晚。</p>
 
@@ -3349,10 +3349,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/09/09/2691348300565280774_ud.mp3" type="audio/mpeg" length="164419947" />
-    <guid isPermaLink="true">http://trekin.space/54/</guid>
+    <guid isPermaLink="true">http://localhost:4000/54/</guid>
     <pubDate>Sun, 09 Sep 2018 17:16:00 +0800</pubDate>
     <itunes:duration>4109</itunes:duration>
-    <link>http://trekin.space/54/</link>
+    <link>http://localhost:4000/54/</link>
     <description>
 	<![CDATA[<p><strong>"In the Pale Moonlight"</strong> <a href="http://memory-alpha.wikia.com/wiki/DS9">DS9</a><a href="http://memory-alpha.wikia.com/wiki/DS9_Season_6">6x19</a> 剧评。这集非常黑。</p>
 
@@ -3406,10 +3406,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/09/07/2690994839788674054_ud.mp3" type="audio/mpeg" length="113698512" />
-    <guid isPermaLink="true">http://trekin.space/53/</guid>
+    <guid isPermaLink="true">http://localhost:4000/53/</guid>
     <pubDate>Fri, 07 Sep 2018 19:32:00 +0800</pubDate>
     <itunes:duration>2841</itunes:duration>
-    <link>http://trekin.space/53/</link>
+    <link>http://localhost:4000/53/</link>
     <description>
 	<![CDATA[<p>老骨头给自己打了一针后，一个比 Siri 还傲娇的门将主角们带到了1930年代的地球，多亏了能干的 Spock 才捋清楚问题在哪，而 Kirk 本集全程把妹……</p>
 
@@ -3456,10 +3456,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/09/02/2690013289438725638_ud.mp3" type="audio/mpeg" length="143589892" />
-    <guid isPermaLink="true">http://trekin.space/52/</guid>
+    <guid isPermaLink="true">http://localhost:4000/52/</guid>
     <pubDate>Sun, 02 Sep 2018 12:36:00 +0800</pubDate>
     <itunes:duration>3588</itunes:duration>
-    <link>http://trekin.space/52/</link>
+    <link>http://localhost:4000/52/</link>
     <description>
 	<![CDATA[<p>想蹭热点聊《头号玩家》，可惜由于拖延症没蹭成。</p>
 
@@ -3495,10 +3495,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/08/26/2688800927546983942_ud.mp3" type="audio/mpeg" length="270280647" />
-    <guid isPermaLink="true">http://trekin.space/51/</guid>
+    <guid isPermaLink="true">http://localhost:4000/51/</guid>
     <pubDate>Sun, 26 Aug 2018 23:45:00 +0800</pubDate>
     <itunes:duration>6755</itunes:duration>
-    <link>http://trekin.space/51/</link>
+    <link>http://localhost:4000/51/</link>
     <description>
 	<![CDATA[<p>本期采访了《星际迷航每周推思》的作者舟中小卒。</p>
 
@@ -3550,10 +3550,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/08/05/2684848973518137350_ud.mp3" type="audio/mpeg" length="29365818" />
-    <guid isPermaLink="true">http://trekin.space/SP8/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP8/</guid>
     <pubDate>Sun, 05 Aug 2018 16:31:00 +0800</pubDate>
     <itunes:duration>732</itunes:duration>
-    <link>http://trekin.space/SP8/</link>
+    <link>http://localhost:4000/SP8/</link>
     <description>
 	<![CDATA[<p>号外号外，皮皮复出啦。</p>
 
@@ -3600,10 +3600,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/07/28/2683399752768376838_ud.mp3" type="audio/mpeg" length="87132036" />
-    <guid isPermaLink="true">http://trekin.space/RR1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/RR1/</guid>
     <pubDate>Sat, 28 Jul 2018 21:06:00 +0800</pubDate>
     <itunes:duration>2176</itunes:duration>
-    <link>http://trekin.space/RR1/</link>
+    <link>http://localhost:4000/RR1/</link>
     <description>
 	<![CDATA[<p>Starting a new podcast category now where we post after shows during <a href="http://trekin.space/call_for_videos_en/">TReK'd</a> production, as it's now back to warp speed after some resource problem and the C&amp;D from CBS/Paramount.</p>
 
@@ -3650,10 +3650,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/07/07/2679470708095251462_ud.mp3" type="audio/mpeg" length="226785705" />
-    <guid isPermaLink="true">http://trekin.space/SP7/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP7/</guid>
     <pubDate>Sat, 07 Jul 2018 16:53:00 +0800</pubDate>
     <itunes:duration>5668</itunes:duration>
-    <link>http://trekin.space/SP7/</link>
+    <link>http://localhost:4000/SP7/</link>
     <description>
 	<![CDATA[<p>当年的2B铅笔是否还能涂对瓦肯语全球Ⅰ卷的答题卡，当年的中性黑色墨水签字笔是否还能默写出Cochrane方程？迷于星际主播们带你回顾古老的东方每年6月举办的一场神奇的考试。</p>
 
@@ -3681,10 +3681,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/27/2671834234666071558_ud.mp3" type="audio/mpeg" length="189818262" />
-    <guid isPermaLink="true">http://trekin.space/50/</guid>
+    <guid isPermaLink="true">http://localhost:4000/50/</guid>
     <pubDate>Sun, 27 May 2018 12:59:00 +0800</pubDate>
     <itunes:duration>4744</itunes:duration>
-    <link>http://trekin.space/50/</link>
+    <link>http://localhost:4000/50/</link>
     <description>
 	<![CDATA[<p>作为「 <a href="http://trekin.space/">一档适合星际旅行时收听的聊天节目</a>」，我们开播两周年（半）了。</p>
 
@@ -3750,10 +3750,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/02/2667096849230915078_ud.mp3" type="audio/mpeg" length="105672735" />
-    <guid isPermaLink="true">http://trekin.space/49/</guid>
+    <guid isPermaLink="true">http://localhost:4000/49/</guid>
     <pubDate>Wed, 02 May 2018 00:21:30 +0800</pubDate>
     <itunes:duration>2640</itunes:duration>
-    <link>http://trekin.space/49/</link>
+    <link>http://localhost:4000/49/</link>
     <description>
 	<![CDATA[<p>In this episode we talked about the TOS episode, 3x13 "Wink of an Eye".</p>
 
@@ -3781,10 +3781,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/02/2667096617302664710_ud.mp3" type="audio/mpeg" length="95478607" />
-    <guid isPermaLink="true">http://trekin.space/48/</guid>
+    <guid isPermaLink="true">http://localhost:4000/48/</guid>
     <pubDate>Wed, 02 May 2018 00:21:00 +0800</pubDate>
     <itunes:duration>2385</itunes:duration>
-    <link>http://trekin.space/48/</link>
+    <link>http://localhost:4000/48/</link>
     <description>
 	<![CDATA[<p>本集是 VOY 6x12 Blink of an Eye 剧评。标题语出剧中 Naomi Wildman 对这颗星球的概括。</p>
 
@@ -3832,10 +3832,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/02/2667096456241383430_ud.mp3" type="audio/mpeg" length="137803311" />
-    <guid isPermaLink="true">http://trekin.space/47/</guid>
+    <guid isPermaLink="true">http://localhost:4000/47/</guid>
     <pubDate>Wed, 02 May 2018 00:18:00 +0800</pubDate>
     <itunes:duration>3443</itunes:duration>
-    <link>http://trekin.space/47/</link>
+    <link>http://localhost:4000/47/</link>
     <description>
 	<![CDATA[<p>DS9 5x22 Children of Time 剧评。</p>
 
@@ -3885,10 +3885,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/05/01/2667026093939036678_ud.mp3" type="audio/mpeg" length="178871921" />
-    <guid isPermaLink="true">http://trekin.space/DR9/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR9/</guid>
     <pubDate>Tue, 01 May 2018 15:17:00 +0800</pubDate>
     <itunes:duration>4470</itunes:duration>
-    <link>http://trekin.space/DR9/</link>
+    <link>http://localhost:4000/DR9/</link>
     <description>
 	<![CDATA[<p>当然是擅长整容了，对了还有什么都是他们的，比如罗慕兰黑科技之类。</p>
 
@@ -3926,10 +3926,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/30/2666870880262553606_ud.mp3" type="audio/mpeg" length="143106100" />
-    <guid isPermaLink="true">http://trekin.space/DR8/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR8/</guid>
     <pubDate>Mon, 30 Apr 2018 19:06:00 +0800</pubDate>
     <itunes:duration>3576</itunes:duration>
-    <link>http://trekin.space/DR8/</link>
+    <link>http://localhost:4000/DR8/</link>
     <description>
 	<![CDATA[<p>这集是发现号DIS1x09 "Into the Forest I Go" 的剧评，同时我们还对冬歇前的发现号做了回顾。</p>
 
@@ -3959,10 +3959,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/30/2666826311393228806_ud.mp3" type="audio/mpeg" length="227860915" />
-    <guid isPermaLink="true">http://trekin.space/DR7/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR7/</guid>
     <pubDate>Mon, 30 Apr 2018 13:17:00 +0800</pubDate>
     <itunes:duration>5695</itunes:duration>
-    <link>http://trekin.space/DR7/</link>
+    <link>http://localhost:4000/DR7/</link>
     <description>
 	<![CDATA[<p>本集为Discovery S01 E08 <a href="http://memory-alpha.wikia.com/wiki/Si_Vis_Pacem,_Para_Bellum_(episode)">Si Vis Pacem, Para Bellum</a>剧评，除了讨论了骗Saru炮的气态外星人动机，还讨论了克林贡的意图以及克林贡战争的走向，最后以《奥威尔号》话题结束。</p>
 
@@ -4054,10 +4054,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/29/2666655212776585222_ud.mp3" type="audio/mpeg" length="94526776" />
-    <guid isPermaLink="true">http://trekin.space/SP6/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP6/</guid>
     <pubDate>Sun, 29 Apr 2018 15:10:00 +0800</pubDate>
     <itunes:duration>2361</itunes:duration>
-    <link>http://trekin.space/SP6/</link>
+    <link>http://localhost:4000/SP6/</link>
     <description>
 	<![CDATA[<p>This supplemental episode brings you a discussion about how to do Star Trek role playing games in the future Trek'Dinner event. Trek'Dinner is a monthly dinner get-together self-organized by Trek fans in Beijing. Contact us if you want to join the table and meet some new and old friends who love Star Trek as you do.</p>
 
@@ -4113,10 +4113,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/29/2666648808986309638_ud.mp3" type="audio/mpeg" length="115167669" />
-    <guid isPermaLink="true">http://trekin.space/CM7/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM7/</guid>
     <pubDate>Sun, 29 Apr 2018 14:18:00 +0800</pubDate>
     <itunes:duration>2877</itunes:duration>
-    <link>http://trekin.space/CM7/</link>
+    <link>http://localhost:4000/CM7/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，跟我们一起按播放，边播边听。</p>
 
@@ -4144,10 +4144,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/03/26/2660408421221355526_ud.mp3" type="audio/mpeg" length="107264061" />
-    <guid isPermaLink="true">http://trekin.space/CM6/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM6/</guid>
     <pubDate>Mon, 26 Mar 2018 23:09:00 +0800</pubDate>
     <itunes:duration>2680</itunes:duration>
-    <link>http://trekin.space/CM6/</link>
+    <link>http://localhost:4000/CM6/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，跟我们一起按播放，边播边听。</p>
 
@@ -4177,10 +4177,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/03/25/2660182293339085830_ud.mp3" type="audio/mpeg" length="113871995" />
-    <guid isPermaLink="true">http://trekin.space/CM5/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM5/</guid>
     <pubDate>Sun, 25 Mar 2018 17:51:00 +0800</pubDate>
     <itunes:duration>2845</itunes:duration>
-    <link>http://trekin.space/CM5/</link>
+    <link>http://localhost:4000/CM5/</link>
     <description>
 	<![CDATA[<p>本期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，跟我们一起按播放，边播边听。</p>
 
@@ -4206,10 +4206,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/22/2654449972281814534_ud.mp3" type="audio/mpeg" length="97031383" />
-    <guid isPermaLink="true">http://trekin.space/CM4/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM4/</guid>
     <pubDate>Thu, 22 Feb 2018 20:25:00 +0800</pubDate>
     <itunes:duration>2874</itunes:duration>
-    <link>http://trekin.space/CM4/</link>
+    <link>http://localhost:4000/CM4/</link>
     <description>
 	<![CDATA[<p>这期节目是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，跟我们一起按播放，边播边听。</p>
 
@@ -4235,10 +4235,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/22/2654449819810458630_ud.mp3" type="audio/mpeg" length="97031383" />
-    <guid isPermaLink="true">http://trekin.space/CM3/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM3/</guid>
     <pubDate>Thu, 22 Feb 2018 20:22:00 +0800</pubDate>
     <itunes:duration>2874</itunes:duration>
-    <link>http://trekin.space/CM3/</link>
+    <link>http://localhost:4000/CM3/</link>
     <description>
 	<![CDATA[<p>这是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，跟我们一起按播放，边播边听。</p>
 
@@ -4264,10 +4264,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/22/2654449252874708998_ud.mp3" type="audio/mpeg" length="97031383" />
-    <guid isPermaLink="true">http://trekin.space/CM2/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM2/</guid>
     <pubDate>Thu, 22 Feb 2018 20:19:00 +0800</pubDate>
     <itunes:duration>2424</itunes:duration>
-    <link>http://trekin.space/CM2/</link>
+    <link>http://localhost:4000/CM2/</link>
     <description>
 	<![CDATA[<p>这是发现号的评论音轨，配合发现号重刷效果更佳。请在 CBS logo 刚消失黑屏的时候暂停，跟我们一起按播放，边播边听。</p>
 
@@ -4293,10 +4293,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/02/21/2654209570077486598_ud.mp3" type="audio/mpeg" length="105328918" />
-    <guid isPermaLink="true">http://trekin.space/CM1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/CM1/</guid>
     <pubDate>Wed, 21 Feb 2018 13:18:00 +0800</pubDate>
     <itunes:duration>2631</itunes:duration>
-    <link>http://trekin.space/CM1/</link>
+    <link>http://localhost:4000/CM1/</link>
     <description>
 	<![CDATA[<p>向各位船长们拜个年！我台小喇叭又开始广播了。</p>
 
@@ -4324,10 +4324,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/01/22/2648541804533031942_ud.mp3" type="audio/mpeg" length="151538435" />
-    <guid isPermaLink="true">http://trekin.space/DR6/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR6/</guid>
     <pubDate>Mon, 22 Jan 2018 00:15:00 +0800</pubDate>
     <itunes:duration>3787</itunes:duration>
-    <link>http://trekin.space/DR6/</link>
+    <link>http://localhost:4000/DR6/</link>
     <description>
 	<![CDATA[<p>本期为 Discovery S1 E07 Magic to Make the Sanest Man Go Mad 的剧评。本集讲述反复读档的游戏玩家 Harry Mudd 带着一本厚厚的《获利准则》回归的故事。</p>
 
@@ -4430,10 +4430,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/12/30/2644285367387771910_ud.mp3" type="audio/mpeg" length="170616180" />
-    <guid isPermaLink="true">http://trekin.space/DR5/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR5/</guid>
     <pubDate>Sat, 30 Dec 2017 01:38:00 +0800</pubDate>
     <itunes:duration>4264</itunes:duration>
-    <link>http://trekin.space/DR5/</link>
+    <link>http://localhost:4000/DR5/</link>
     <description>
 	<![CDATA[<p>本期讨论了 Star Trek: Discovery 第一季第 6 集 Lethe 的剧情。这集里，满脑子想的是武侠剧特效的瓦肯爸爸与 Michael 一定程度上达成和解，Lorca 船长是否是镜像来的仍然是谜。</p>
 
@@ -4473,10 +4473,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/10/23/2631825980794110470_ud.mp3" type="audio/mpeg" length="111267035" />
-    <guid isPermaLink="true">http://trekin.space/DR4/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR4/</guid>
     <pubDate>Mon, 23 Oct 2017 21:59:00 +0800</pubDate>
     <itunes:duration>2780</itunes:duration>
-    <link>http://trekin.space/DR4/</link>
+    <link>http://localhost:4000/DR4/</link>
     <description>
 	<![CDATA[<p>本期谈了第 5 集 Choose You Pain 的观后感，以及一些脑洞。</p>
 
@@ -4519,10 +4519,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/10/23/2631825615723934726_ud.mp3" type="audio/mpeg" length="166651853" />
-    <guid isPermaLink="true">http://trekin.space/DR3/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR3/</guid>
     <pubDate>Mon, 23 Oct 2017 21:54:00 +0800</pubDate>
     <itunes:duration>4164</itunes:duration>
-    <link>http://trekin.space/DR3/</link>
+    <link>http://localhost:4000/DR3/</link>
     <description>
 	<![CDATA[<p>本期是大开脑洞和不断跑偏的一期节目。大家一起讨论了对第四集The Butcher's Knife Cares Not for the Lamb's Cry（好长的标题）的看法。本集是双线并行制，讲了非常不克林贡的克林贡和非常黑暗的发现号。</p>
 
@@ -4576,10 +4576,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/10/21/2631406678169926662_hd.mp3" type="audio/mpeg" length="79522818" />
-    <guid isPermaLink="true">http://trekin.space/DR2/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR2/</guid>
     <pubDate>Sat, 21 Oct 2017 15:46:00 +0800</pubDate>
     <itunes:duration>4966</itunes:duration>
-    <link>http://trekin.space/DR2/</link>
+    <link>http://localhost:4000/DR2/</link>
     <description>
 	<![CDATA[<p>对发现号第3集 Context Is for Kings 的短剧评。</p>
 
@@ -4619,10 +4619,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/09/27/2626842983360929286_hd.mp3" type="audio/mpeg" length="38212572" />
-    <guid isPermaLink="true">http://trekin.space/DR1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/DR1/</guid>
     <pubDate>Wed, 27 Sep 2017 01:18:00 +0800</pubDate>
     <itunes:duration>2385</itunes:duration>
-    <link>http://trekin.space/DR1/</link>
+    <link>http://localhost:4000/DR1/</link>
     <description>
 	<![CDATA[<p>新开一个起名为DR(Discovery Review)的系列，以后每集新剧放出后我们尽量争取在第一时间带来剧评。</p>
 
@@ -4656,10 +4656,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/09/10/2623862507991457798_hd.mp3" type="audio/mpeg" length="26803146" />
-    <guid isPermaLink="true">http://trekin.space/SP5/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP5/</guid>
     <pubDate>Sun, 10 Sep 2017 23:45:00 +0800</pubDate>
     <itunes:duration>1671</itunes:duration>
-    <link>http://trekin.space/SP5/</link>
+    <link>http://localhost:4000/SP5/</link>
     <description>
 	<![CDATA[<p>本期节目是被beam到ST世界的 <a href="http://weibo.com/u/5013547255">瓦肯蔬菜汤</a>的 <a href="http://weibo.com/ttarticle/p/show?id=2309404149780203890094&amp;luicode=20000061&amp;lfid=4149780202421487&amp;featurecode=newtitle">作品</a>。</p>
 
@@ -4689,10 +4689,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/09/05/2622751346259896326_hd.mp3" type="audio/mpeg" length="49141389" />
-    <guid isPermaLink="true">http://trekin.space/46/</guid>
+    <guid isPermaLink="true">http://localhost:4000/46/</guid>
     <pubDate>Tue, 05 Sep 2017 00:19:00 +0800</pubDate>
     <itunes:duration>3068</itunes:duration>
-    <link>http://trekin.space/46/</link>
+    <link>http://localhost:4000/46/</link>
     <description>
 	<![CDATA[<p>本期是我们第一次做剧评节目，之所以选DS9, 4x17 "Accession" ，并没有什么原因。以后的节目中我们会尽量挑选那些成体系剧集来评论。</p>
 
@@ -4737,10 +4737,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/08/15/2619037537430536198_hd.mp3" type="audio/mpeg" length="33822755" />
-    <guid isPermaLink="true">http://trekin.space/45/</guid>
+    <guid isPermaLink="true">http://localhost:4000/45/</guid>
     <pubDate>Tue, 15 Aug 2017 23:48:00 +0800</pubDate>
     <itunes:duration>2110</itunes:duration>
-    <link>http://trekin.space/45/</link>
+    <link>http://localhost:4000/45/</link>
     <description>
 	<![CDATA[<p>震惊！红衫战损将纳入各船长KPI考核！知道真相的船长都哭了！</p>
 
@@ -4779,10 +4779,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/20/2602854397017519110_hd.mp3" type="audio/mpeg" length="32099529" />
-    <guid isPermaLink="true">http://trekin.space/44/</guid>
+    <guid isPermaLink="true">http://localhost:4000/44/</guid>
     <pubDate>Sat, 20 May 2017 18:35:00 +0800</pubDate>
     <itunes:duration>2002</itunes:duration>
-    <link>http://trekin.space/44/</link>
+    <link>http://localhost:4000/44/</link>
     <description>
 	<![CDATA[<p>本期为武汉 Star Trek Only 3.0 活动中，小伙伴们对「ST 给自己的生活带来了什么」的分享。</p>
 
@@ -4830,10 +4830,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/20/2602736452921467398_hd.mp3" type="audio/mpeg" length="53506136" />
-    <guid isPermaLink="true">http://trekin.space/43/</guid>
+    <guid isPermaLink="true">http://localhost:4000/43/</guid>
     <pubDate>Sat, 20 May 2017 03:16:00 +0800</pubDate>
     <itunes:duration>3340</itunes:duration>
-    <link>http://trekin.space/43/</link>
+    <link>http://localhost:4000/43/</link>
     <description>
 	<![CDATA[<p>瓦肯蔬菜汤分享了举办同好聚会 Star Trek Only 的经验，鼓励大家发现身边隐藏的同好，也鼓励大家积极自行组织粉丝活动。</p>
 
@@ -4865,10 +4865,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/20/2602717724716461574_hd.mp3" type="audio/mpeg" length="40409369" />
-    <guid isPermaLink="true">http://trekin.space/42/</guid>
+    <guid isPermaLink="true">http://localhost:4000/42/</guid>
     <pubDate>Sat, 20 May 2017 00:53:00 +0800</pubDate>
     <itunes:duration>2522</itunes:duration>
-    <link>http://trekin.space/42/</link>
+    <link>http://localhost:4000/42/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20170514，主播：深思|CrazyEMH</p>
 
@@ -4956,10 +4956,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/19/2602699608537372678_hd.mp3" type="audio/mpeg" length="37813009" />
-    <guid isPermaLink="true">http://trekin.space/41/</guid>
+    <guid isPermaLink="true">http://localhost:4000/41/</guid>
     <pubDate>Fri, 19 May 2017 22:36:00 +0800</pubDate>
     <itunes:duration>2360</itunes:duration>
-    <link>http://trekin.space/41/</link>
+    <link>http://localhost:4000/41/</link>
     <description>
 	<![CDATA[<p>一些关于曲速的科普。</p>
 
@@ -5026,10 +5026,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/05/2600101563498607622_hd.mp3" type="audio/mpeg" length="17150779" />
-    <guid isPermaLink="true">http://trekin.space/40/</guid>
+    <guid isPermaLink="true">http://localhost:4000/40/</guid>
     <pubDate>Fri, 05 May 2017 22:16:00 +0800</pubDate>
     <itunes:duration>1068</itunes:duration>
-    <link>http://trekin.space/40/</link>
+    <link>http://localhost:4000/40/</link>
     <description>
 	<![CDATA[<p>本期为武汉 Leonard Nimoy 逝世两周年纪念日活动时我台对一位星际迷航粉丝蓝衫的采访。问了ta如下问题：</p>
 
@@ -5064,10 +5064,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/05/04/2599920000199032326_hd.mp3" type="audio/mpeg" length="46731832" />
-    <guid isPermaLink="true">http://trekin.space/39/</guid>
+    <guid isPermaLink="true">http://localhost:4000/39/</guid>
     <pubDate>Thu, 04 May 2017 23:04:00 +0800</pubDate>
     <itunes:duration>2917</itunes:duration>
-    <link>http://trekin.space/39/</link>
+    <link>http://localhost:4000/39/</link>
     <description>
 	<![CDATA[<p>本期继续了前面讨论过的话题——星际迷航中的音乐。</p>
 
@@ -5183,10 +5183,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/04/04/2594176160039026694_hd.mp3" type="audio/mpeg" length="129874790" />
-    <guid isPermaLink="true">http://trekin.space/38/</guid>
+    <guid isPermaLink="true">http://localhost:4000/38/</guid>
     <pubDate>Mon, 03 Apr 2017 23:54:00 +0800</pubDate>
     <itunes:duration>8113</itunes:duration>
-    <link>http://trekin.space/38/</link>
+    <link>http://localhost:4000/38/</link>
     <description>
 	<![CDATA[<p>有没有好奇过为啥港台翻译都那么奇葩？本期我们与友台<a href="https://www.lizhi.fm/1316714/">「迷航英文教室」</a>串台联播，共同探讨那些奇葩的港台翻译。</p>
 
@@ -5472,10 +5472,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/04/03/2594169696113146374_hd.mp3" type="audio/mpeg" length="28519272" />
-    <guid isPermaLink="true">http://trekin.space/37/</guid>
+    <guid isPermaLink="true">http://localhost:4000/37/</guid>
     <pubDate>Mon, 03 Apr 2017 23:09:02 +0800</pubDate>
     <itunes:duration>1779</itunes:duration>
-    <link>http://trekin.space/37/</link>
+    <link>http://localhost:4000/37/</link>
     <description>
 	<![CDATA[<p>武汉 STO2.0 活动中有幸采访了参与活动的星际迷航粉们，这是采访录音。</p>
 
@@ -5530,10 +5530,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/03/03/2588246498131859462_hd.mp3" type="audio/mpeg" length="35329533" />
-    <guid isPermaLink="true">http://trekin.space/36/</guid>
+    <guid isPermaLink="true">http://localhost:4000/36/</guid>
     <pubDate>Fri, 03 Mar 2017 01:03:44 +0800</pubDate>
     <itunes:duration>2204</itunes:duration>
-    <link>http://trekin.space/36/</link>
+    <link>http://localhost:4000/36/</link>
     <description>
 	<![CDATA[<p>简单聊下VR、AR和全息甲板。</p>
 
@@ -5585,10 +5585,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/02/18/2585832799315435526_hd.mp3" type="audio/mpeg" length="60360235" />
-    <guid isPermaLink="true">http://trekin.space/35/</guid>
+    <guid isPermaLink="true">http://localhost:4000/35/</guid>
     <pubDate>Sat, 18 Feb 2017 01:14:28 +0800</pubDate>
     <itunes:duration>3769</itunes:duration>
-    <link>http://trekin.space/35/</link>
+    <link>http://localhost:4000/35/</link>
     <description>
 	<![CDATA[<p>星际迷航迷人的一点在于里面有非常多神奇的外星人，以后再有人说科幻里面所有外星人要么长的跟人一样，要么智力、能力和社会结构跟人一样，就甩给他这些外星人。本期是奇怪的外星人的不完整总结，更多的 strange new life forms and new civilizations 等着您去探索。</p>
 
@@ -5676,10 +5676,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/02/03/2583223179334222854_hd.mp3" type="audio/mpeg" length="6135507" />
-    <guid isPermaLink="true">http://trekin.space/SP4/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP4/</guid>
     <pubDate>Fri, 03 Feb 2017 11:36:43 +0800</pubDate>
     <itunes:duration>380</itunes:duration>
-    <link>http://trekin.space/SP4/</link>
+    <link>http://localhost:4000/SP4/</link>
     <description>
 	<![CDATA[<p>此处插播由 玖涼 主持的「星际迷航英文教室」播客的第一期节目，欢迎前去订阅。</p>
 
@@ -5772,10 +5772,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/27/2581873140118021126_hd.mp3" type="audio/mpeg" length="23468238" />
-    <guid isPermaLink="true">http://trekin.space/SP3/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP3/</guid>
     <pubDate>Fri, 27 Jan 2017 04:39:17 +0800</pubDate>
     <itunes:duration>1463</itunes:duration>
-    <link>http://trekin.space/SP3/</link>
+    <link>http://localhost:4000/SP3/</link>
     <description>
 	<![CDATA[<p>除夕前一夜，我们与听众们线上网聚唠嗑，这是其中一段录音。</p>
 
@@ -5801,10 +5801,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581294416896944646_hd.mp3" type="audio/mpeg" length="87320364" />
-    <guid isPermaLink="true">http://trekin.space/34/</guid>
+    <guid isPermaLink="true">http://localhost:4000/34/</guid>
     <pubDate>Tue, 24 Jan 2017 02:40:42 +0800</pubDate>
     <itunes:duration>5454</itunes:duration>
-    <link>http://trekin.space/34/</link>
+    <link>http://localhost:4000/34/</link>
     <description>
 	<![CDATA[<p>Da Han talked about the production stories of the 2nd episode of the "<em>Star Trek: Axiom"</em> fan film, "<em>Yorktown: A Time to Heal"</em>, starring <strong>George Takei</strong> and <strong>James Shigeta</strong>, and his thoughts and lessons learned during the failed production process working with producer Stan Woo. After that, we talked about the plot of the ongoing fan film "<em>TReK'd"</em> and our plans.</p>
 
@@ -5890,10 +5890,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/24/2581293772651849222_hd.mp3" type="audio/mpeg" length="83804921" />
-    <guid isPermaLink="true">http://trekin.space/33/</guid>
+    <guid isPermaLink="true">http://localhost:4000/33/</guid>
     <pubDate>Tue, 24 Jan 2017 01:51:52 +0800</pubDate>
     <itunes:duration>5234</itunes:duration>
-    <link>http://trekin.space/33/</link>
+    <link>http://localhost:4000/33/</link>
     <description>
 	<![CDATA[<p>Da Han and I finally had time to finish the interview we started months ago. In this Part 2 we continued the "drug" metaphor and talked about his stories of making one of the earliest fan films of Star Trek, "<em>The Quadroplastine Incident</em>", or, "<em>Yorktown: In Temporary Command</em>", and the episode 2 of this Yorktown series is on next episode of this podcast. Hope you enjoy.</p>
 
@@ -5954,10 +5954,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2017/01/22/2580901146069202950_hd.mp3" type="audio/mpeg" length="67526153" />
-    <guid isPermaLink="true">http://trekin.space/32/</guid>
+    <guid isPermaLink="true">http://localhost:4000/32/</guid>
     <pubDate>Sun, 22 Jan 2017 11:00:55 +0800</pubDate>
     <itunes:duration>4217</itunes:duration>
-    <link>http://trekin.space/32/</link>
+    <link>http://localhost:4000/32/</link>
     <description>
 	<![CDATA[<p>以我们一贯的催眠风格，作2016年最后的滚动字幕。</p>
 
@@ -6096,10 +6096,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575759486099408390_hd.mp3" type="audio/mpeg" length="73940565" />
-    <guid isPermaLink="true">http://trekin.space/31/</guid>
+    <guid isPermaLink="true">http://localhost:4000/31/</guid>
     <pubDate>Sun, 25 Dec 2016 17:49:00 +0800</pubDate>
     <itunes:duration>4618</itunes:duration>
-    <link>http://trekin.space/31/</link>
+    <link>http://localhost:4000/31/</link>
     <description>
 	<![CDATA[<p>想考星舰学院却不知道该学什么专业？收听时请查看 <a href="http://memory-alpha.wikia.com/wiki/Starfleet_Academy_courses">星联学院专业目录</a></p>
 
@@ -6155,10 +6155,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/12/25/2575712041742600710_hd.mp3" type="audio/mpeg" length="60830023" />
-    <guid isPermaLink="true">http://trekin.space/30/</guid>
+    <guid isPermaLink="true">http://localhost:4000/30/</guid>
     <pubDate>Sun, 25 Dec 2016 11:50:55 +0800</pubDate>
     <itunes:duration>3798</itunes:duration>
-    <link>http://trekin.space/30/</link>
+    <link>http://localhost:4000/30/</link>
     <description>
 	<![CDATA[<p>对上期节目追踪之后我们聊了一些近期的新闻，最后谈了下知道TOS、TNG年代也没有解决的校园霸凌问题。考虑到星际迷航粉有可能是班里的怪胎（偏见？），有必要对欺负与被欺负的孩子以及将来的家长们提个醒，将问题重视起来。至于解决之道，大家具体问题具体分析，注意技巧（比如Spock打架前就先将熊孩子推到一边单挑）。</p>
 
@@ -6217,10 +6217,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/26/2570258661637895174_hd.mp3" type="audio/mpeg" length="38849560" />
-    <guid isPermaLink="true">http://trekin.space/29/</guid>
+    <guid isPermaLink="true">http://localhost:4000/29/</guid>
     <pubDate>Sat, 26 Nov 2016 02:30:51 +0800</pubDate>
     <itunes:duration>2424</itunes:duration>
-    <link>http://trekin.space/29/</link>
+    <link>http://localhost:4000/29/</link>
     <description>
 	<![CDATA[<p>科普了超级月亮之后，我们讨论了在太空中被打坏引擎会不会往下掉的问题。</p>
 
@@ -6273,10 +6273,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/19/2569035858679031814_hd.mp3" type="audio/mpeg" length="58244936" />
-    <guid isPermaLink="true">http://trekin.space/28/</guid>
+    <guid isPermaLink="true">http://localhost:4000/28/</guid>
     <pubDate>Sat, 19 Nov 2016 07:59:58 +0800</pubDate>
     <itunes:duration>3637</itunes:duration>
-    <link>http://trekin.space/28/</link>
+    <link>http://localhost:4000/28/</link>
     <description>
 	<![CDATA[<p>这次聊了一些我们并不懂的东西——政治，肯定牵扯到派别问题，大家求同存异，欢迎反馈。</p>
 
@@ -6345,10 +6345,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567958801369761286_hd.mp3" type="audio/mpeg" length="51328159" />
-    <guid isPermaLink="true">http://trekin.space/27/</guid>
+    <guid isPermaLink="true">http://localhost:4000/27/</guid>
     <pubDate>Sun, 13 Nov 2016 04:55:36 +0800</pubDate>
     <itunes:duration>3204</itunes:duration>
-    <link>http://trekin.space/27/</link>
+    <link>http://localhost:4000/27/</link>
     <description>
 	<![CDATA[<p>上次讲到2016年在伯明翰举办的 Destination Star Trek Europe 的活动与参与嘉宾，本期节目为下节，玖凉豆浆机继续跟我们分享了这次 DST 中，粉丝们是怎么玩的，以及参加这次 DST 的感受。</p>
 
@@ -6382,10 +6382,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567957515027049478_hd.mp3" type="audio/mpeg" length="44113336" />
-    <guid isPermaLink="true">http://trekin.space/26/</guid>
+    <guid isPermaLink="true">http://localhost:4000/26/</guid>
     <pubDate>Sun, 13 Nov 2016 04:44:10 +0800</pubDate>
     <itunes:duration>2753</itunes:duration>
-    <link>http://trekin.space/26/</link>
+    <link>http://localhost:4000/26/</link>
     <description>
 	<![CDATA[<p>本期我们聊了我们是如何登上「做播客」这条船的？还科普了 iTunes Podcasts 的工作原理以及土。接着推荐了一些播客节目，最后我们还聊了未来的计划。本期无干货，且深思宿舍杂音较大，见谅。</p>
 
@@ -6445,10 +6445,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/11/13/2567953658143009286_hd.mp3" type="audio/mpeg" length="120297692" />
-    <guid isPermaLink="true">http://trekin.space/25/</guid>
+    <guid isPermaLink="true">http://localhost:4000/25/</guid>
     <pubDate>Sun, 13 Nov 2016 04:22:33 +0800</pubDate>
     <itunes:duration>7515</itunes:duration>
-    <link>http://trekin.space/25/</link>
+    <link>http://localhost:4000/25/</link>
     <description>
 	<![CDATA[<p>参加星际迷航大会是种什么样的体验？如何评价2016年在伯明翰举办的 Destination Star Trek Europe？来听听远在英国的玖凉豆浆机 boldly go 的故事吧。</p>
 
@@ -6578,10 +6578,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/16/2562778304155593222_hd.mp3" type="audio/mpeg" length="20437616" />
-    <guid isPermaLink="true">http://trekin.space/24/</guid>
+    <guid isPermaLink="true">http://localhost:4000/24/</guid>
     <pubDate>Sun, 16 Oct 2016 06:43:38 +0800</pubDate>
     <itunes:duration>1274</itunes:duration>
-    <link>http://trekin.space/24/</link>
+    <link>http://localhost:4000/24/</link>
     <description>
 	<![CDATA[<p>号外号外，我台已经马上一周年了，如果大家有什么话想对我们说的，可以通过以下渠道给我们反馈：</p>
 
@@ -6615,10 +6615,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/11/2561842366359169030_hd.mp3" type="audio/mpeg" length="11324501" />
-    <guid isPermaLink="true">http://trekin.space/23/</guid>
+    <guid isPermaLink="true">http://localhost:4000/23/</guid>
     <pubDate>Tue, 11 Oct 2016 05:39:35 +0800</pubDate>
     <itunes:duration>704</itunes:duration>
-    <link>http://trekin.space/23/</link>
+    <link>http://localhost:4000/23/</link>
     <description>
 	<![CDATA[<p>A short introduction of director Da Han. This is the first part of the interview. Hope you enjoy. Please wait for the second part.</p>
 
@@ -6652,10 +6652,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2018/04/03/2661883393665591814_ud.mp3" type="audio/mpeg" length="169395755" />
-    <guid isPermaLink="true">http://trekin.space/22/</guid>
+    <guid isPermaLink="true">http://localhost:4000/22/</guid>
     <pubDate>Tue, 11 Oct 2016 04:17:59 +0800</pubDate>
     <itunes:duration>4233</itunes:duration>
-    <link>http://trekin.space/22/</link>
+    <link>http://localhost:4000/22/</link>
     <description>
 	<![CDATA[<p>一直想聊星际迷航音乐，这次终于来了。大概介绍了一下电影电视的片头和主旋律，诸如星联国歌、The Inner Light、克林贡歌曲、还有歌剧爱好者EMH与Seven of Nine的合唱等等这种小曲子就没有统计在内，下次一定补。</p>
 
@@ -6722,10 +6722,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/06/2560891284507852294_hd.mp3" type="audio/mpeg" length="37230428" />
-    <guid isPermaLink="true">http://trekin.space/21/</guid>
+    <guid isPermaLink="true">http://localhost:4000/21/</guid>
     <pubDate>Thu, 06 Oct 2016 02:40:42 +0800</pubDate>
     <itunes:duration>2323</itunes:duration>
-    <link>http://trekin.space/21/</link>
+    <link>http://localhost:4000/21/</link>
     <description>
 	<![CDATA[<p>Adam Nimoy 拍的纪录片 <a href="http://fortheloveofspock.com/">For the Love of Spock</a> 的一点回顾。</p>
 
@@ -6757,10 +6757,10 @@ ST
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560014726778579462_hd.mp3" type="audio/mpeg" length="32670015" />
-    <guid isPermaLink="true">http://trekin.space/20/</guid>
+    <guid isPermaLink="true">http://localhost:4000/20/</guid>
     <pubDate>Sat, 01 Oct 2016 09:15:20 +0800</pubDate>
     <itunes:duration>2038</itunes:duration>
-    <link>http://trekin.space/20/</link>
+    <link>http://localhost:4000/20/</link>
     <description>
 	<![CDATA[<p>播出这么久大家的反馈终于可以凑一期听众反馈了，谢谢大家的来信。不管大家喜不喜欢我们的节目，我们都会再接再厉。本期主播们的情绪芯片已上线，或者说我们已经 out of our Vulcan minds 了。</p>
 
@@ -6785,10 +6785,10 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/10/01/2560010324437024774_hd.mp3" type="audio/mpeg" length="51005053" />
-    <guid isPermaLink="true">http://trekin.space/19/</guid>
+    <guid isPermaLink="true">http://localhost:4000/19/</guid>
     <pubDate>Sat, 01 Oct 2016 08:42:57 +0800</pubDate>
     <itunes:duration>3184</itunes:duration>
-    <link>http://trekin.space/19/</link>
+    <link>http://localhost:4000/19/</link>
     <description>
 	<![CDATA[<p>上期看完《星际迷航3超越星辰》谈了一点正面评价，这一期我们本来想好好地负面批判一番，结果整整扯了一期的致敬与情怀。</p>
 
@@ -6818,10 +6818,10 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/09/03/2554662379336495622_hd.mp3" type="audio/mpeg" length="51113326" />
-    <guid isPermaLink="true">http://trekin.space/18/</guid>
+    <guid isPermaLink="true">http://localhost:4000/18/</guid>
     <pubDate>Sat, 03 Sep 2016 01:02:38 +0800</pubDate>
     <itunes:duration>3191</itunes:duration>
-    <link>http://trekin.space/18/</link>
+    <link>http://localhost:4000/18/</link>
     <description>
 	<![CDATA[<p>燃爆宇宙的星际迷航终于等来了，我们聊了聊观感，剧透在10分10秒处开始。</p>
 
@@ -6855,10 +6855,10 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/08/21/2552354197340656646_hd.mp3" type="audio/mpeg" length="85518044" />
-    <guid isPermaLink="true">http://trekin.space/17/</guid>
+    <guid isPermaLink="true">http://localhost:4000/17/</guid>
     <pubDate>Sun, 21 Aug 2016 02:36:53 +0800</pubDate>
     <itunes:duration>5341</itunes:duration>
-    <link>http://trekin.space/17/</link>
+    <link>http://localhost:4000/17/</link>
     <description>
 	<![CDATA[<p>星际迷航3：超越星辰于9月2日中国大陆上映。作为最受欢迎的科幻作品之一，《星际迷航》以各类天马行空的想象、精密的世界观、大量的硬科幻元素和无微不至的人文主义关怀，赢得了地球各族人民的科幻爱好者的喜爱（外星人喜不喜欢我不知道）。</p>
 
@@ -6929,10 +6929,10 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/08/10/2550288904331919878_hd.mp3" type="audio/mpeg" length="79888560" />
-    <guid isPermaLink="true">http://trekin.space/16/</guid>
+    <guid isPermaLink="true">http://localhost:4000/16/</guid>
     <pubDate>Wed, 10 Aug 2016 11:20:13 +0800</pubDate>
     <itunes:duration>4989</itunes:duration>
-    <link>http://trekin.space/16/</link>
+    <link>http://localhost:4000/16/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20160808，嘉宾：喵航舰长，主播：CrazyEMH</p>
 
@@ -7030,10 +7030,10 @@ Email: subspacesignal@qq.com, all frequencies open.</p>
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/07/23/2546881676713134598_hd.mp3" type="audio/mpeg" length="64602089" />
-    <guid isPermaLink="true">http://trekin.space/15/</guid>
+    <guid isPermaLink="true">http://localhost:4000/15/</guid>
     <pubDate>Sat, 23 Jul 2016 02:35:18 +0800</pubDate>
     <itunes:duration>4034</itunes:duration>
-    <link>http://trekin.space/15/</link>
+    <link>http://localhost:4000/15/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20160718，主播：深思|CrazyEMH</p>
 
@@ -7105,10 +7105,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/07/09/2544440606277561862_hd.mp3" type="audio/mpeg" length="38139833" />
-    <guid isPermaLink="true">http://trekin.space/14/</guid>
+    <guid isPermaLink="true">http://localhost:4000/14/</guid>
     <pubDate>Sat, 09 Jul 2016 10:48:32 +0800</pubDate>
     <itunes:duration>2380</itunes:duration>
-    <link>http://trekin.space/14/</link>
+    <link>http://localhost:4000/14/</link>
     <description>
 	<![CDATA[<p>本期节目录制于20160704，主播：小猪|CrazyEMH</p>
 
@@ -7170,10 +7170,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/07/05/2543705546249526790_hd.mp3" type="audio/mpeg" length="45013190" />
-    <guid isPermaLink="true">http://trekin.space/13/</guid>
+    <guid isPermaLink="true">http://localhost:4000/13/</guid>
     <pubDate>Tue, 05 Jul 2016 11:41:43 +0800</pubDate>
     <itunes:duration>2810</itunes:duration>
-    <link>http://trekin.space/13/</link>
+    <link>http://localhost:4000/13/</link>
     <description>
 	<![CDATA[<p>我台迎来新主播深思。</p>
 
@@ -7248,10 +7248,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/06/26/2541958218262189062_hd.mp3" type="audio/mpeg" length="69389809" />
-    <guid isPermaLink="true">http://trekin.space/12/</guid>
+    <guid isPermaLink="true">http://localhost:4000/12/</guid>
     <pubDate>Sun, 26 Jun 2016 01:42:52 +0800</pubDate>
     <itunes:duration>4333</itunes:duration>
-    <link>http://trekin.space/12/</link>
+    <link>http://localhost:4000/12/</link>
     <description>
 	<![CDATA[<p>本台迎来新主播小猪</p>
 
@@ -7310,10 +7310,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/06/05/2538128638589655558_hd.mp3" type="audio/mpeg" length="29205961" />
-    <guid isPermaLink="true">http://trekin.space/11/</guid>
+    <guid isPermaLink="true">http://localhost:4000/11/</guid>
     <pubDate>Sun, 05 Jun 2016 10:27:14 +0800</pubDate>
     <itunes:duration>1822</itunes:duration>
-    <link>http://trekin.space/11/</link>
+    <link>http://localhost:4000/11/</link>
     <description>
 	<![CDATA[<p>好久不更新，想死你们啦~</p>
 
@@ -7348,10 +7348,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/05/17/2534568147209880582_hd.mp3" type="audio/mpeg" length="104155240" />
-    <guid isPermaLink="true">http://trekin.space/SP2/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP2/</guid>
     <pubDate>Tue, 17 May 2016 05:57:36 +0800</pubDate>
     <itunes:duration>6506</itunes:duration>
-    <link>http://trekin.space/SP2/</link>
+    <link>http://localhost:4000/SP2/</link>
     <description>
 	<![CDATA[<p>本期为未来事务管理局【时间们·时空追缉令】现场录音，由未来事务管理局授权发布。更多内容关注未来事务管理局旗下"不存在日报"，微信号：non-exist-FAA</p>
 
@@ -7448,10 +7448,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/04/05/2526639824411351046_hd.mp3" type="audio/mpeg" length="24060504" />
-    <guid isPermaLink="true">http://trekin.space/SP1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/SP1/</guid>
     <pubDate>Tue, 05 Apr 2016 12:55:19 +0800</pubDate>
     <itunes:duration>1500</itunes:duration>
-    <link>http://trekin.space/SP1/</link>
+    <link>http://localhost:4000/SP1/</link>
     <description>
 	<![CDATA[<p>Happy First Contact Day. 参考第6期 出现在星际迷航中的节日。</p>
 
@@ -7505,10 +7505,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/04/04/2526574377695464454_hd.mp3" type="audio/mpeg" length="27469367" />
-    <guid isPermaLink="true">http://trekin.space/10/</guid>
+    <guid isPermaLink="true">http://localhost:4000/10/</guid>
     <pubDate>Mon, 04 Apr 2016 03:48:19 +0800</pubDate>
     <itunes:duration>1713</itunes:duration>
-    <link>http://trekin.space/10/</link>
+    <link>http://localhost:4000/10/</link>
     <description>
 	<![CDATA[<p>本期话题：CBS/Paramount vs. Axanar案</p>
 
@@ -7538,10 +7538,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730306804965894_hd.mp3" type="audio/mpeg" length="16911692" />
-    <guid isPermaLink="true">http://trekin.space/9/</guid>
+    <guid isPermaLink="true">http://localhost:4000/9/</guid>
     <pubDate>Sat, 12 Mar 2016 10:31:39 +0800</pubDate>
     <itunes:duration>1053</itunes:duration>
-    <link>http://trekin.space/9/</link>
+    <link>http://localhost:4000/9/</link>
     <description>
 	<![CDATA[<p>本期主题春节闲聊，既然不能成为今年第一个向您问候新年好的播客，那就做最后一个。</p>
 
@@ -7563,10 +7563,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730274592710662_hd.mp3" type="audio/mpeg" length="49143852" />
-    <guid isPermaLink="true">http://trekin.space/8/</guid>
+    <guid isPermaLink="true">http://localhost:4000/8/</guid>
     <pubDate>Sat, 30 Jan 2016 10:38:55 +0800</pubDate>
     <itunes:duration>3068</itunes:duration>
-    <link>http://trekin.space/8/</link>
+    <link>http://localhost:4000/8/</link>
     <description>
 	<![CDATA[<p>嘉宾@桃媚</p>
 
@@ -7596,10 +7596,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730173660977158_hd.mp3" type="audio/mpeg" length="36609686" />
-    <guid isPermaLink="true">http://trekin.space/7/</guid>
+    <guid isPermaLink="true">http://localhost:4000/7/</guid>
     <pubDate>Mon, 11 Jan 2016 23:17:00 +0800</pubDate>
     <itunes:duration>2284</itunes:duration>
-    <link>http://trekin.space/7/</link>
+    <link>http://localhost:4000/7/</link>
     <description>
 	<![CDATA[<p>本期聊预告片</p>
 
@@ -7635,10 +7635,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/03/14/2522730102794016262_hd.mp3" type="audio/mpeg" length="39236964" />
-    <guid isPermaLink="true">http://trekin.space/6/</guid>
+    <guid isPermaLink="true">http://localhost:4000/6/</guid>
     <pubDate>Fri, 25 Dec 2015 17:37:00 +0800</pubDate>
     <itunes:duration>2449</itunes:duration>
-    <link>http://trekin.space/6/</link>
+    <link>http://localhost:4000/6/</link>
     <description>
 	<![CDATA[<p>03:00 易中天《费城风云》</p>
 
@@ -7690,10 +7690,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499281155511814_hd.mp3" type="audio/mpeg" length="81270665" />
-    <guid isPermaLink="true">http://trekin.space/5/</guid>
+    <guid isPermaLink="true">http://localhost:4000/5/</guid>
     <pubDate>Fri, 18 Dec 2015 23:34:00 +0800</pubDate>
     <itunes:duration>5076</itunes:duration>
-    <link>http://trekin.space/5/</link>
+    <link>http://localhost:4000/5/</link>
     <description>
 	<![CDATA[<p>00:00:30 无耻地求推广</p>
 
@@ -7721,10 +7721,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2016/01/30/2514499008425086982_hd.mp3" type="audio/mpeg" length="26923919" />
-    <guid isPermaLink="true">http://trekin.space/4/</guid>
+    <guid isPermaLink="true">http://localhost:4000/4/</guid>
     <pubDate>Sun, 22 Nov 2015 23:07:00 +0800</pubDate>
     <itunes:duration>1679</itunes:duration>
-    <link>http://trekin.space/4/</link>
+    <link>http://localhost:4000/4/</link>
     <description>
 	<![CDATA[<p>00:35 关于播客的闲fei聊hua</p>
 
@@ -7775,10 +7775,10 @@ Email: <a href="mailto:subspacesignal@qq.com">subspacesignal@qq.com</a>, All fre
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2015/11/21/2501514044535302150_hd.mp3" type="audio/mpeg" length="11295164" />
-    <guid isPermaLink="true">http://trekin.space/3/</guid>
+    <guid isPermaLink="true">http://localhost:4000/3/</guid>
     <pubDate>Sat, 31 Oct 2015 23:57:00 +0800</pubDate>
     <itunes:duration>702</itunes:duration>
-    <link>http://trekin.space/3/</link>
+    <link>http://localhost:4000/3/</link>
     <description>
 	<![CDATA[<p>本期主题继续上期：安利，分享我之前写过的一篇安利文章。</p>
 
@@ -7819,10 +7819,10 @@ People like Star Trek for different reasons. For me, the spirit of exploration a
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853508332578822_hd.mp3" type="audio/mpeg" length="10927996" />
-    <guid isPermaLink="true">http://trekin.space/2/</guid>
+    <guid isPermaLink="true">http://localhost:4000/2/</guid>
     <pubDate>Sat, 31 Oct 2015 21:09:00 +0800</pubDate>
     <itunes:duration>679</itunes:duration>
-    <link>http://trekin.space/2/</link>
+    <link>http://localhost:4000/2/</link>
     <description>
 	<![CDATA[<p>本期内容主要就是给大家安利这部史诗级长篇巨作Star Trek，入坑吧同志！</p>
 
@@ -7848,10 +7848,10 @@ People like Star Trek for different reasons. For me, the spirit of exploration a
     <itunes:author>迷于星际的船员们</itunes:author>
     <itunes:image href=""></itunes:image>
     <enclosure url="http://cdn.lizhi.fm/audio/2015/11/01/2497853493300192774_hd.mp3" type="audio/mpeg" length="6810762" />
-    <guid isPermaLink="true">http://trekin.space/1/</guid>
+    <guid isPermaLink="true">http://localhost:4000/1/</guid>
     <pubDate>Sat, 31 Oct 2015 16:04:00 +0800</pubDate>
     <itunes:duration>422</itunes:duration>
-    <link>http://trekin.space/1/</link>
+    <link>http://localhost:4000/1/</link>
     <description>
 	<![CDATA[<p>第一次录，本期主要就是絮叨一下，好像没主题。</p>
 
